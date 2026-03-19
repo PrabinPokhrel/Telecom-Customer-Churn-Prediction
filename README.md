@@ -60,7 +60,7 @@ Customer churn costs telecom companies millions every year. Acquiring a new cust
 
 ## 📁 Project Structure
 ```
-telecom-churn-prediction/
+Churn-prediction/
 │
 ├── data/
 │   └── Telco_customer_churn.xlsx
