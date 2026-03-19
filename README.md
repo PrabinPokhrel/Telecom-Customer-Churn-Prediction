@@ -207,13 +207,13 @@ Churn-prediction/
 ## 📊 Dashboard Preview
 
 ### Page 1 — Churn Overview
-Churn-prediction/Screenshots/Churn Overview.png
+![Churn Overview](Churn-prediction/Screenshots/Churn%20Overview.png)
 
 ### Page 2 — High Risk Customers
-![High Risk Customers](Screenshots/page2_high_risk.png)
+![High Risk Customers](Churn-prediction/Screenshots/HIgh%20Risk%20Customer.png)
 
 ### Page 3 — Retention Strategy
-![Retention Strategy](Screenshots/page3_retention.png)
+![Retention Strategy](Churn-prediction/Screenshots/Retention%20Strategy.png)
 
 ---
 
