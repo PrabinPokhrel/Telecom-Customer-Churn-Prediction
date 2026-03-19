@@ -229,7 +229,6 @@ cd Telecom-Customer-Churn-Prediction
 ### 2. Install required libraries
 ```
 pip install -r requirements.txt
-
 ```
 
 ### 3. Download the dataset
@@ -244,9 +243,9 @@ python Churn-prediction/churn_analysis.py
 
 ### 5. View the Power BI dashboard
 - Open `Churn-prediction/PowerBI/Dashboard.pbix` in Power BI Desktop
-- Power BI Desktop is free to download from microsoft.com
-- Refresh the data source if prompted
+- Power BI Desktop is free — download from microsoft.com
 
+  
 ## 👤 Author
 
 **Prabin Pokhrel**
