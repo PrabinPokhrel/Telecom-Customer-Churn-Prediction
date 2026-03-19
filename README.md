@@ -221,29 +221,29 @@ telecom-churn-prediction/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/PrabinPokhrel/telecom-churn-prediction.git
-cd telecom-churn-prediction
+git clone https://github.com/PrabinPokhrel/Telecom-Customer-Churn-Prediction.git
+cd Telecom-Customer-Churn-Prediction
 ```
 
-### 2. Install libraries
+### 2. Install required libraries
 ```
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-openpyxl
+pip install -r requirements.txt
 ```
 
-### 3. Download dataset
+### 3. Download the dataset
 - Go to https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-- Download Telco_customer_churn.xlsx
-- Place inside data/ folder
+- Download `Telco_customer_churn.xlsx`
+- Place it inside the `Churn-prediction/data/` folder
 
-### 4. Run analysis
+### 4. Run the analysis
 ```
-python churn_analysis.py
+python Churn-prediction/churn_analysis.py
 ```
+
+### 5. View the dashboard
+- Open `Churn-prediction/PowerBI/Dashboard.pbix` in Power BI Desktop (free)
+- All charts and predictions will load automatically
+
 ## 👤 Author
 
 **Prabin Pokhrel**
