@@ -79,9 +79,9 @@ telecom-churn-prediction/
 │   └── 09_feature_importance.png
 │
 ├── Screenshots/
-│   ├── page1_churn_overview.png
-│   ├── page2_high_risk.png
-│   └── page3_retention.png
+│   ├── churn overview.png
+│   ├── high risk.png
+│   └── retention.strategy.png
 │
 ├── PowerBI/
 │   └── Dashboard.pbix
