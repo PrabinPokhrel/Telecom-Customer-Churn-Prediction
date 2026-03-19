@@ -240,10 +240,20 @@ pip install -r requirements.txt
 python Churn-prediction/churn_analysis.py
 ```
 
-### 5. View the dashboard
-- Open `Churn-prediction/PowerBI/Dashboard.pbix` in Power BI Desktop (free)
-- All charts and predictions will load automatically
+### 5. View the Power BI dashboard
+- Open `Churn-prediction/PowerBI/Dashboard.pbix` in Power BI Desktop
+- Power BI Desktop is free to download from microsoft.com
+- Refresh the data source if prompted
 
+## 👤 Author
+
+**Prabin Pokhrel**
+Master's in Business Intelligence — Dalarna University
+- GitHub: [@PrabinPokhrel](https://github.com/PrabinPokhrel)
+
+---
+
+*⭐ If you found this project helpful, please give it a star!*
 ## 👤 Author
 
 **Prabin Pokhrel**
