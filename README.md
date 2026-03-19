@@ -20,7 +20,7 @@
 - [ML Model Results](#-ml-model-results)
 - [Business Recommendations](#-business-recommendations)
 - [Dashboard Preview](#-dashboard-preview)
-- [How to Run](#-How to Run)
+- [How to Run](#️-how-to-run)
 
 ---
 
