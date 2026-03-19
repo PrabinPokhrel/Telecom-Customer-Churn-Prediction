@@ -207,7 +207,7 @@ Churn-prediction/
 ## 📊 Dashboard Preview
 
 ### Page 1 — Churn Overview
-![Churn Overview](Churn-prediction/Screenshots/Churn Overview.png)
+Churn-prediction/Screenshots/Churn Overview.png
 
 ### Page 2 — High Risk Customers
 ![High Risk Customers](Screenshots/page2_high_risk.png)
