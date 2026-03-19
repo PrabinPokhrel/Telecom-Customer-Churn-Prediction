@@ -254,12 +254,4 @@ Master's in Business Intelligence — Dalarna University
 ---
 
 *⭐ If you found this project helpful, please give it a star!*
-## 👤 Author
 
-**Prabin Pokhrel**
-
-Master's in Business Intelligence — Dalarna University
-- GitHub: [@PrabinPokhrel](https://github.com/PrabinPokhrel)
----
-
-*⭐ If you found this project helpful, please give it a star!*
