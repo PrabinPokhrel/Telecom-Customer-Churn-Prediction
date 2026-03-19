@@ -245,11 +245,6 @@ openpyxl
 python churn_analysis.py
 ```
 
-### 5. View dashboard
-- Open PowerBI/Dashboard.pbix in Power BI Desktop
-
----
-
 ## 👤 Author
 
 **Prabin Pokhrel**
