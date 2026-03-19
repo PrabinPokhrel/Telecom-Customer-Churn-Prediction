@@ -1,0 +1,1207 @@
+﻿CustomerID,Gender,Senior Citizen,Partner,Dependents,Tenure Months,Contract,Internet Service,Tech Support,Online Security,Monthly Charges,Total Charges,Payment Method,Churn Label,Predicted_Churn,Churn_Probability,Risk_Level
+8098-TDCBU,Female,,Yes,No,42,Two year,No,No internet service,No internet service,25.25,1108.2,Electronic check,No,0,3,Low Risk
+9388-ZEYVT,Male,,No,No,43,One year,DSL,Yes,No,44.15,1931.3,Electronic check,No,0,12,Low Risk
+1818-ESQMW,Female,,No,No,27,Month-to-month,Fiber optic,Yes,No,89.2,2383.6,Electronic check,No,1,57,Medium Risk
+2065-MMKGR,Female,,No,No,29,One year,DSL,No,No,71,2080.1,Credit card (automatic),No,0,14,Low Risk
+1178-PZGAB,Female,,No,No,19,One year,No,No internet service,No internet service,20.25,383.65,Credit card (automatic),No,0,13,Low Risk
+8383-SGHJU,Female,,No,No,33,One year,DSL,Yes,Yes,59.4,1952.8,Electronic check,No,0,3,Low Risk
+0378-TOVMS,Female,,No,No,3,Month-to-month,Fiber optic,Yes,No,85.8,272.2,Electronic check,Yes,1,55,Medium Risk
+9442-JTWDL,Female,,No,No,11,One year,No,No internet service,No internet service,20.05,237.7,Credit card (automatic),No,0,2,Low Risk
+5378-IKEEG,Female,,No,No,1,Month-to-month,DSL,No,No,35.75,35.75,Electronic check,Yes,1,98,High Risk
+9904-EHEVJ,Female,,Yes,Yes,32,Month-to-month,Fiber optic,No,No,91.35,2896.55,Mailed check,No,0,4,Low Risk
+8510-TMWYB,Female,,Yes,Yes,54,Two year,DSL,No,No,59.8,3246.45,Bank transfer (automatic),No,0,1,Low Risk
+4524-QCSSM,Male,,No,No,26,Month-to-month,DSL,No,Yes,44.65,1156.55,Bank transfer (automatic),No,0,26,Low Risk
+7799-LGRDP,Female,,No,No,43,Two year,No,No internet service,No internet service,25.7,1188.2,Credit card (automatic),No,0,5,Low Risk
+9412-GHEEC,Male,,No,No,40,Month-to-month,Fiber optic,Yes,No,104.8,4131.95,Bank transfer (automatic),Yes,0,23,Low Risk
+5329-KRDTM,Male,,Yes,No,72,Two year,DSL,Yes,No,77.35,5396.25,Credit card (automatic),No,0,2,Low Risk
+6380-ARCEH,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.2,20.2,Mailed check,No,0,18.4,Low Risk
+6032-IGALN,Female,,No,No,1,Month-to-month,DSL,No,No,25.1,25.1,Mailed check,Yes,0,36,Medium Risk
+7299-GNVPL,Female,,Yes,Yes,23,Month-to-month,Fiber optic,Yes,Yes,84.4,1936.85,Mailed check,No,0,4,Low Risk
+1196-AMORA,Male,,No,No,7,Month-to-month,Fiber optic,No,No,73.6,520,Electronic check,Yes,1,64,High Risk
+2402-TAIRZ,Female,,No,No,37,One year,Fiber optic,No,No,80.05,3019.1,Electronic check,No,0,14,Low Risk
+9391-TTOYH,Female,,No,No,23,Month-to-month,No,No internet service,No internet service,19.5,470.2,Mailed check,No,0,4,Low Risk
+8945-GRKHX,Female,,No,No,1,Month-to-month,Fiber optic,No,No,78.65,78.65,Electronic check,Yes,1,100,High Risk
+0315-LVCRK,Male,,No,No,11,Month-to-month,Fiber optic,No,No,84.8,888.75,Electronic check,No,0,47,Medium Risk
+9172-ANCRX,Female,,No,No,10,Month-to-month,Fiber optic,No,Yes,98.7,973.25,Electronic check,Yes,1,87,High Risk
+7795-CFOCW,Male,,No,No,45,One year,DSL,Yes,Yes,42.3,1840.75,Bank transfer (automatic),No,0,6,Low Risk
+7208-PSIHR,Female,,Yes,No,70,Two year,Fiber optic,Yes,No,104.3,7188.5,Bank transfer (automatic),No,0,24,Low Risk
+7995-ZHHNZ,Male,,Yes,No,42,One year,DSL,No,Yes,56.1,2386.85,Credit card (automatic),No,0,1,Low Risk
+9522-BNTHX,Female,,No,No,34,Month-to-month,DSL,No,No,56.25,1765.95,Electronic check,No,0,30,Low Risk
+0484-FFVBJ,Male,,No,No,32,One year,DSL,No,No,64.85,2010.95,Bank transfer (automatic),No,0,8,Low Risk
+9837-FWLCH,Male,,Yes,Yes,12,Month-to-month,No,No internet service,No internet service,19.2,239,Electronic check,No,0,49,Medium Risk
+9944-HKVVB,Female,,No,No,3,Month-to-month,Fiber optic,No,No,95.1,307.4,Electronic check,Yes,1,71,High Risk
+0440-QEXBZ,Female,,No,No,44,Month-to-month,DSL,No,No,50.15,2139.1,Mailed check,No,0,7,Low Risk
+7251-XFOIL,Female,,No,No,61,Month-to-month,Fiber optic,No,No,89.2,5500.6,Mailed check,No,0,15,Low Risk
+9339-FIIJL,Male,,Yes,No,72,Two year,DSL,Yes,No,85.95,6151.9,Bank transfer (automatic),No,0,1,Low Risk
+4361-JEIVL,Male,,No,Yes,1,Month-to-month,DSL,No,No,44.4,44.4,Electronic check,Yes,1,60,Medium Risk
+6633-MPWBS,Male,,No,No,5,Month-to-month,DSL,Yes,No,49.2,216.9,Electronic check,Yes,0,21,Low Risk
+3481-JHUZH,Male,,Yes,No,41,Month-to-month,Fiber optic,No,No,80.25,3439,Electronic check,No,1,60,Medium Risk
+8625-AZYZY,Male,,Yes,No,24,Month-to-month,Fiber optic,No,No,104.65,2542.45,Electronic check,Yes,1,75,High Risk
+4877-EVATK,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20,20,Mailed check,Yes,0,5.9,Low Risk
+4695-WJZUE,Female,,No,No,2,Month-to-month,Fiber optic,No,No,88.55,179.25,Electronic check,Yes,1,94,High Risk
+6807-SIWJI,Male,,No,No,38,One year,Fiber optic,No,Yes,104.85,3887.25,Electronic check,No,0,23,Low Risk
+4140-WJAWW,Female,,No,No,5,Month-to-month,No,No internet service,No internet service,19.85,108.05,Credit card (automatic),Yes,0,4,Low Risk
+1577-HKTFG,Female,,Yes,No,30,Month-to-month,No,No internet service,No internet service,19.65,655.85,Bank transfer (automatic),Yes,0,2,Low Risk
+1228-FZFRV,Male,,Yes,No,50,Month-to-month,Fiber optic,No,Yes,105.95,5341.8,Credit card (automatic),Yes,0,31,Medium Risk
+6711-FLDFB,Female,,No,No,7,Month-to-month,Fiber optic,No,No,74.9,541.15,Electronic check,Yes,0,31,Medium Risk
+7727-SHVZV,Female,,No,No,9,Month-to-month,No,No internet service,No internet service,19.5,150.35,Bank transfer (automatic),No,0,42,Medium Risk
+5982-PSMKW,Female,,Yes,Yes,23,Two year,DSL,Yes,Yes,91.1,2198.3,Credit card (automatic),No,0,4,Low Risk
+0731-EBJQB,Female,,Yes,No,52,One year,No,No internet service,No internet service,20.4,1090.65,Electronic check,No,0,13,Low Risk
+8861-HGGKB,Female,,No,No,10,Month-to-month,Fiber optic,No,No,86.45,830.85,Electronic check,Yes,0,43,Medium Risk
+6599-GZWCM,Female,,No,No,13,One year,Fiber optic,No,No,74.65,966.25,Mailed check,No,0,31,Medium Risk
+8777-PVYGU,Female,,Yes,No,52,One year,DSL,No,Yes,64.3,3410.6,Mailed check,No,0,2,Low Risk
+6078-VESFR,Male,,Yes,No,13,Month-to-month,Fiber optic,No,No,70.45,849.1,Bank transfer (automatic),No,1,52,Medium Risk
+9501-UKKNL,Male,,No,No,59,Month-to-month,DSL,Yes,No,51.7,3005.8,Electronic check,No,0,12,Low Risk
+1271-UODNO,Male,,No,No,39,Two year,DSL,Yes,No,53.85,2200.7,Credit card (automatic),No,0,7,Low Risk
+0867-MKZVY,Female,,Yes,Yes,20,Month-to-month,Fiber optic,No,Yes,82.4,1592.35,Electronic check,Yes,0,11,Low Risk
+1029-QFBEN,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,19.55,19.55,Mailed check,Yes,0,3,Low Risk
+5324-KTGCG,Male,,Yes,No,71,One year,No,No internet service,No internet service,20.85,1539.75,Electronic check,No,0,7,Low Risk
+9506-UXUSK,Male,,No,No,13,Month-to-month,Fiber optic,No,No,70.15,931.75,Electronic check,No,1,66,High Risk
+1702-CCFNJ,Male,,Yes,No,52,Month-to-month,DSL,Yes,No,61.35,3169.55,Bank transfer (automatic),No,0,10,Low Risk
+6620-HVDUJ,Male,,No,No,24,Month-to-month,DSL,Yes,Yes,60.45,1440.75,Bank transfer (automatic),No,0,4,Low Risk
+4713-ZBURT,Male,,No,Yes,45,Two year,Fiber optic,No,No,99.7,4634.35,Bank transfer (automatic),No,0,4,Low Risk
+9555-SAHUZ,Female,,Yes,Yes,38,Month-to-month,DSL,No,Yes,54.5,2076.05,Electronic check,No,0,5,Low Risk
+5922-ABDVO,Female,,Yes,No,19,Month-to-month,Fiber optic,No,No,89.65,1761.05,Mailed check,Yes,1,57,Medium Risk
+0455-ENTCR,Male,,Yes,No,66,Two year,DSL,Yes,Yes,85.25,5538.35,Electronic check,No,0,1,Low Risk
+7691-XVTZH,Female,,Yes,No,68,Two year,Fiber optic,No,No,89.95,5974.3,Bank transfer (automatic),No,0,7,Low Risk
+9821-POOTN,Male,,Yes,No,35,Month-to-month,Fiber optic,No,No,75.2,2576.2,Electronic check,Yes,1,54,Medium Risk
+2325-NBPZG,Female,,No,No,3,Month-to-month,Fiber optic,No,Yes,74.55,233.65,Electronic check,No,1,57,Medium Risk
+0674-EYYZV,Female,,No,No,1,Month-to-month,DSL,No,No,54.65,54.65,Electronic check,No,1,88,High Risk
+5219-YIPTK,Female,,Yes,No,33,Month-to-month,Fiber optic,No,No,104.4,3409.6,Electronic check,Yes,1,51,Medium Risk
+6599-CEBNN,Female,,No,No,34,Month-to-month,Fiber optic,No,No,73.95,2524.45,Credit card (automatic),Yes,0,48,Medium Risk
+2368-GAKKQ,Female,,No,No,70,Two year,Fiber optic,Yes,Yes,113.65,7939.25,Bank transfer (automatic),No,0,8,Low Risk
+9190-MFJLN,Male,,No,No,19,Month-to-month,Fiber optic,No,No,95.9,1777.9,Credit card (automatic),Yes,1,55,Medium Risk
+6551-ZCOTS,Male,,No,No,33,One year,No,No internet service,No internet service,24.9,847.8,Bank transfer (automatic),No,0,4,Low Risk
+6173-ITPWD,Male,,Yes,No,47,Month-to-month,Fiber optic,No,No,83.35,4065,Bank transfer (automatic),Yes,1,58,Medium Risk
+3128-YOVTD,Female,,Yes,Yes,51,Month-to-month,Fiber optic,No,Yes,79.15,4018.55,Bank transfer (automatic),No,0,11,Low Risk
+7409-JURKQ,Female,,Yes,No,53,One year,Fiber optic,Yes,No,111.8,5809.75,Bank transfer (automatic),No,0,31,Medium Risk
+1091-SOZGA,Female,,Yes,No,56,One year,Fiber optic,No,No,99.8,5515.45,Credit card (automatic),No,0,35,Medium Risk
+7000-WCEVQ,Female,,No,No,20,Month-to-month,DSL,No,No,61.6,1174.35,Mailed check,Yes,0,23,Low Risk
+7663-CUXZB,Male,,Yes,No,59,Two year,Fiber optic,Yes,Yes,113.75,6561.25,Electronic check,No,0,16,Low Risk
+7825-ECJRF,Female,,No,Yes,19,Month-to-month,Fiber optic,Yes,Yes,106.6,1934.45,Electronic check,Yes,0,24,Low Risk
+6513-EECDB,Male,,Yes,No,1,Month-to-month,Fiber optic,No,No,73.55,73.55,Electronic check,Yes,1,93,High Risk
+6682-VCIXC,Female,,Yes,No,43,One year,DSL,Yes,Yes,51.25,2151.6,Bank transfer (automatic),No,0,7,Low Risk
+9606-PBKBQ,Male,,Yes,No,32,Month-to-month,Fiber optic,No,No,85,2642.05,Electronic check,Yes,1,91,High Risk
+9033-EOXWV,Female,,No,No,12,One year,DSL,Yes,No,74.05,872.65,Mailed check,Yes,0,13,Low Risk
+2207-QPJED,Female,,Yes,No,37,Month-to-month,Fiber optic,Yes,No,90,3371.75,Electronic check,No,0,26,Low Risk
+8406-LNMHF,Male,,Yes,No,59,One year,Fiber optic,No,Yes,82.95,4903.15,Credit card (automatic),No,0,9,Low Risk
+6086-ESGRL,Female,,No,No,1,Month-to-month,Fiber optic,No,No,80.15,80.15,Credit card (automatic),Yes,1,90,High Risk
+3486-NPGST,Female,,No,No,36,One year,No,No internet service,No internet service,19.55,620.75,Mailed check,No,0,1,Low Risk
+8903-XEBGX,Male,,No,Yes,2,Month-to-month,DSL,No,No,55.3,108.65,Electronic check,No,0,47,Medium Risk
+2645-QTLMB,Male,,No,No,7,Month-to-month,Fiber optic,No,No,94.25,669,Electronic check,Yes,1,66,High Risk
+3714-JTVOV,Female,,Yes,No,42,Month-to-month,Fiber optic,No,Yes,74.15,3229.4,Credit card (automatic),Yes,0,42,Medium Risk
+5599-HVLTW,Female,,No,No,14,Month-to-month,Fiber optic,No,No,80.35,1058.1,Bank transfer (automatic),No,1,62,High Risk
+5663-QBGIS,Male,,Yes,No,72,Two year,Fiber optic,No,No,98.35,6929.4,Bank transfer (automatic),No,0,10,Low Risk
+0015-UOCOJ,Female,,No,No,7,Month-to-month,DSL,No,Yes,48.2,340.35,Electronic check,No,0,43,Medium Risk
+7998-ZLXWN,Female,,Yes,No,15,Month-to-month,No,No internet service,No internet service,20.45,330.8,Credit card (automatic),No,0,13,Low Risk
+1981-INRFU,Female,,No,No,2,Month-to-month,Fiber optic,No,No,79.75,164.5,Electronic check,Yes,1,60,Medium Risk
+3799-ISUZQ,Male,,Yes,No,7,Month-to-month,Fiber optic,No,No,69.95,529.5,Bank transfer (automatic),Yes,0,47,Medium Risk
+6650-VJONK,Male,,No,No,1,Month-to-month,DSL,No,No,43.85,43.85,Bank transfer (automatic),No,0,29,Low Risk
+4102-HLENU,Female,,Yes,No,67,Two year,DSL,No,Yes,65.65,4322.85,Mailed check,No,0,2,Low Risk
+4193-ORFCL,Female,,No,No,1,Month-to-month,DSL,No,No,45.1,45.1,Mailed check,Yes,1,74,High Risk
+1899-VXWXM,Male,,No,No,48,One year,Fiber optic,No,No,106.1,5082.8,Credit card (automatic),Yes,0,23,Low Risk
+9770-KXGQU,Female,,No,No,53,One year,Fiber optic,No,Yes,98.6,5311.85,Mailed check,No,0,17,Low Risk
+0639-TSIQW,Female,,No,No,67,Month-to-month,Fiber optic,No,Yes,102.95,6886.25,Credit card (automatic),Yes,0,24,Low Risk
+3158-MOERK,Female,,No,No,2,Month-to-month,Fiber optic,No,No,96,174.8,Electronic check,Yes,1,90,High Risk
+7252-NTGSS,Female,,No,No,1,Month-to-month,DSL,No,No,45.15,45.15,Mailed check,No,1,62,High Risk
+6583-SZVGP,Male,,No,No,48,Two year,Fiber optic,No,No,108.1,5067.45,Bank transfer (automatic),No,0,26,Low Risk
+9961-JBNMK,Male,,No,No,21,Month-to-month,Fiber optic,No,No,96.8,2030.3,Bank transfer (automatic),Yes,0,38,Medium Risk
+8058-JMEQO,Female,,No,No,9,Month-to-month,Fiber optic,No,No,84.45,762.5,Electronic check,Yes,1,91,High Risk
+1095-JUDTC,Female,,No,No,47,Month-to-month,Fiber optic,Yes,No,95.05,4504.55,Electronic check,Yes,0,27,Low Risk
+1670-SVOWZ,Female,,Yes,No,14,Month-to-month,Fiber optic,Yes,No,89.65,1208.35,Credit card (automatic),Yes,1,63,High Risk
+4906-ZHGPK,Male,,Yes,No,54,One year,DSL,Yes,No,70.7,3770,Electronic check,No,0,8,Low Risk
+7964-VEXDG,Male,,No,Yes,21,Month-to-month,Fiber optic,No,Yes,80.35,1747.2,Electronic check,No,0,20,Low Risk
+3186-BAXNB,Female,,No,No,1,Month-to-month,Fiber optic,Yes,No,91.7,91.7,Electronic check,Yes,1,68,High Risk
+5844-QVTAT,Female,,Yes,No,33,One year,DSL,No,Yes,58.45,1955.4,Mailed check,No,0,12,Low Risk
+8990-YOZLV,Female,,No,No,69,Two year,DSL,Yes,Yes,66.9,4577.9,Mailed check,No,0,1,Low Risk
+1707-HABPF,Female,,No,No,46,One year,Fiber optic,No,No,91.3,4126.35,Bank transfer (automatic),No,0,6,Low Risk
+6784-XYJAE,Female,,No,No,36,One year,DSL,No,No,55.8,1941.5,Electronic check,No,0,8,Low Risk
+1013-QCWAM,Female,,Yes,No,66,Month-to-month,Fiber optic,No,No,100.8,6690.75,Electronic check,No,1,65,High Risk
+2719-BDAQO,Male,,No,No,17,Month-to-month,Fiber optic,No,Yes,93.85,1625.65,Electronic check,Yes,1,59,Medium Risk
+3808-HFKDE,Female,,No,No,20,Month-to-month,DSL,No,No,44.35,927.15,Electronic check,No,0,35,Medium Risk
+7028-DVOIQ,Male,,No,No,35,Month-to-month,Fiber optic,No,No,99.05,3395.8,Electronic check,Yes,1,71,High Risk
+5318-IXUZF,Female,,No,No,2,Month-to-month,Fiber optic,No,No,87.15,183.75,Bank transfer (automatic),Yes,1,56,Medium Risk
+5440-VHLUL,Male,,No,No,69,One year,Fiber optic,Yes,No,105.2,7386.05,Bank transfer (automatic),No,1,59,Medium Risk
+3391-JSQEW,Male,,Yes,No,40,Month-to-month,DSL,No,No,50.15,2058.5,Mailed check,No,0,11,Low Risk
+5701-GUXDC,Female,,Yes,No,26,One year,DSL,No,Yes,35.4,978.6,Credit card (automatic),No,0,4,Low Risk
+0620-XEFWH,Male,,Yes,Yes,4,Month-to-month,No,No internet service,No internet service,18.85,84.2,Mailed check,No,0,12,Low Risk
+5248-KWLAR,Male,,Yes,No,71,Two year,DSL,Yes,Yes,90.35,6325.25,Electronic check,No,0,1,Low Risk
+7563-BIUPC,Male,,No,No,5,Month-to-month,Fiber optic,No,No,80.6,415.55,Electronic check,Yes,0,42,Medium Risk
+7319-VENRZ,Male,,No,No,7,Month-to-month,DSL,Yes,No,64.3,445.95,Bank transfer (automatic),No,0,23,Low Risk
+3173-NVMPX,Female,,Yes,Yes,9,Month-to-month,DSL,No,No,55.3,501.2,Mailed check,No,0,10,Low Risk
+2925-MXLSX,Female,,No,No,30,One year,DSL,No,No,68.95,2038.7,Credit card (automatic),No,0,14,Low Risk
+1444-VVSGW,Male,,Yes,No,70,One year,Fiber optic,Yes,Yes,115.65,7968.85,Credit card (automatic),Yes,0,8,Low Risk
+1740-CSDJP,Male,,No,No,1,Month-to-month,DSL,No,No,35.25,35.25,Bank transfer (automatic),Yes,1,64,High Risk
+3914-FDRHP,Male,,No,No,9,Month-to-month,Fiber optic,Yes,No,86.25,770.5,Electronic check,No,1,75,High Risk
+3165-HDOEW,Male,,Yes,No,1,Month-to-month,DSL,No,No,45.85,45.85,Mailed check,Yes,1,55.4,Medium Risk
+2812-SFXMJ,Male,,No,Yes,1,Month-to-month,No,No internet service,No internet service,20.05,20.05,Mailed check,No,0,35.2,Medium Risk
+7153-CHRBV,Female,,Yes,Yes,57,One year,DSL,Yes,Yes,59.3,3274.35,Mailed check,No,0,3,Low Risk
+6728-VOIFY,Female,,Yes,No,63,One year,Fiber optic,No,No,96,6109.75,Electronic check,No,0,34,Medium Risk
+7932-WPTDS,Female,,Yes,No,1,Month-to-month,DSL,No,No,24.8,24.8,Electronic check,Yes,1,90,High Risk
+7750-EYXWZ,Female,,No,No,12,One year,DSL,Yes,No,60.65,743.3,Electronic check,No,0,11,Low Risk
+4872-JCVCA,Female,,Yes,No,71,Two year,DSL,Yes,Yes,47.6,3377.8,Bank transfer (automatic),No,0,1,Low Risk
+4450-DLLMH,Male,,No,No,2,Month-to-month,Fiber optic,No,No,71.3,157.75,Credit card (automatic),No,1,75,High Risk
+1536-YHDOE,Male,,Yes,Yes,17,One year,DSL,Yes,Yes,62.1,1096.65,Mailed check,No,0,5,Low Risk
+7908-QCBCA,Female,,Yes,No,1,Month-to-month,Fiber optic,No,No,69.4,69.4,Mailed check,Yes,1,100,High Risk
+6353-BRMMA,Female,,Yes,Yes,54,Month-to-month,Fiber optic,No,Yes,104.1,5645.8,Bank transfer (automatic),No,0,21,Low Risk
+7410-OIEDU,Male,,No,No,10,Month-to-month,Fiber optic,No,Yes,79.85,887.35,Mailed check,No,0,39,Medium Risk
+4282-YMKNA,Female,,No,No,9,Month-to-month,Fiber optic,No,No,74.75,706.6,Electronic check,Yes,0,22,Low Risk
+4619-EVPHY,Female,,Yes,No,20,One year,Fiber optic,No,No,91,1859.5,Bank transfer (automatic),No,1,60,Medium Risk
+9625-QNLUX,Male,,Yes,Yes,68,Two year,Fiber optic,No,Yes,103.25,7074.4,Credit card (automatic),No,0,4,Low Risk
+7240-ETPTR,Female,,Yes,No,9,Month-to-month,DSL,No,No,48.75,442.2,Electronic check,Yes,1,57,Medium Risk
+0559-CKHUS,Female,,Yes,No,29,Two year,No,No internet service,No internet service,19.55,521.8,Mailed check,No,0,6,Low Risk
+3214-IYUUQ,Female,,Yes,No,61,One year,Fiber optic,Yes,Yes,93.7,5860.7,Bank transfer (automatic),No,0,11,Low Risk
+1074-AMIOH,Female,,Yes,Yes,53,Month-to-month,Fiber optic,Yes,No,108.25,5935.1,Bank transfer (automatic),No,0,9,Low Risk
+5702-SKUOB,Female,,Yes,No,4,Month-to-month,No,No internet service,No internet service,19.6,93.45,Mailed check,No,0,26,Low Risk
+4636-OLWOE,Male,,No,Yes,54,One year,DSL,Yes,No,61,3283.05,Electronic check,No,0,7,Low Risk
+3429-IFLEM,Female,,No,No,71,Two year,DSL,Yes,Yes,77.35,5550.1,Credit card (automatic),No,0,2,Low Risk
+0602-DDUML,Female,,No,No,57,Two year,DSL,Yes,No,69.75,3894.4,Mailed check,No,0,6,Low Risk
+4676-MQUEA,Male,,Yes,No,50,One year,Fiber optic,No,Yes,101.9,5265.5,Bank transfer (automatic),No,0,13,Low Risk
+8058-INTPH,Female,,No,No,1,Month-to-month,Fiber optic,No,No,79.65,79.65,Electronic check,Yes,1,100,High Risk
+3301-VKTGC,Male,,Yes,Yes,68,One year,Fiber optic,No,Yes,85.5,5696.6,Bank transfer (automatic),No,0,1,Low Risk
+7486-KSRVI,Male,,No,No,43,One year,Fiber optic,Yes,No,100,4211.55,Electronic check,Yes,0,23,Low Risk
+2654-VBVPB,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,19.9,19.9,Bank transfer (automatic),No,0,12.1,Low Risk
+8819-IMISP,Male,,No,No,31,Month-to-month,Fiber optic,No,No,80.45,2429.1,Electronic check,No,0,38,Medium Risk
+3275-RHRNE,Male,,Yes,Yes,28,One year,DSL,Yes,No,60,1682.05,Credit card (automatic),No,0,5,Low Risk
+2637-FKFSY,Female,,Yes,No,3,Month-to-month,DSL,No,No,46.1,130.15,Mailed check,No,1,60,Medium Risk
+7976-CICYS,Male,,No,No,4,Month-to-month,No,No internet service,No internet service,20.7,83.75,Credit card (automatic),No,0,2,Low Risk
+2293-IJWPS,Female,,Yes,No,57,One year,Fiber optic,No,No,100.75,5985,Credit card (automatic),No,0,31,Medium Risk
+6637-KYRCV,Female,,Yes,Yes,5,Month-to-month,DSL,No,No,30.5,167.2,Electronic check,No,0,30,Low Risk
+1965-AKTSX,Female,,No,No,14,Month-to-month,Fiber optic,No,No,78.95,1101.85,Electronic check,Yes,1,84,High Risk
+8580-AECUZ,Male,,No,No,1,Month-to-month,Fiber optic,No,No,79.1,79.1,Electronic check,Yes,1,99,High Risk
+5108-ADXWO,Male,,No,No,11,Month-to-month,Fiber optic,No,Yes,73.5,791.75,Electronic check,Yes,0,40,Medium Risk
+8434-PNQZX,Female,,No,No,42,Two year,DSL,Yes,No,78.45,3373.4,Credit card (automatic),No,0,2,Low Risk
+0722-TROQR,Female,,No,No,4,Month-to-month,Fiber optic,No,No,74.9,321.75,Electronic check,Yes,1,54,Medium Risk
+0661-WCQNQ,Male,,Yes,No,22,One year,DSL,Yes,Yes,56.25,1292.2,Credit card (automatic),No,0,13,Low Risk
+5122-CYFXA,Female,,No,No,3,Month-to-month,DSL,Yes,No,75.3,244.1,Electronic check,No,1,51,Medium Risk
+7598-UAASY,Male,,Yes,No,2,Month-to-month,Fiber optic,No,No,76.4,151.8,Electronic check,Yes,1,81,High Risk
+2826-UWHIS,Male,,Yes,No,45,Month-to-month,Fiber optic,No,No,81.4,3775.85,Bank transfer (automatic),No,0,19,Low Risk
+2581-VKIRT,Female,,Yes,No,59,One year,DSL,Yes,Yes,65.5,3801.3,Mailed check,No,0,3,Low Risk
+5018-HEKFO,Female,,No,No,10,Month-to-month,No,No internet service,No internet service,24.5,270.15,Mailed check,No,0,6,Low Risk
+0133-BMFZO,Female,,No,No,2,Month-to-month,Fiber optic,Yes,Yes,86.25,181.65,Electronic check,Yes,0,31,Medium Risk
+0811-GSDTP,Female,,No,Yes,13,Month-to-month,DSL,No,No,30.15,382.2,Electronic check,No,0,6,Low Risk
+3902-MIVLE,Male,,Yes,No,63,Two year,DSL,Yes,Yes,75.7,4676.7,Mailed check,No,0,2,Low Risk
+7449-HVPIV,Male,,Yes,Yes,55,Month-to-month,Fiber optic,No,No,90.4,5099.15,Credit card (automatic),No,0,4,Low Risk
+4634-JLRJT,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,20.35,20.35,Mailed check,No,1,68.4,High Risk
+8963-JLGJT,Male,,No,Yes,3,Month-to-month,DSL,No,Yes,55.9,157.55,Mailed check,No,0,41,Medium Risk
+4942-VZZOM,Male,,Yes,No,64,One year,DSL,No,Yes,66.15,4392.5,Credit card (automatic),No,0,11,Low Risk
+6603-QWSPR,Female,,No,No,46,Two year,Fiber optic,Yes,No,104.4,4904.2,Bank transfer (automatic),No,0,23,Low Risk
+3001-CBHLQ,Male,,Yes,No,32,Month-to-month,Fiber optic,Yes,No,104.9,3351.55,Electronic check,Yes,1,76,High Risk
+9602-WCXPI,Male,,No,No,50,One year,No,No internet service,No internet service,20.15,989.05,Credit card (automatic),No,0,1,Low Risk
+7504-UWHNB,Male,,No,No,25,Month-to-month,Fiber optic,No,No,69.75,1729.35,Electronic check,No,0,37,Medium Risk
+4067-HLYQI,Female,,No,No,33,Month-to-month,Fiber optic,No,No,70.4,2406.1,Bank transfer (automatic),No,0,48,Medium Risk
+3536-IQCTX,Male,,Yes,No,32,Month-to-month,Fiber optic,No,No,85.3,2661.1,Electronic check,Yes,1,51,Medium Risk
+5989-PGKJB,Female,,No,No,16,Month-to-month,Fiber optic,No,No,86.25,1340.1,Electronic check,No,0,42,Medium Risk
+8496-DMZUK,Male,,No,No,30,One year,Fiber optic,No,Yes,90.4,2820.65,Bank transfer (automatic),No,0,8,Low Risk
+5028-GZLDO,Male,,No,No,2,Month-to-month,Fiber optic,No,No,70.7,140.7,Credit card (automatic),Yes,1,68,High Risk
+2921-XWDJH,Female,,Yes,No,38,Month-to-month,Fiber optic,No,Yes,83.45,3147.15,Electronic check,No,0,45,Medium Risk
+4324-AHJKS,Female,,No,No,5,Month-to-month,DSL,No,Yes,55.8,300.4,Credit card (automatic),No,0,18,Low Risk
+9214-EKVXR,Female,,No,No,1,Month-to-month,DSL,No,No,44,44,Mailed check,No,1,72,High Risk
+2410-CIYFZ,Male,,No,Yes,2,Month-to-month,No,No internet service,No internet service,20.4,42.9,Mailed check,No,0,4,Low Risk
+4822-RVYBB,Male,,No,No,8,Month-to-month,Fiber optic,No,No,100.6,819.4,Electronic check,Yes,1,88,High Risk
+2189-WWOEW,Female,,No,No,15,Month-to-month,Fiber optic,No,No,85.9,1269.55,Bank transfer (automatic),Yes,0,42,Medium Risk
+7696-AMHOD,Female,,Yes,Yes,49,One year,DSL,No,No,78,3824.2,Credit card (automatic),No,0,2,Low Risk
+9054-FOWNV,Male,,Yes,Yes,22,Month-to-month,Fiber optic,No,No,88.75,1885.15,Electronic check,No,0,7,Low Risk
+3167-SNQPL,Male,,Yes,Yes,38,Month-to-month,Fiber optic,No,No,101.15,3741.85,Electronic check,No,0,2,Low Risk
+7245-JMTTQ,Female,,No,No,51,One year,Fiber optic,Yes,No,111.5,5703.25,Electronic check,No,1,59,Medium Risk
+3090-LETTY,Male,,No,Yes,2,Month-to-month,DSL,No,Yes,60.95,134.6,Bank transfer (automatic),No,0,35,Medium Risk
+5863-OOKCL,Female,,No,No,10,Month-to-month,No,No internet service,No internet service,18.85,163.2,Mailed check,No,0,24,Low Risk
+7075-BNDVQ,Female,,No,No,4,Month-to-month,DSL,No,Yes,35,135.75,Mailed check,No,0,31,Medium Risk
+4981-FLTMF,Female,,Yes,Yes,57,Month-to-month,DSL,Yes,Yes,65.2,3687.85,Bank transfer (automatic),No,0,6,Low Risk
+2002-MZHWP,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,20.5,20.5,Mailed check,Yes,0,42.5,Medium Risk
+3966-HRMZA,Female,,No,No,3,Month-to-month,Fiber optic,No,No,75.05,202.9,Mailed check,No,1,72,High Risk
+4178-EGMON,Male,,Yes,No,70,Two year,Fiber optic,Yes,Yes,88,5986.45,Credit card (automatic),No,0,1,Low Risk
+9518-XXBXE,Male,,Yes,No,10,Month-to-month,Fiber optic,No,Yes,75.3,720.45,Electronic check,No,0,48,Medium Risk
+1763-WQFUK,Male,,No,No,3,Month-to-month,DSL,Yes,No,50.5,147.75,Mailed check,No,0,20,Low Risk
+3254-YRILK,Male,,No,No,19,Month-to-month,Fiber optic,No,No,88.2,1775.8,Electronic check,Yes,1,63,High Risk
+3557-HTYWR,Female,,No,No,47,Two year,DSL,Yes,Yes,74.05,3496.3,Mailed check,No,0,4,Low Risk
+4566-GOLUK,Male,,Yes,No,47,Month-to-month,Fiber optic,Yes,No,107.35,5118.95,Bank transfer (automatic),Yes,0,40,Medium Risk
+0516-OOHAR,Male,,Yes,Yes,28,One year,Fiber optic,No,No,100.35,2799,Bank transfer (automatic),No,0,6,Low Risk
+2696-ECXKC,Female,,Yes,Yes,55,One year,Fiber optic,No,Yes,100.9,5448.6,Mailed check,No,0,7,Low Risk
+4526-EXKKN,Male,,No,No,40,Two year,No,No internet service,No internet service,24.6,973.95,Mailed check,No,0,10,Low Risk
+2495-TTHBQ,Female,,No,Yes,4,One year,No,No internet service,No internet service,20.4,84.75,Mailed check,No,0,2,Low Risk
+5519-NPHVG,Female,,No,No,12,Month-to-month,Fiber optic,No,No,94.2,1046.1,Electronic check,Yes,1,65,High Risk
+0564-JJHGS,Male,,No,No,9,Month-to-month,Fiber optic,No,No,95.5,829.1,Electronic check,Yes,1,80,High Risk
+7049-GKVZY,Female,,No,No,17,One year,DSL,Yes,Yes,79.85,1387.35,Credit card (automatic),No,0,23,Low Risk
+7548-SEPYI,Female,,No,No,5,Month-to-month,Fiber optic,No,No,96.25,512.45,Electronic check,Yes,1,88,High Risk
+9578-FOMUK,Male,,No,Yes,15,Month-to-month,No,No internet service,No internet service,24.8,324.15,Electronic check,No,0,13,Low Risk
+8444-WRIDW,Female,,No,No,66,Month-to-month,Fiber optic,No,No,80.45,5224.35,Credit card (automatic),Yes,0,14,Low Risk
+6518-KZXCB,Male,,No,No,22,Two year,No,No internet service,No internet service,25.25,566.5,Mailed check,No,0,2,Low Risk
+2307-FYNNL,Male,,No,No,65,Two year,Fiber optic,Yes,Yes,109.05,7108.2,Electronic check,No,0,19,Low Risk
+9746-MDMBK,Male,,Yes,Yes,47,One year,Fiber optic,Yes,Yes,113.45,5317.8,Bank transfer (automatic),No,0,10,Low Risk
+7142-HVGBG,Male,,Yes,No,43,Month-to-month,Fiber optic,No,No,103,4414.3,Electronic check,Yes,1,51,Medium Risk
+7356-IWLFW,Male,,Yes,Yes,46,Month-to-month,Fiber optic,No,No,80,3769.7,Bank transfer (automatic),No,0,8,Low Risk
+1754-GKYPY,Male,,Yes,No,22,Month-to-month,Fiber optic,No,No,89.75,1938.9,Bank transfer (automatic),No,0,50,Medium Risk
+2842-BCQGE,Male,,No,No,43,Month-to-month,Fiber optic,No,No,75.35,3161.4,Credit card (automatic),No,0,35,Medium Risk
+8708-XPXHZ,Female,,Yes,No,42,Month-to-month,Fiber optic,No,No,94.2,4186.3,Electronic check,Yes,1,52,Medium Risk
+7798-JVXYM,Female,,No,No,14,Month-to-month,DSL,Yes,No,69.65,921.4,Electronic check,No,0,34,Medium Risk
+5550-VFRLC,Female,,No,No,1,Month-to-month,Fiber optic,No,No,69.85,69.85,Electronic check,Yes,1,100,High Risk
+8718-PTMEZ,Female,,No,No,13,Month-to-month,DSL,No,No,31.05,347.25,Electronic check,Yes,0,22,Low Risk
+7740-BTPUX,Male,,Yes,No,55,Two year,Fiber optic,Yes,No,113.6,6292.7,Electronic check,No,0,24,Low Risk
+6572-ADKRS,Female,,No,No,46,Month-to-month,Fiber optic,No,No,74.8,3548.3,Credit card (automatic),No,0,36,Medium Risk
+3276-HDUEG,Female,,No,No,1,Month-to-month,Fiber optic,No,No,75.05,75.05,Mailed check,Yes,1,98,High Risk
+3657-COGMW,Female,,No,No,52,Month-to-month,Fiber optic,No,Yes,108.1,5839.3,Credit card (automatic),No,0,7,Low Risk
+0177-PXBAT,Male,,Yes,No,33,Month-to-month,Fiber optic,Yes,Yes,109.9,3694.7,Bank transfer (automatic),No,0,40,Medium Risk
+7255-SSFBC,Male,,Yes,Yes,72,Two year,Fiber optic,Yes,No,112.25,8041.65,Bank transfer (automatic),No,0,1,Low Risk
+3893-JRNFS,Male,,No,No,68,Month-to-month,DSL,No,No,39.9,2796.35,Bank transfer (automatic),No,0,41,Medium Risk
+5939-XAIXZ,Female,,No,No,19,Month-to-month,DSL,No,No,56.1,1033.9,Mailed check,No,0,29,Low Risk
+5522-JBWMO,Male,,No,Yes,1,Month-to-month,DSL,No,No,44,44,Electronic check,No,1,52,Medium Risk
+6484-LATFU,Male,,No,No,68,Two year,No,No internet service,No internet service,24.55,1657.4,Mailed check,No,0,1,Low Risk
+3398-ZOUAA,Male,,Yes,No,21,Month-to-month,Fiber optic,No,No,69.1,1474.75,Electronic check,Yes,1,65,High Risk
+7272-QDCKA,Male,,No,No,28,One year,Fiber optic,No,No,100.2,2688.45,Electronic check,No,1,52,Medium Risk
+2023-VQFDL,Male,,No,No,18,Month-to-month,No,No internet service,No internet service,19,348.8,Electronic check,No,0,19,Low Risk
+4612-SSVHJ,Female,,No,No,20,Month-to-month,Fiber optic,No,No,81.45,1671.6,Electronic check,No,1,58,Medium Risk
+7594-RQHXR,Female,,No,No,1,Month-to-month,Fiber optic,No,No,79.6,79.6,Electronic check,Yes,1,100,High Risk
+1589-AGTLK,Male,,No,No,3,Month-to-month,DSL,No,No,45.35,141.5,Electronic check,Yes,1,62,High Risk
+8313-AFGBW,Male,,Yes,No,47,Two year,DSL,No,No,73.6,3522.65,Electronic check,No,0,12,Low Risk
+7470-DYNOE,Male,,No,No,53,One year,DSL,No,No,61.1,3357.9,Electronic check,No,0,11,Low Risk
+6101-IMRMM,Male,,No,No,6,Month-to-month,Fiber optic,No,No,94.5,575.45,Mailed check,Yes,1,73,High Risk
+1090-ESELR,Male,,Yes,No,72,Two year,Fiber optic,Yes,Yes,105.5,7611.55,Bank transfer (automatic),No,0,7,Low Risk
+3096-YXENJ,Female,,Yes,No,65,Two year,Fiber optic,Yes,No,107.65,7082.85,Bank transfer (automatic),No,0,15,Low Risk
+7854-EDSSA,Male,,No,No,22,Month-to-month,DSL,No,Yes,59,1254.7,Electronic check,Yes,0,10,Low Risk
+9481-SFCQY,Female,,No,Yes,14,Month-to-month,DSL,No,No,59.8,824.85,Credit card (automatic),No,0,21,Low Risk
+9210-IAHGH,Female,,No,No,7,Month-to-month,DSL,Yes,No,70.75,450.8,Credit card (automatic),Yes,0,46,Medium Risk
+8150-QUDFX,Male,,No,No,2,Month-to-month,No,No internet service,No internet service,19.85,51.6,Mailed check,No,0,10,Low Risk
+4659-NZRUF,Female,,No,No,19,Month-to-month,Fiber optic,No,Yes,95.15,1789.25,Electronic check,Yes,1,61,High Risk
+7148-XZPHA,Male,,Yes,Yes,55,Month-to-month,Fiber optic,Yes,No,79.4,4238.45,Electronic check,No,0,12,Low Risk
+3859-CVCET,Female,,No,No,4,Month-to-month,DSL,No,No,45.65,191.05,Mailed check,Yes,0,29,Low Risk
+1689-MRZQR,Male,,Yes,No,34,Month-to-month,Fiber optic,No,No,78.3,2564.3,Electronic check,Yes,0,48,Medium Risk
+8807-ARQET,Female,,No,No,41,Month-to-month,DSL,No,No,40.35,1677.85,Electronic check,No,0,26,Low Risk
+2984-MIIZL,Male,,No,No,4,Month-to-month,Fiber optic,No,No,74.8,321.9,Bank transfer (automatic),Yes,1,66,High Risk
+1928-BXYIV,Male,,No,No,1,Month-to-month,DSL,No,Yes,61.15,61.15,Electronic check,No,1,62,High Risk
+7426-WEIJX,Male,,Yes,Yes,60,Month-to-month,Fiber optic,No,Yes,80.95,4859.1,Electronic check,No,0,8,Low Risk
+0096-BXERS,Female,,Yes,No,6,Month-to-month,DSL,No,No,50.35,314.55,Electronic check,No,0,39,Medium Risk
+2931-FSOHN,Male,,No,No,13,Month-to-month,DSL,No,No,59.9,788.35,Electronic check,No,0,14,Low Risk
+4627-MIHJH,Female,,No,No,69,Two year,Fiber optic,Yes,Yes,110.25,7467.55,Credit card (automatic),No,0,24,Low Risk
+6504-VBLFL,Male,,Yes,No,55,Two year,DSL,No,Yes,58.6,3068.6,Electronic check,No,0,6,Low Risk
+2430-RRYUW,Male,,No,No,66,One year,DSL,No,Yes,54.8,3465.7,Mailed check,No,0,5,Low Risk
+7426-RHZGU,Male,,No,No,9,Month-to-month,Fiber optic,Yes,No,95.9,827.45,Bank transfer (automatic),No,0,43,Medium Risk
+8882-TLVRW,Male,,Yes,Yes,69,Two year,DSL,Yes,Yes,39.1,2779.5,Mailed check,No,0,2,Low Risk
+7153-OANIO,Male,,No,No,1,Month-to-month,Fiber optic,No,No,69.95,69.95,Electronic check,Yes,1,72,High Risk
+1409-PHXTF,Male,,Yes,No,54,Two year,Fiber optic,Yes,No,110.45,6077.75,Electronic check,No,0,29,Low Risk
+8337-MSSXB,Female,,No,No,14,Month-to-month,Fiber optic,No,No,86.3,1180.95,Electronic check,Yes,0,40,Medium Risk
+6135-OZQVA,Female,,No,No,7,Month-to-month,DSL,No,Yes,53.65,404.35,Electronic check,No,0,46,Medium Risk
+3030-YZADT,Male,,No,No,9,Month-to-month,DSL,No,No,44.95,431,Mailed check,Yes,0,24,Low Risk
+5176-LMJXE,Female,,No,No,47,Two year,No,No internet service,No internet service,20.55,945.7,Mailed check,No,0,1,Low Risk
+3967-KXAPS,Male,,Yes,No,72,Two year,DSL,Yes,Yes,92.3,6719.9,Credit card (automatic),No,0,19,Low Risk
+4685-TFLLS,Male,,Yes,Yes,18,One year,No,No internet service,No internet service,19.8,342.3,Bank transfer (automatic),No,0,10,Low Risk
+9932-WBWIK,Male,,No,No,11,Month-to-month,No,No internet service,No internet service,20.35,215.25,Mailed check,No,0,9,Low Risk
+5310-NOOVA,Male,,No,No,46,Two year,No,No internet service,No internet service,19.95,907.05,Electronic check,No,0,4,Low Risk
+3441-CGZJH,Female,,Yes,Yes,43,One year,DSL,Yes,Yes,60.4,2640.55,Credit card (automatic),No,0,5,Low Risk
+9866-OCCKE,Female,,Yes,No,72,Two year,Fiber optic,Yes,Yes,109.75,8075.35,Mailed check,No,0,5,Low Risk
+1621-YNCJH,Female,,Yes,No,36,Two year,Fiber optic,Yes,Yes,106.05,3834.4,Credit card (automatic),No,0,13,Low Risk
+4299-SIMNS,Male,,No,No,9,Month-to-month,Fiber optic,No,Yes,81.15,784.45,Electronic check,No,0,37,Medium Risk
+3348-CFRNX,Female,,Yes,No,28,Month-to-month,Fiber optic,No,Yes,92.35,2602.9,Mailed check,Yes,0,27,Low Risk
+0318-QUUOB,Male,,Yes,No,1,Month-to-month,Fiber optic,No,No,80.55,80.55,Electronic check,Yes,1,73,High Risk
+1597-FZREH,Female,,No,No,2,Month-to-month,DSL,Yes,No,76.4,160.8,Electronic check,Yes,0,34,Medium Risk
+2961-VNFKL,Female,,Yes,No,71,Two year,No,No internet service,No internet service,25.95,1801.9,Credit card (automatic),No,0,1,Low Risk
+6481-OGDOO,Male,,Yes,No,67,One year,Fiber optic,No,Yes,90.6,6056.15,Credit card (automatic),Yes,0,32,Medium Risk
+6778-EICRF,Male,,Yes,Yes,24,One year,DSL,No,Yes,74.8,1821.2,Mailed check,No,0,2,Low Risk
+2432-TFSMK,Male,,No,No,18,One year,Fiber optic,No,No,89.6,1633,Credit card (automatic),No,0,24,Low Risk
+1699-HPSBG,Male,,No,No,12,One year,DSL,Yes,No,59.8,727.8,Electronic check,Yes,0,18,Low Risk
+2321-OMBXY,Female,,Yes,No,38,One year,DSL,Yes,Yes,80.3,3058.65,Credit card (automatic),Yes,0,24,Low Risk
+9819-FBNSV,Male,,Yes,No,37,Month-to-month,Fiber optic,No,No,72.25,2575.45,Bank transfer (automatic),No,1,74,High Risk
+1608-GMEWB,Male,,No,No,45,Month-to-month,Fiber optic,No,No,93.9,4200.25,Bank transfer (automatic),No,1,65,High Risk
+5482-NUPNA,Female,,No,No,4,Month-to-month,DSL,Yes,Yes,60.4,272.15,Mailed check,Yes,0,20,Low Risk
+0259-GBZSH,Male,,No,No,2,Month-to-month,Fiber optic,No,No,85.65,181.5,Electronic check,Yes,1,59,Medium Risk
+3948-XHGNA,Male,,No,No,24,Month-to-month,DSL,No,Yes,49.55,1210.4,Bank transfer (automatic),Yes,0,38,Medium Risk
+2951-QOQTK,Male,,No,No,4,Month-to-month,Fiber optic,Yes,No,80.8,332.45,Credit card (automatic),Yes,1,70,High Risk
+3026-ATZYV,Female,,Yes,Yes,37,One year,DSL,No,Yes,75.1,2658.8,Bank transfer (automatic),No,0,3,Low Risk
+9769-TSBZE,Female,,No,Yes,70,Two year,DSL,Yes,Yes,66,4891.5,Electronic check,No,0,2,Low Risk
+6522-YRBXD,Male,,Yes,No,35,Month-to-month,Fiber optic,No,Yes,94.55,3365.4,Electronic check,No,0,37,Medium Risk
+5515-IDEJJ,Male,,Yes,Yes,1,Month-to-month,No,No internet service,No internet service,19.9,19.9,Mailed check,Yes,0,27.3,Low Risk
+3387-VATUS,Male,,No,No,5,Month-to-month,Fiber optic,No,No,94.85,462.8,Bank transfer (automatic),Yes,1,91,High Risk
+1735-XMJVH,Male,,Yes,Yes,8,Month-to-month,No,No internet service,No internet service,19.35,152.6,Mailed check,No,0,32,Medium Risk
+8749-CLJXC,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.05,20.05,Mailed check,No,0,30.7,Medium Risk
+5816-QVHRX,Female,,No,No,37,Month-to-month,Fiber optic,Yes,No,100.3,3541.4,Credit card (automatic),No,1,62,High Risk
+6060-DRTNL,Female,,No,No,5,Month-to-month,Fiber optic,No,No,84.85,415.55,Mailed check,Yes,1,56,Medium Risk
+5202-IVJNU,Female,,No,Yes,39,Month-to-month,DSL,No,No,30.1,1131.3,Credit card (automatic),Yes,0,5,Low Risk
+0774-IFUVM,Male,,Yes,Yes,11,Month-to-month,DSL,No,Yes,65.15,723.35,Bank transfer (automatic),No,0,17,Low Risk
+2911-UREFD,Female,,Yes,No,39,Month-to-month,DSL,No,Yes,55.9,2184.35,Electronic check,Yes,0,33,Medium Risk
+3714-XPXBW,Female,,No,No,37,Month-to-month,DSL,Yes,Yes,78.9,2976.95,Credit card (automatic),No,0,10,Low Risk
+9419-IPPBE,Female,,Yes,Yes,51,One year,Fiber optic,No,No,90.15,4554.85,Electronic check,No,0,1,Low Risk
+0379-DJQHR,Male,,Yes,No,67,Two year,DSL,No,Yes,81.35,5398.6,Credit card (automatic),No,0,2,Low Risk
+4114-QMKVN,Female,,Yes,Yes,56,One year,DSL,No,Yes,68.75,3815.4,Bank transfer (automatic),No,0,4,Low Risk
+0463-ZSDNT,Male,,No,No,10,Month-to-month,DSL,No,No,56.75,503.25,Bank transfer (automatic),No,0,34,Medium Risk
+2359-QWQUL,Female,,Yes,No,39,One year,Fiber optic,Yes,Yes,104.7,4134.85,Credit card (automatic),Yes,0,39,Medium Risk
+2061-VVFST,Female,,Yes,No,37,Month-to-month,No,No internet service,No internet service,19.5,805.2,Bank transfer (automatic),No,0,4,Low Risk
+8780-IXSTS,Female,,No,No,6,Month-to-month,Fiber optic,No,No,90.1,521.3,Electronic check,Yes,1,51,Medium Risk
+3736-BLEPA,Male,,No,No,28,One year,Fiber optic,Yes,No,91.25,2483.65,Bank transfer (automatic),No,0,24,Low Risk
+7567-ECMCM,Male,,No,No,24,Month-to-month,Fiber optic,No,No,79.85,2001,Credit card (automatic),No,1,54,Medium Risk
+2160-GPFXD,Male,,Yes,Yes,54,Two year,DSL,Yes,Yes,65.65,3566.7,Credit card (automatic),No,0,2,Low Risk
+6797-LNAQX,Male,,Yes,No,70,Two year,Fiber optic,No,No,98.3,6859.5,Bank transfer (automatic),Yes,0,9,Low Risk
+7065-YUNRY,Female,,No,No,1,Month-to-month,DSL,No,No,45.3,45.3,Mailed check,Yes,1,65,High Risk
+8495-LJDFO,Female,,No,No,64,Month-to-month,Fiber optic,Yes,Yes,108.95,7111.3,Bank transfer (automatic),No,0,10,Low Risk
+5996-NRVXR,Male,,Yes,No,40,One year,Fiber optic,Yes,Yes,98.15,4116.8,Credit card (automatic),No,0,25,Low Risk
+5655-JSMZM,Male,,No,No,49,Month-to-month,Fiber optic,No,No,96.2,4718.25,Electronic check,Yes,1,88,High Risk
+4854-CIDCF,Female,,No,No,3,Month-to-month,Fiber optic,No,No,73.85,196.4,Electronic check,No,1,66,High Risk
+1996-DBMUS,Female,,Yes,No,48,Month-to-month,Fiber optic,No,No,70.65,3545.05,Bank transfer (automatic),No,1,74,High Risk
+2599-CZABP,Male,,Yes,No,14,One year,DSL,No,No,44.6,641.25,Electronic check,No,0,7,Low Risk
+8671-KKKOS,Female,,Yes,No,46,Month-to-month,DSL,No,Yes,45.55,2062.15,Electronic check,No,0,13,Low Risk
+2911-WDXMV,Male,,No,Yes,18,Month-to-month,Fiber optic,No,No,80.55,1406.65,Credit card (automatic),No,0,19,Low Risk
+1355-KUSBG,Female,,Yes,Yes,7,Month-to-month,DSL,No,No,48.8,349.8,Electronic check,No,0,13,Low Risk
+3902-FOIGH,Male,,Yes,No,12,Month-to-month,Fiber optic,No,No,101.35,1218.55,Electronic check,Yes,1,83,High Risk
+2233-FAGXV,Female,,Yes,Yes,5,Month-to-month,No,No internet service,No internet service,24.3,132.25,Mailed check,No,0,19,Low Risk
+4632-XJMEX,Male,,No,Yes,53,One year,DSL,Yes,Yes,62.85,3419.5,Credit card (automatic),No,0,2,Low Risk
+4566-NECEV,Male,,No,No,5,Month-to-month,Fiber optic,No,No,96.55,500.1,Electronic check,No,1,53,Medium Risk
+2782-LFZVW,Female,,No,No,11,Month-to-month,DSL,No,No,58.95,601.6,Mailed check,No,0,22,Low Risk
+4223-WOZCM,Male,,No,No,2,Month-to-month,DSL,No,No,49.95,107.1,Mailed check,No,1,54,Medium Risk
+8217-QYOHV,Male,,No,No,5,Month-to-month,DSL,Yes,Yes,55.75,266.95,Mailed check,No,0,30,Low Risk
+9514-JDSKI,Male,,Yes,No,1,Month-to-month,DSL,No,No,40.2,40.2,Electronic check,Yes,1,69,High Risk
+1845-ZLLIG,Male,,No,No,1,Month-to-month,DSL,No,No,50.15,50.15,Mailed check,No,0,47.8,Medium Risk
+5899-MQZZL,Female,,No,No,13,Month-to-month,Fiber optic,No,No,75,999.45,Mailed check,Yes,1,71,High Risk
+8096-LOIST,Female,,No,No,19,Month-to-month,DSL,No,No,56.2,1093.4,Electronic check,No,0,23,Low Risk
+8631-NBHFZ,Male,,Yes,No,66,Two year,DSL,Yes,Yes,79.4,5154.6,Credit card (automatic),Yes,0,1,Low Risk
+5846-QFDFI,Female,,Yes,Yes,33,Month-to-month,Fiber optic,Yes,No,88.6,2888.7,Credit card (automatic),No,0,5,Low Risk
+4994-OBRSZ,Male,,No,Yes,14,Two year,DSL,Yes,Yes,76.1,1054.8,Bank transfer (automatic),No,0,3,Low Risk
+5575-TPIZQ,Male,,No,No,46,Month-to-month,Fiber optic,No,Yes,89.15,4245.55,Credit card (automatic),No,0,39,Medium Risk
+7219-TLZHO,Female,,Yes,Yes,4,Month-to-month,No,No internet service,No internet service,20.85,62.9,Mailed check,No,0,4,Low Risk
+5317-FLPJF,Female,,No,No,66,Two year,DSL,Yes,Yes,61.35,4193.4,Bank transfer (automatic),No,0,5,Low Risk
+4910-AQFFX,Male,,Yes,No,9,Month-to-month,Fiber optic,No,No,79.35,661.25,Bank transfer (automatic),Yes,1,86,High Risk
+5919-TMRGD,Female,,No,Yes,1,Month-to-month,Fiber optic,No,No,79.35,79.35,Electronic check,Yes,1,62,High Risk
+2754-XBHTB,Female,,No,No,9,Month-to-month,Fiber optic,No,No,77.65,714.15,Bank transfer (automatic),Yes,1,52,Medium Risk
+7813-TKCVO,Female,,Yes,No,20,One year,No,No internet service,No internet service,20.35,393.15,Mailed check,No,0,3,Low Risk
+1810-BOHSY,Male,,Yes,No,51,One year,Fiber optic,No,Yes,96.4,4911.05,Credit card (automatic),No,0,25,Low Risk
+2523-EWWZL,Female,,Yes,No,27,Month-to-month,Fiber optic,No,No,76.1,2093.4,Electronic check,No,1,61,High Risk
+2434-EEVDB,Female,,Yes,No,64,Two year,Fiber optic,No,Yes,94.6,5948.7,Credit card (automatic),No,0,4,Low Risk
+8809-XKHMD,Male,,Yes,No,72,Two year,Fiber optic,Yes,Yes,100.55,7325.1,Bank transfer (automatic),No,0,2,Low Risk
+7005-CYUIL,Female,,Yes,No,71,Two year,Fiber optic,Yes,Yes,99.4,7168.25,Electronic check,No,0,3,Low Risk
+5857-XRECV,Female,,No,Yes,2,One year,No,No internet service,No internet service,20.5,38.25,Bank transfer (automatic),No,0,12,Low Risk
+2577-GVSIL,Male,,Yes,No,35,One year,DSL,Yes,No,73.45,2661.1,Bank transfer (automatic),No,0,20,Low Risk
+8879-XUAHX,Male,,Yes,No,71,Two year,Fiber optic,Yes,Yes,116.25,8564.75,Electronic check,No,0,2,Low Risk
+7665-TOALD,Female,,No,No,1,Month-to-month,Fiber optic,No,No,69.6,69.6,Electronic check,Yes,1,100,High Risk
+9208-OLGAQ,Female,,No,No,18,Month-to-month,Fiber optic,No,No,84.95,1443.65,Electronic check,No,1,73,High Risk
+5673-TIYIB,Male,,No,No,2,Month-to-month,DSL,Yes,No,40.4,77.15,Credit card (automatic),Yes,1,74,High Risk
+3744-ZBHON,Female,,No,No,3,Month-to-month,No,No internet service,No internet service,20.2,65.95,Electronic check,No,0,14,Low Risk
+9488-FYQAU,Female,,Yes,No,63,Two year,Fiber optic,Yes,No,109.25,6841.4,Bank transfer (automatic),No,0,16,Low Risk
+5514-YQENT,Male,,No,Yes,41,Two year,Fiber optic,Yes,Yes,111.15,4507.15,Electronic check,No,0,2,Low Risk
+5287-QWLKY,Male,,Yes,No,71,Month-to-month,Fiber optic,No,Yes,105.1,7548.1,Credit card (automatic),Yes,0,17,Low Risk
+5423-BHIXO,Female,,No,No,32,Month-to-month,DSL,No,No,54.2,1739.6,Electronic check,No,0,8,Low Risk
+0442-TDYUO,Male,,Yes,No,48,Two year,No,No internet service,No internet service,20.05,1036,Mailed check,No,0,1,Low Risk
+5198-EFNBM,Male,,Yes,No,57,One year,Fiber optic,No,No,90.65,5199.8,Electronic check,No,0,24,Low Risk
+7797-EJMDP,Female,,No,No,8,Month-to-month,DSL,Yes,Yes,66.05,574.5,Bank transfer (automatic),No,0,23,Low Risk
+5868-YWPDW,Male,,Yes,No,6,Month-to-month,Fiber optic,No,No,84.2,519.15,Electronic check,Yes,1,87,High Risk
+8919-FYFQZ,Male,,Yes,No,44,Month-to-month,DSL,No,No,30.35,1359.7,Electronic check,Yes,0,26,Low Risk
+8208-EUMTE,Male,,No,No,16,Two year,DSL,Yes,Yes,54.85,916.15,Mailed check,No,0,13,Low Risk
+9070-BCKQP,Female,,Yes,No,72,Two year,Fiber optic,Yes,Yes,110.15,7881.2,Credit card (automatic),No,0,4,Low Risk
+5542-TBBWB,Male,,No,No,1,Month-to-month,Fiber optic,No,No,69.9,69.9,Electronic check,No,1,99,High Risk
+5884-GCYMI,Male,,No,No,1,Month-to-month,Fiber optic,No,No,69.4,69.4,Mailed check,Yes,1,98,High Risk
+7105-MXJLL,Female,,Yes,No,26,One year,DSL,No,No,60.7,1597.4,Mailed check,No,0,17,Low Risk
+2985-FMWYF,Female,,No,No,23,Month-to-month,Fiber optic,No,No,93.5,2341.55,Electronic check,No,0,38,Medium Risk
+9290-SHCMB,Female,,No,No,13,Month-to-month,Fiber optic,No,No,96.85,1235.55,Electronic check,No,1,92,High Risk
+7703-ZEKEF,Male,,No,No,23,Month-to-month,Fiber optic,No,No,81,1917.1,Electronic check,Yes,0,35,Medium Risk
+7245-NIIWQ,Female,,No,No,3,Month-to-month,Fiber optic,No,No,69.85,199.85,Electronic check,No,0,44,Medium Risk
+0595-ITUDF,Male,,Yes,Yes,64,Month-to-month,Fiber optic,No,Yes,91.8,5960.5,Electronic check,No,0,7,Low Risk
+0083-PIVIK,Male,,No,No,64,One year,DSL,Yes,Yes,81.25,5567.55,Electronic check,No,0,3,Low Risk
+4257-GAESD,Female,,No,No,6,Month-to-month,DSL,No,No,45,298.7,Credit card (automatic),No,0,31,Medium Risk
+1291-CUOCY,Male,,Yes,No,72,Two year,Fiber optic,Yes,No,110.6,7962.2,Credit card (automatic),No,0,2,Low Risk
+4979-HPRFL,Male,,Yes,Yes,56,Two year,No,No internet service,No internet service,24.15,1402.25,Bank transfer (automatic),No,0,1,Low Risk
+4315-MURBD,Female,,No,No,12,Month-to-month,Fiber optic,Yes,Yes,98.9,1120.95,Bank transfer (automatic),Yes,1,74,High Risk
+9239-ZBZZV,Female,,No,No,6,Month-to-month,DSL,No,No,47.95,305.1,Electronic check,Yes,1,52,Medium Risk
+2576-HXMPA,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,19.55,19.55,Credit card (automatic),No,0,0.5,Low Risk
+3850-OKINF,Male,,Yes,Yes,71,One year,DSL,No,Yes,66.2,4692.55,Electronic check,No,0,2,Low Risk
+1525-LNLOJ,Male,,Yes,No,66,Two year,DSL,No,No,63.3,4189.7,Bank transfer (automatic),No,0,9,Low Risk
+0112-QWPNC,Male,,Yes,No,49,One year,DSL,Yes,Yes,84.35,4059.35,Electronic check,Yes,0,9,Low Risk
+7422-WNBTY,Male,,Yes,No,33,Month-to-month,Fiber optic,No,No,93.35,3092,Electronic check,No,0,49,Medium Risk
+4550-EVXNY,Female,,No,No,1,Month-to-month,Fiber optic,No,No,69.65,69.65,Electronic check,Yes,1,100,High Risk
+7134-HBPBS,Female,,No,No,72,Two year,Fiber optic,Yes,No,108.1,7774.05,Bank transfer (automatic),No,0,7,Low Risk
+7639-LIAYI,Male,,No,No,52,Two year,DSL,Yes,Yes,79.75,4217.8,Credit card (automatic),No,0,7,Low Risk
+3255-GRXMG,Male,,No,Yes,18,Month-to-month,DSL,No,No,45.65,747.2,Credit card (automatic),No,0,13,Low Risk
+1784-BXEFA,Female,,No,No,10,Month-to-month,No,No internet service,No internet service,20.55,187.35,Mailed check,No,0,6,Low Risk
+5696-QURRL,Male,,No,No,1,Month-to-month,DSL,No,No,45.05,45.05,Mailed check,Yes,0,34,Medium Risk
+0929-HYQEW,Male,,No,No,3,Month-to-month,DSL,No,Yes,50.15,160.85,Mailed check,No,1,56,Medium Risk
+8063-GBATB,Female,,No,No,27,Month-to-month,Fiber optic,No,No,85.25,2287.25,Electronic check,Yes,1,68,High Risk
+9842-EFSYY,Female,,No,Yes,4,Month-to-month,DSL,No,Yes,57.2,223.75,Mailed check,No,0,31,Medium Risk
+5567-WSELE,Male,,Yes,No,3,Month-to-month,Fiber optic,No,No,94.6,279.55,Electronic check,Yes,1,68,High Risk
+1206-EHBDD,Female,,Yes,No,56,Two year,Fiber optic,No,Yes,80.3,4513.65,Bank transfer (automatic),No,0,3,Low Risk
+3496-LFSZU,Male,,Yes,No,4,Month-to-month,Fiber optic,No,No,70.5,294.2,Electronic check,No,1,81,High Risk
+5656-MJEFC,Male,,Yes,No,42,Two year,DSL,Yes,Yes,48.15,2032.3,Credit card (automatic),No,0,3,Low Risk
+3091-FYHKI,Male,,No,No,1,Month-to-month,DSL,No,No,35.45,35.45,Electronic check,Yes,1,93.5,High Risk
+4415-IJZTP,Female,,No,No,1,Month-to-month,Fiber optic,No,No,74.5,74.5,Electronic check,Yes,1,100,High Risk
+6968-GMKPR,Female,,No,No,55,Month-to-month,Fiber optic,No,No,81.55,4509.5,Electronic check,No,0,34,Medium Risk
+9360-AHGNL,Female,,Yes,No,43,One year,Fiber optic,Yes,Yes,109.55,4830.25,Mailed check,Yes,0,22,Low Risk
+9619-GSATL,Female,,No,No,43,One year,DSL,Yes,No,55.45,2444.25,Electronic check,No,0,10,Low Risk
+5575-GNVDE,Male,,No,No,34,One year,DSL,No,Yes,56.95,1889.5,Mailed check,No,0,2,Low Risk
+4018-KJYUY,Male,,No,Yes,22,Month-to-month,No,No internet service,No internet service,20.15,432.5,Credit card (automatic),No,0,4,Low Risk
+2384-OVPSA,Female,,No,No,38,Two year,No,No internet service,No internet service,20.2,735.9,Mailed check,No,0,1,Low Risk
+5934-TSSAU,Female,,Yes,Yes,23,Month-to-month,Fiber optic,No,No,75.3,1702.9,Credit card (automatic),No,0,8,Low Risk
+2428-HYUNX,Male,,Yes,No,44,Two year,No,No internet service,No internet service,19.35,847.25,Credit card (automatic),No,0,3,Low Risk
+4529-CKBCL,Female,,No,No,2,Month-to-month,Fiber optic,No,No,80.2,146.05,Electronic check,Yes,0,44,Medium Risk
+4877-TSOFF,Female,,Yes,Yes,55,One year,DSL,Yes,Yes,75.75,4264.25,Bank transfer (automatic),No,0,1,Low Risk
+2656-TABEH,Male,,Yes,No,4,Month-to-month,Fiber optic,No,No,100.2,420.2,Electronic check,Yes,1,90,High Risk
+1658-BYGOY,Male,,No,Yes,18,Month-to-month,Fiber optic,No,No,95.45,1752.55,Electronic check,Yes,0,11,Low Risk
+9601-BRXPO,Female,,Yes,No,25,Month-to-month,Fiber optic,Yes,No,104.95,2566.5,Bank transfer (automatic),Yes,1,57,Medium Risk
+8329-UTMVM,Male,,No,No,27,One year,Fiber optic,Yes,No,104.65,2964,Bank transfer (automatic),No,0,31,Medium Risk
+4971-PUYQO,Female,,No,No,27,Month-to-month,Fiber optic,No,No,94.55,2724.6,Mailed check,Yes,0,43,Medium Risk
+1360-XFJMR,Female,,Yes,No,67,One year,Fiber optic,Yes,No,109.7,7344.45,Credit card (automatic),No,0,17,Low Risk
+0195-IESCP,Male,,Yes,No,10,Month-to-month,Fiber optic,No,No,85.25,855.3,Electronic check,Yes,1,87,High Risk
+5370-IIVVL,Male,,No,No,37,One year,Fiber optic,Yes,No,104.5,3778,Credit card (automatic),No,0,21,Low Risk
+7672-VFMXZ,Male,,Yes,No,57,Month-to-month,DSL,Yes,Yes,55.7,3171.6,Electronic check,No,0,17,Low Risk
+0618-XWMSS,Male,,No,No,28,Month-to-month,Fiber optic,No,Yes,74.9,2068.55,Bank transfer (automatic),Yes,0,37,Medium Risk
+6352-TWCAU,Female,,No,No,35,Month-to-month,Fiber optic,No,No,86.45,3029.1,Electronic check,Yes,0,39,Medium Risk
+7989-AWGEH,Male,,Yes,Yes,49,Month-to-month,DSL,No,Yes,39.2,1838.15,Electronic check,No,0,5,Low Risk
+0868-VJRDR,Male,,Yes,No,64,Two year,Fiber optic,Yes,Yes,104.05,6605.55,Credit card (automatic),No,0,9,Low Risk
+6097-EQISJ,Female,,Yes,No,66,One year,Fiber optic,No,No,102.45,6615.15,Credit card (automatic),Yes,0,20,Low Risk
+3154-CFSZG,Male,,Yes,Yes,47,Month-to-month,Fiber optic,No,Yes,90.05,4137.2,Electronic check,No,0,19,Low Risk
+4628-CTTLA,Male,,No,No,57,Month-to-month,DSL,No,No,39.3,2111.45,Electronic check,Yes,0,39,Medium Risk
+3865-ZYKAD,Male,,Yes,No,69,Month-to-month,Fiber optic,No,Yes,84.9,5785.65,Credit card (automatic),No,0,16,Low Risk
+0471-ARVMX,Female,,Yes,No,62,One year,Fiber optic,No,Yes,104.85,6312.9,Electronic check,No,0,29,Low Risk
+0875-CABNR,Female,,No,No,10,Month-to-month,Fiber optic,No,No,84.6,865.55,Credit card (automatic),Yes,1,56,Medium Risk
+9880-TDQAC,Female,,Yes,No,72,Two year,DSL,Yes,No,60,4264,Electronic check,No,0,13,Low Risk
+7975-JMZNT,Male,,Yes,No,66,Two year,DSL,Yes,Yes,91.7,6075.9,Bank transfer (automatic),No,0,1,Low Risk
+7182-OVLBJ,Female,,Yes,Yes,62,Two year,Fiber optic,No,Yes,101.15,6638.35,Bank transfer (automatic),No,0,1,Low Risk
+2903-YYTBW,Male,,Yes,Yes,1,Month-to-month,DSL,No,No,44.55,44.55,Electronic check,No,1,71,High Risk
+4786-UKSNZ,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.2,20.2,Mailed check,Yes,0,18.4,Low Risk
+6723-CEGQI,Female,,No,Yes,65,Two year,DSL,Yes,No,45.25,2933.95,Mailed check,No,0,2,Low Risk
+7013-PSXHK,Female,,No,No,40,One year,DSL,Yes,No,80.75,3208.65,Mailed check,No,0,40,Medium Risk
+1534-OULXE,Female,,Yes,Yes,61,One year,DSL,No,Yes,49.7,2961.4,Bank transfer (automatic),No,0,1,Low Risk
+9057-MSWCO,Male,,Yes,No,27,Month-to-month,DSL,No,Yes,30.75,805.1,Credit card (automatic),Yes,0,22,Low Risk
+5447-WZAFP,Female,,No,No,53,One year,Fiber optic,No,No,100.3,5200.8,Mailed check,No,0,22,Low Risk
+5074-FBGHB,Male,,No,No,64,One year,Fiber optic,Yes,No,104.65,6889.8,Credit card (automatic),No,0,43,Medium Risk
+9309-BZGNT,Male,,Yes,No,69,One year,DSL,No,No,29.8,2134.3,Credit card (automatic),No,0,5,Low Risk
+7928-VJYAB,Male,,Yes,Yes,11,Month-to-month,Fiber optic,No,No,90.6,1020.2,Electronic check,No,0,14,Low Risk
+9926-PJHDQ,Female,,Yes,No,72,Two year,DSL,No,No,76.8,5468.45,Bank transfer (automatic),No,0,21,Low Risk
+3546-GHEAE,Male,,No,No,7,Two year,No,No internet service,No internet service,19.45,165.35,Mailed check,No,0,2,Low Risk
+3132-TVFDZ,Male,,Yes,No,57,Month-to-month,DSL,No,No,44.85,2572.95,Electronic check,Yes,0,15,Low Risk
+7030-NJVDP,Male,,Yes,No,24,Month-to-month,Fiber optic,Yes,Yes,89.25,2210.2,Electronic check,No,0,25,Low Risk
+6461-PPAXN,Female,,Yes,No,35,One year,DSL,Yes,Yes,54.95,1916,Bank transfer (automatic),No,0,6,Low Risk
+5307-UVGNB,Female,,Yes,Yes,53,Month-to-month,DSL,No,Yes,48.7,2495.2,Bank transfer (automatic),No,0,16,Low Risk
+8761-NSOBC,Male,,No,No,44,Month-to-month,Fiber optic,Yes,No,100.55,4398.15,Electronic check,Yes,0,34,Medium Risk
+3794-NFNCH,Male,,Yes,No,30,Month-to-month,DSL,No,No,50,1474.9,Mailed check,No,0,8,Low Risk
+0496-AHOOK,Male,,Yes,No,24,One year,DSL,Yes,Yes,74.4,1712.9,Bank transfer (automatic),No,0,10,Low Risk
+8124-NZVGJ,Female,,No,No,6,One year,DSL,Yes,No,49.25,255.6,Mailed check,No,0,21,Low Risk
+4378-BZYFP,Male,,No,No,17,One year,No,No internet service,No internet service,20.5,365.8,Mailed check,No,0,2,Low Risk
+9853-JFZDU,Female,,Yes,No,35,Month-to-month,DSL,Yes,No,56.85,1861.1,Electronic check,No,0,23,Low Risk
+7517-SAWMO,Female,,Yes,No,19,Month-to-month,Fiber optic,No,Yes,73.2,1441.1,Electronic check,Yes,0,42,Medium Risk
+5797-APWZC,Female,,No,No,1,Month-to-month,Fiber optic,No,No,90.6,90.6,Electronic check,Yes,1,100,High Risk
+6635-CPNUN,Male,,Yes,No,28,Month-to-month,Fiber optic,No,No,96.6,2684.35,Credit card (automatic),No,1,54,Medium Risk
+6158-DWPZT,Male,,Yes,No,9,One year,DSL,No,No,24.1,259.8,Bank transfer (automatic),Yes,0,19,Low Risk
+0925-VYDLG,Female,,No,No,3,Month-to-month,Fiber optic,No,No,75.25,242,Electronic check,Yes,0,45,Medium Risk
+0487-VVUVK,Male,,Yes,Yes,25,Month-to-month,No,No internet service,No internet service,19.15,477.6,Mailed check,No,0,18,Low Risk
+7359-SSBJK,Female,,No,No,64,Two year,DSL,Yes,Yes,70.2,4481,Credit card (automatic),Yes,0,3,Low Risk
+6549-YMFAW,Male,,Yes,No,9,Month-to-month,No,No internet service,No internet service,21.25,204.55,Mailed check,No,0,22,Low Risk
+9134-CEQMF,Male,,Yes,No,7,Month-to-month,Fiber optic,No,No,89.5,676.7,Electronic check,Yes,1,54,Medium Risk
+8932-CZHRQ,Male,,No,No,68,One year,DSL,No,Yes,76.75,5233.25,Credit card (automatic),No,0,26,Low Risk
+2545-EBUPK,Female,,No,No,2,Month-to-month,Fiber optic,No,No,84.05,186.05,Electronic check,No,1,94,High Risk
+5729-KLZAR,Female,,Yes,No,4,Month-to-month,Fiber optic,No,No,80.85,302.75,Electronic check,Yes,1,72,High Risk
+4598-XLKNJ,Female,,Yes,Yes,25,Month-to-month,Fiber optic,No,No,98.5,2514.5,Electronic check,Yes,0,12,Low Risk
+2080-SRCDE,Female,,No,Yes,1,Month-to-month,No,No internet service,No internet service,25.4,25.4,Mailed check,No,0,7,Low Risk
+7994-UYIVZ,Male,,Yes,No,8,Month-to-month,Fiber optic,No,No,85.65,659.45,Bank transfer (automatic),No,1,91,High Risk
+6502-HCJTI,Male,,Yes,No,7,Month-to-month,Fiber optic,No,Yes,94.7,673.1,Credit card (automatic),Yes,1,54,Medium Risk
+7833-PKIHD,Male,,Yes,No,51,One year,DSL,Yes,Yes,76.4,3966.3,Bank transfer (automatic),No,0,15,Low Risk
+8292-FRFZQ,Female,,No,No,39,One year,DSL,Yes,Yes,41.15,1700.9,Bank transfer (automatic),No,0,3,Low Risk
+6338-AVWCY,Male,,No,No,3,Month-to-month,DSL,No,No,40.15,130.75,Mailed check,Yes,1,70,High Risk
+8584-KMVXD,Female,,No,No,8,Month-to-month,Fiber optic,No,No,75.6,535.55,Electronic check,No,0,46,Medium Risk
+4603-JANFB,Male,,No,No,1,Month-to-month,Fiber optic,No,No,69.85,69.85,Electronic check,Yes,1,100,High Risk
+0886-QGENL,Female,,Yes,No,27,Month-to-month,Fiber optic,No,Yes,101.25,2754.45,Electronic check,Yes,1,68,High Risk
+3389-YGYAI,Female,,No,No,8,Month-to-month,Fiber optic,No,No,105.5,829.55,Electronic check,Yes,1,80,High Risk
+2753-JMMCV,Male,,No,No,65,Two year,DSL,Yes,No,74.2,4805.65,Credit card (automatic),No,0,2,Low Risk
+4431-EDMIQ,Female,,Yes,Yes,7,Month-to-month,DSL,Yes,Yes,75.7,554.05,Electronic check,No,0,20,Low Risk
+6296-DDOOR,Female,,No,No,19,One year,DSL,No,No,58.2,1045.25,Electronic check,No,0,7,Low Risk
+3197-NNYNB,Male,,No,No,65,Two year,Fiber optic,No,No,105.1,6631.85,Credit card (automatic),No,0,3,Low Risk
+2712-SYWAY,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,25.7,25.7,Electronic check,No,0,29,Low Risk
+9233-PSYHO,Female,,No,No,45,One year,Fiber optic,No,No,100.15,4459.8,Bank transfer (automatic),No,0,10,Low Risk
+8548-AWOFC,Male,,Yes,No,66,Month-to-month,DSL,Yes,No,63.85,4264.6,Electronic check,No,0,20,Low Risk
+9375-MHRRS,Male,,No,No,6,Month-to-month,DSL,Yes,No,50.05,288.35,Mailed check,No,0,34,Medium Risk
+2773-MADBQ,Female,,No,No,36,Two year,DSL,Yes,Yes,53.1,1901.25,Mailed check,No,0,1,Low Risk
+7670-ZBPOQ,Female,,Yes,No,58,One year,DSL,Yes,Yes,61.05,3478.75,Bank transfer (automatic),No,0,8,Low Risk
+2560-PPCHE,Female,,No,No,65,One year,Fiber optic,Yes,No,105.05,6744.25,Bank transfer (automatic),No,0,41,Medium Risk
+6959-UWKHF,Male,,No,No,1,Month-to-month,DSL,No,No,42.9,42.9,Electronic check,Yes,1,66.5,High Risk
+9929-PLVPA,Female,,No,Yes,4,Month-to-month,No,No internet service,No internet service,20.4,94.5,Credit card (automatic),No,0,8,Low Risk
+2041-JIJCI,Female,,No,No,5,Month-to-month,DSL,No,No,64,370.25,Electronic check,No,0,24,Low Risk
+8071-SBTRN,Female,,No,No,70,Two year,Fiber optic,No,Yes,111.15,7737.55,Mailed check,No,0,11,Low Risk
+1293-HHSHJ,Female,,No,No,35,One year,No,No internet service,No internet service,21.1,741,Mailed check,No,0,2,Low Risk
+1676-MQAOA,Male,,No,No,72,Two year,DSL,Yes,Yes,75.1,5336.35,Bank transfer (automatic),No,0,2,Low Risk
+4013-GUXND,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.8,20.8,Mailed check,No,0,39.8,Medium Risk
+8878-HMWBV,Male,,No,No,3,Month-to-month,DSL,No,No,49.15,169.05,Electronic check,Yes,1,82,High Risk
+0186-CAERR,Male,,No,No,71,One year,Fiber optic,Yes,Yes,116.3,8309.55,Bank transfer (automatic),No,0,17,Low Risk
+1571-SAVHK,Male,,No,No,12,Month-to-month,Fiber optic,Yes,No,99.95,1132.75,Mailed check,Yes,1,78,High Risk
+8745-PVESG,Female,,No,No,57,One year,DSL,Yes,Yes,41.1,2258.25,Credit card (automatic),No,0,6,Low Risk
+4289-DTDKW,Male,,Yes,No,40,Month-to-month,Fiber optic,No,No,101.3,4113.1,Electronic check,Yes,1,72,High Risk
+3987-KQDDU,Male,,No,No,9,Month-to-month,Fiber optic,No,Yes,75.6,661.55,Electronic check,No,0,40,Medium Risk
+6704-UTUKK,Male,,Yes,No,29,Month-to-month,DSL,No,No,45.9,1332.4,Electronic check,No,0,13,Low Risk
+3166-PNEOF,Female,,No,No,61,Two year,DSL,Yes,Yes,86.45,5175.3,Credit card (automatic),No,0,2,Low Risk
+2013-SGDXK,Female,,No,No,1,Month-to-month,Fiber optic,No,No,84.3,84.3,Electronic check,Yes,1,78,High Risk
+7881-INRLC,Male,,No,No,45,Month-to-month,Fiber optic,No,No,100.85,4740,Credit card (automatic),Yes,1,54,Medium Risk
+6575-SUVOI,Female,,Yes,No,25,Month-to-month,DSL,Yes,Yes,69.5,1752.65,Credit card (automatic),No,0,21,Low Risk
+0708-SJDIS,Female,,No,No,34,Month-to-month,DSL,Yes,No,65,2157.5,Mailed check,No,0,28,Low Risk
+8267-KFGYD,Male,,No,Yes,1,Month-to-month,No,No internet service,No internet service,21.05,21.05,Mailed check,No,0,39,Medium Risk
+2856-HYAPG,Female,,No,No,1,Month-to-month,Fiber optic,No,No,68.65,68.65,Electronic check,Yes,1,94,High Risk
+0244-LGNFY,Female,,Yes,Yes,72,Two year,DSL,Yes,Yes,92.65,6733,Bank transfer (automatic),No,0,8,Low Risk
+9570-KYEUA,Male,,No,No,64,Two year,Fiber optic,Yes,Yes,99.25,6549.45,Credit card (automatic),No,0,11,Low Risk
+0859-YGKFW,Male,,Yes,Yes,18,One year,No,No internet service,No internet service,20.05,345.9,Bank transfer (automatic),No,0,8,Low Risk
+3312-UUMZW,Male,,Yes,No,32,Month-to-month,Fiber optic,No,No,98.85,3145.9,Credit card (automatic),No,1,57,Medium Risk
+2391-IPLOP,Male,,Yes,No,50,One year,DSL,Yes,No,69.65,3442.15,Electronic check,No,0,12,Low Risk
+1394-SUIUH,Female,,Yes,No,44,Month-to-month,Fiber optic,Yes,Yes,85.15,3670.5,Electronic check,No,0,22,Low Risk
+2565-JSLRY,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,24.05,24.05,Mailed check,Yes,0,3.7,Low Risk
+1976-CFOCS,Female,,Yes,No,1,Month-to-month,DSL,No,No,46,46,Electronic check,Yes,1,88,High Risk
+0225-ZORZP,Male,,No,No,3,Month-to-month,Fiber optic,No,No,84.3,235.05,Electronic check,No,1,57,Medium Risk
+4183-MYFRB,Female,,No,No,21,Month-to-month,Fiber optic,No,No,90.05,1862.9,Electronic check,No,1,59,Medium Risk
+4119-ZYPZY,Male,,No,No,71,Two year,Fiber optic,Yes,No,106.8,7623.2,Electronic check,No,0,20,Low Risk
+5297-MDOIR,Female,,Yes,No,63,One year,Fiber optic,No,Yes,81.15,5224.5,Credit card (automatic),No,0,2,Low Risk
+6923-EFPNL,Male,,No,No,4,Month-to-month,DSL,No,No,51.75,201.1,Credit card (automatic),Yes,0,45,Medium Risk
+9699-UBQFS,Female,,Yes,No,43,Month-to-month,Fiber optic,No,Yes,94.5,4156.8,Electronic check,No,0,42,Medium Risk
+3588-WSTTJ,Female,,No,No,35,Month-to-month,Fiber optic,No,Yes,99.05,3554.6,Electronic check,No,1,64,High Risk
+4958-GZWIY,Male,,Yes,No,7,Month-to-month,DSL,No,No,48.7,340.25,Electronic check,Yes,0,36,Medium Risk
+5274-XHAKY,Female,,Yes,Yes,41,Month-to-month,Fiber optic,No,Yes,94.3,3893.6,Bank transfer (automatic),No,0,11,Low Risk
+1268-ASBGA,Female,,Yes,No,16,Month-to-month,Fiber optic,No,No,85.35,1375.15,Credit card (automatic),Yes,1,75,High Risk
+7825-GKXMW,Female,,No,No,1,Month-to-month,DSL,No,No,45.8,45.8,Electronic check,Yes,1,94.3,High Risk
+3365-SAIGS,Female,,No,No,17,Month-to-month,Fiber optic,No,No,83.55,1329.15,Electronic check,No,1,62,High Risk
+7789-CRUVC,Female,,Yes,No,61,Month-to-month,Fiber optic,Yes,Yes,94.2,5895.45,Credit card (automatic),No,0,11,Low Risk
+4188-FRABG,Male,,Yes,No,57,Month-to-month,Fiber optic,Yes,Yes,103.05,5925.75,Electronic check,No,1,51,Medium Risk
+5649-RXQTV,Male,,No,No,51,Month-to-month,Fiber optic,No,No,99,5038.15,Electronic check,No,0,40,Medium Risk
+5887-IKKYO,Male,,Yes,Yes,58,Two year,Fiber optic,Yes,No,94.35,5563.65,Bank transfer (automatic),No,0,1,Low Risk
+3935-TBRZZ,Male,,Yes,No,44,One year,No,No internet service,No internet service,25.7,1110.5,Mailed check,No,0,1,Low Risk
+5172-MIGPM,Male,,No,No,4,Month-to-month,DSL,Yes,No,65.55,237.2,Mailed check,No,0,20,Low Risk
+5201-USSQZ,Female,,Yes,No,26,Month-to-month,Fiber optic,Yes,No,85.9,2196.45,Credit card (automatic),No,0,34,Medium Risk
+1063-DHQJF,Male,,Yes,Yes,69,Two year,Fiber optic,Yes,No,92.15,6480.9,Mailed check,No,0,2,Low Risk
+1447-GIQMR,Male,,Yes,No,1,Month-to-month,Fiber optic,No,No,69.15,69.15,Electronic check,Yes,1,100,High Risk
+5327-XOKKY,Male,,Yes,No,72,Two year,DSL,No,No,73.45,5329,Credit card (automatic),No,0,23,Low Risk
+6691-CCIHA,Female,,Yes,No,62,Two year,DSL,Yes,Yes,84.95,5150.55,Electronic check,No,0,1,Low Risk
+8901-HJXTF,Female,,Yes,No,12,Month-to-month,DSL,No,No,29.2,309.1,Mailed check,Yes,0,13,Low Risk
+7377-DMMRI,Male,,No,No,2,Month-to-month,DSL,No,Yes,47.8,92.45,Electronic check,Yes,1,77,High Risk
+0924-BJCRC,Female,,Yes,No,60,Month-to-month,Fiber optic,No,No,89.45,5294.6,Electronic check,No,0,21,Low Risk
+6212-ATMLK,Female,,No,No,50,Month-to-month,Fiber optic,No,No,95.7,4729.75,Electronic check,No,1,89,High Risk
+6464-KEXXH,Male,,No,No,8,Month-to-month,DSL,No,No,25.25,186.3,Credit card (automatic),No,0,18,Low Risk
+7311-MQJCH,Female,,No,No,5,One year,No,No internet service,No internet service,19.55,99.6,Electronic check,No,0,3,Low Risk
+3494-JCHRQ,Male,,No,No,1,Month-to-month,Fiber optic,No,No,70.05,70.05,Electronic check,Yes,0,37,Medium Risk
+5565-FILXA,Female,,No,No,16,Month-to-month,Fiber optic,No,No,96.15,1529.2,Electronic check,Yes,1,85,High Risk
+9659-ZTWSM,Male,,Yes,No,66,One year,Fiber optic,Yes,No,107.35,7051.95,Bank transfer (automatic),No,0,13,Low Risk
+4827-LTQRJ,Female,,Yes,Yes,66,One year,Fiber optic,Yes,Yes,110.6,7210.85,Credit card (automatic),No,0,3,Low Risk
+5676-CFLYY,Male,,Yes,No,71,Two year,DSL,Yes,No,73.35,5154.5,Credit card (automatic),No,0,5,Low Risk
+1629-DQQVB,Female,,No,No,14,Month-to-month,DSL,No,Yes,50.1,709.5,Bank transfer (automatic),No,0,31,Medium Risk
+2323-ARSVR,Male,,Yes,No,67,Two year,Fiber optic,Yes,Yes,111.05,7321.05,Electronic check,No,0,25,Low Risk
+3605-JISKB,Male,,Yes,No,55,One year,DSL,No,Yes,60,3316.1,Credit card (automatic),No,0,11,Low Risk
+5552-ZNFSJ,Male,,No,No,1,Month-to-month,DSL,No,No,45.3,45.3,Electronic check,Yes,1,75,High Risk
+8784-CGILN,Female,,No,No,18,Month-to-month,Fiber optic,Yes,No,99.85,1776.95,Bank transfer (automatic),Yes,0,43,Medium Risk
+8182-BJDSI,Female,,No,No,28,Month-to-month,Fiber optic,No,No,89.95,2625.55,Electronic check,Yes,1,62,High Risk
+4727-MCYZG,Male,,No,No,1,Month-to-month,DSL,No,No,55.55,55.55,Mailed check,No,1,58,Medium Risk
+9102-IAYHT,Female,,Yes,No,17,Month-to-month,Fiber optic,No,No,85.45,1451.6,Electronic check,Yes,1,87,High Risk
+8713-IGZSO,Male,,No,No,2,Month-to-month,No,No internet service,No internet service,24.85,62,Mailed check,No,0,12,Low Risk
+2674-MLXMN,Female,,No,No,71,Month-to-month,Fiber optic,No,No,99.65,6951.15,Credit card (automatic),No,1,60,Medium Risk
+0582-AVCLN,Female,,No,No,38,Two year,No,No internet service,No internet service,20.3,743.05,Mailed check,No,0,1,Low Risk
+3787-TRIAL,Male,,Yes,Yes,21,Month-to-month,DSL,No,No,26.05,565.75,Electronic check,No,0,10,Low Risk
+7739-LAXOG,Female,,Yes,No,32,Month-to-month,Fiber optic,No,No,91.05,2954.5,Bank transfer (automatic),Yes,0,48,Medium Risk
+1663-MHLHE,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,19.2,19.2,Mailed check,No,0,11.7,Low Risk
+9835-ZIITK,Male,,Yes,No,66,One year,Fiber optic,Yes,No,110.85,7491.75,Electronic check,Yes,0,39,Medium Risk
+1980-KXVPM,Female,,No,No,3,Month-to-month,Fiber optic,No,No,75.05,256.25,Credit card (automatic),Yes,1,87,High Risk
+2080-CAZNM,Female,,No,No,41,Month-to-month,Fiber optic,No,No,104.4,4133.95,Electronic check,No,0,47,Medium Risk
+1343-EHPYB,Male,,Yes,No,63,Month-to-month,Fiber optic,No,No,103.4,6603,Electronic check,Yes,0,10,Low Risk
+5572-ZDXHY,Female,,No,No,22,Month-to-month,Fiber optic,No,No,84.3,1855.65,Mailed check,Yes,0,37,Medium Risk
+2225-ZRGSG,Female,,Yes,No,70,Two year,Fiber optic,Yes,Yes,93.9,6579.05,Bank transfer (automatic),Yes,0,7,Low Risk
+6064-PUPMC,Male,,Yes,Yes,23,One year,DSL,Yes,Yes,57.2,1423.35,Credit card (automatic),No,0,1,Low Risk
+1469-LBJQJ,Female,,Yes,No,66,Month-to-month,Fiber optic,No,No,105.2,6936.85,Electronic check,No,1,83,High Risk
+2908-ZTPNF,Female,,No,No,36,Month-to-month,DSL,Yes,No,34.85,1267.2,Bank transfer (automatic),No,0,11,Low Risk
+0282-NVSJS,Female,,Yes,Yes,12,Month-to-month,DSL,Yes,No,29.3,355.9,Mailed check,No,0,10,Low Risk
+3144-AUDBS,Female,,Yes,No,6,Month-to-month,DSL,Yes,No,49.15,270.8,Electronic check,Yes,0,37,Medium Risk
+1213-NGCUN,Female,,No,No,6,Month-to-month,DSL,Yes,No,49.65,267.35,Bank transfer (automatic),Yes,0,48,Medium Risk
+3138-BKYAV,Male,,No,No,6,Month-to-month,Fiber optic,No,No,85.35,489.45,Electronic check,Yes,1,61,High Risk
+0396-YCHWO,Male,,Yes,No,36,Month-to-month,Fiber optic,No,No,95.4,3474.2,Electronic check,No,1,73,High Risk
+1751-NCDLI,Male,,Yes,No,46,Month-to-month,Fiber optic,No,No,98.85,4564.9,Electronic check,No,1,84,High Risk
+3488-PGMQJ,Male,,No,No,8,Month-to-month,Fiber optic,No,No,74.5,606.55,Electronic check,Yes,0,40,Medium Risk
+3521-SYVOR,Female,,No,No,37,Month-to-month,DSL,No,No,64.75,2345.2,Electronic check,Yes,0,21,Low Risk
+7048-GXDAY,Male,,No,No,39,Month-to-month,Fiber optic,No,Yes,106.4,4040.65,Electronic check,No,1,71,High Risk
+8048-DSDFQ,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.2,20.2,Mailed check,No,0,18.4,Low Risk
+8466-PZBLH,Male,,Yes,Yes,67,Two year,Fiber optic,Yes,Yes,104.6,6885.75,Bank transfer (automatic),No,0,6,Low Risk
+5944-UGLLK,Male,,No,No,53,One year,DSL,Yes,No,54.9,3045.75,Credit card (automatic),No,0,6,Low Risk
+0772-GYEQQ,Male,,No,No,3,Month-to-month,Fiber optic,Yes,No,88.35,262.05,Mailed check,Yes,0,47,Medium Risk
+3452-ABWRL,Male,,No,No,47,Month-to-month,Fiber optic,No,No,86.05,3865.6,Credit card (automatic),No,1,53,Medium Risk
+0365-GXEZS,Male,,Yes,No,18,Month-to-month,Fiber optic,Yes,No,78.2,1468.75,Electronic check,No,0,30,Low Risk
+3131-NWVFJ,Female,,Yes,No,14,One year,No,No internet service,No internet service,19.55,294.5,Mailed check,No,0,1,Low Risk
+1455-UGQVH,Male,,Yes,No,10,Month-to-month,Fiber optic,No,No,98.5,1037.75,Electronic check,Yes,1,99,High Risk
+1015-OWJKI,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,19.05,19.05,Mailed check,No,0,2,Low Risk
+6253-GNHWH,Female,,Yes,Yes,71,Two year,DSL,Yes,Yes,71.1,5224.95,Mailed check,No,0,1,Low Risk
+6434-TTGJP,Male,,Yes,Yes,10,Two year,DSL,Yes,Yes,53.7,521,Credit card (automatic),No,0,3,Low Risk
+8033-VCZGH,Male,,Yes,No,50,One year,Fiber optic,No,Yes,103.95,5231.3,Electronic check,No,0,13,Low Risk
+8885-QSQBX,Female,,No,No,1,Month-to-month,DSL,No,Yes,49.55,49.55,Bank transfer (automatic),No,0,16,Low Risk
+6865-JZNKO,Female,,No,No,30,Month-to-month,DSL,No,Yes,55.3,1530.6,Bank transfer (automatic),No,0,18,Low Risk
+4130-MZLCC,Female,,No,No,5,Month-to-month,DSL,No,No,50.55,244.75,Bank transfer (automatic),No,0,39,Medium Risk
+9139-TWBAS,Female,,Yes,No,26,One year,DSL,No,Yes,47.85,1190.5,Bank transfer (automatic),No,0,12,Low Risk
+4186-ZBUEW,Female,,No,No,36,One year,DSL,Yes,No,70.7,2511.95,Mailed check,No,1,65,High Risk
+5756-JYOJT,Female,,No,No,11,One year,DSL,Yes,No,64.9,697.25,Credit card (automatic),No,0,11,Low Risk
+2001-EWBQU,Female,,No,No,60,Two year,Fiber optic,No,No,104.7,6333.8,Electronic check,No,0,10,Low Risk
+6794-HKIAJ,Male,,No,No,62,Month-to-month,Fiber optic,No,Yes,90.7,5586.45,Bank transfer (automatic),No,0,7,Low Risk
+1527-SXDPN,Male,,Yes,No,52,Two year,Fiber optic,Yes,No,96.25,4990.25,Bank transfer (automatic),Yes,0,6,Low Risk
+2043-WVTQJ,Male,,Yes,No,1,Month-to-month,DSL,No,Yes,55.7,55.7,Mailed check,No,1,66,High Risk
+2272-JKMSI,Female,,Yes,Yes,62,One year,Fiber optic,Yes,No,110.8,6840.95,Electronic check,No,0,5,Low Risk
+9101-BWFSS,Female,,Yes,No,50,One year,Fiber optic,Yes,Yes,108.55,5610.7,Electronic check,Yes,0,25,Low Risk
+6005-OBZPH,Female,,No,No,26,Month-to-month,Fiber optic,No,No,89.15,2277.65,Electronic check,Yes,1,57,Medium Risk
+7129-ACFOG,Female,,No,No,5,Month-to-month,DSL,No,Yes,53.8,283.95,Electronic check,No,0,34,Medium Risk
+8816-VXNZD,Female,,No,No,1,Month-to-month,Fiber optic,No,No,75.1,75.1,Electronic check,Yes,1,100,High Risk
+2884-GBPFB,Female,,Yes,No,35,Month-to-month,Fiber optic,No,No,70.3,2416.55,Electronic check,Yes,1,59,Medium Risk
+9242-TKFSV,Male,,Yes,No,72,Two year,DSL,Yes,Yes,65.1,4754.3,Credit card (automatic),No,0,1,Low Risk
+0617-FHSGK,Male,,No,No,49,Month-to-month,Fiber optic,No,No,75.2,3678.3,Credit card (automatic),Yes,0,35,Medium Risk
+9174-IHETN,Female,,No,Yes,50,Two year,Fiber optic,No,No,70.35,3533.6,Credit card (automatic),No,0,9,Low Risk
+9067-YGSCA,Female,,No,No,70,One year,No,No internet service,No internet service,26.05,1856.4,Credit card (automatic),No,0,10,Low Risk
+9574-RKJIF,Male,,Yes,No,30,Month-to-month,Fiber optic,No,Yes,94.4,2838.7,Electronic check,Yes,1,52,Medium Risk
+0230-WEQUW,Male,,Yes,No,66,Two year,DSL,Yes,Yes,56.6,3789.2,Bank transfer (automatic),No,0,2,Low Risk
+3221-CJMSG,Male,,No,No,24,Month-to-month,DSL,Yes,No,51.1,1269.6,Credit card (automatic),No,0,6,Low Risk
+3442-ZHHCC,Male,,No,No,68,One year,DSL,No,Yes,76.9,5023,Credit card (automatic),No,0,25,Low Risk
+6892-EZDTG,Female,,Yes,No,4,Month-to-month,Fiber optic,No,No,91.65,365.4,Electronic check,Yes,1,71,High Risk
+7945-HLKEA,Female,,No,No,60,One year,DSL,Yes,Yes,64.75,4039.5,Electronic check,No,0,5,Low Risk
+4919-MOAVT,Male,,No,No,3,Month-to-month,Fiber optic,No,No,69.65,220.1,Electronic check,Yes,0,22,Low Risk
+8999-BOHSE,Female,,No,No,11,Month-to-month,Fiber optic,No,No,89.7,1047.7,Bank transfer (automatic),Yes,1,88,High Risk
+6179-GJPSO,Female,,No,No,43,Month-to-month,Fiber optic,Yes,Yes,108.15,4600.7,Credit card (automatic),Yes,0,50,Medium Risk
+3002-WQZWT,Female,,No,No,29,Month-to-month,Fiber optic,No,No,74.2,1993.25,Electronic check,No,1,69,High Risk
+9867-JCZSP,Female,,Yes,No,17,One year,No,No internet service,No internet service,20.75,418.25,Mailed check,No,0,1,Low Risk
+4291-YZODP,Female,,No,Yes,7,One year,No,No internet service,No internet service,20.05,96.8,Mailed check,No,0,1,Low Risk
+4355-CVPVS,Female,,Yes,Yes,56,One year,Fiber optic,No,No,88.9,4968,Bank transfer (automatic),No,0,4,Low Risk
+2105-PHWON,Female,,Yes,No,33,Month-to-month,Fiber optic,Yes,No,95,3008.15,Credit card (automatic),No,0,29,Low Risk
+9620-ENEJV,Female,,No,No,6,Month-to-month,Fiber optic,No,No,70.55,433.95,Credit card (automatic),No,1,56,Medium Risk
+6828-HMKWP,Male,,Yes,Yes,12,Two year,No,No internet service,No internet service,21.05,262.05,Bank transfer (automatic),No,0,1,Low Risk
+1016-DJTSV,Male,,No,No,8,Month-to-month,Fiber optic,No,No,69.7,572.85,Electronic check,No,1,52,Medium Risk
+3703-VAVCL,Male,,Yes,No,2,Month-to-month,Fiber optic,Yes,No,90,190.05,Credit card (automatic),Yes,1,68,High Risk
+7037-MTYVW,Male,,Yes,Yes,38,Two year,DSL,Yes,Yes,85.4,3297,Bank transfer (automatic),No,0,1,Low Risk
+7508-MYBOG,Male,,Yes,No,14,Month-to-month,Fiber optic,No,No,86.1,1235.55,Electronic check,Yes,1,69,High Risk
+8515-OCTJS,Female,,No,No,25,Two year,No,No internet service,No internet service,24.75,692.1,Credit card (automatic),Yes,0,5,Low Risk
+0691-JVSYA,Female,,Yes,No,53,One year,Fiber optic,No,No,94.85,5000.2,Bank transfer (automatic),Yes,0,17,Low Risk
+1485-YDHMM,Male,,Yes,Yes,52,Month-to-month,Fiber optic,Yes,No,93.25,4631.7,Bank transfer (automatic),No,0,1,Low Risk
+3635-JBPSG,Female,,No,No,15,Two year,DSL,No,No,38.8,603,Mailed check,No,0,27,Low Risk
+5032-MIYKT,Female,,No,No,1,Month-to-month,Fiber optic,No,No,70.7,70.7,Mailed check,No,0,28,Low Risk
+2834-JKOOW,Female,,No,No,15,One year,DSL,Yes,Yes,45.9,693.45,Mailed check,No,0,7,Low Risk
+9374-YOLBJ,Female,,Yes,Yes,1,Month-to-month,No,No internet service,No internet service,19.25,19.25,Electronic check,No,0,15,Low Risk
+8591-TKMZH,Male,,Yes,Yes,59,Two year,Fiber optic,Yes,Yes,111.1,6555.2,Mailed check,No,0,5,Low Risk
+4831-EOBFE,Male,,Yes,No,29,Month-to-month,Fiber optic,No,Yes,94.65,2649.15,Credit card (automatic),Yes,0,30,Low Risk
+6158-HDPXZ,Male,,No,No,1,Month-to-month,DSL,No,No,25.35,25.35,Mailed check,No,1,79.6,High Risk
+5734-EJKXG,Female,,No,No,61,One year,Fiber optic,Yes,Yes,118.6,7365.7,Electronic check,No,0,36,Medium Risk
+8984-EYLLL,Male,,Yes,No,64,Two year,Fiber optic,Yes,No,105.25,6823.4,Electronic check,No,0,11,Low Risk
+0032-PGELS,Female,,Yes,Yes,1,Month-to-month,DSL,No,Yes,30.5,30.5,Bank transfer (automatic),Yes,0,44,Medium Risk
+8999-YPYBV,Male,,Yes,No,45,Two year,DSL,Yes,Yes,84.35,3858.05,Mailed check,No,0,1,Low Risk
+1459-QNFQT,Male,,Yes,No,70,Two year,DSL,Yes,Yes,59.5,4144.8,Bank transfer (automatic),No,0,2,Low Risk
+6906-ANDWJ,Male,,Yes,No,15,Month-to-month,Fiber optic,No,No,74.9,1107.25,Bank transfer (automatic),Yes,1,69,High Risk
+2462-XIIJB,Male,,No,No,5,Month-to-month,Fiber optic,No,No,92.5,452.7,Electronic check,Yes,1,78,High Risk
+1867-TJHTS,Female,,No,No,58,Month-to-month,Fiber optic,No,Yes,79.8,4526.85,Bank transfer (automatic),No,0,26,Low Risk
+6972-SNKKW,Female,,No,No,6,Month-to-month,No,No internet service,No internet service,20,109.2,Mailed check,No,0,2,Low Risk
+5170-PTRKA,Female,,Yes,No,49,One year,DSL,Yes,Yes,35.8,1782,Credit card (automatic),No,0,2,Low Risk
+9356-AXGMP,Male,,Yes,No,38,One year,Fiber optic,Yes,Yes,110.7,4428.6,Electronic check,No,0,44,Medium Risk
+7493-TPUWZ,Male,,No,No,1,Month-to-month,Fiber optic,No,No,79.15,79.15,Electronic check,Yes,1,70,High Risk
+5180-UCIIQ,Male,,Yes,Yes,22,Month-to-month,DSL,No,Yes,40.05,880.2,Mailed check,Yes,0,12,Low Risk
+0361-HJRDX,Female,,No,No,68,Two year,DSL,Yes,Yes,64.35,4539.6,Credit card (automatic),No,0,1,Low Risk
+4654-ULTTN,Male,,Yes,No,70,Two year,DSL,Yes,Yes,74.8,5315.8,Credit card (automatic),No,0,2,Low Risk
+8624-GIOUT,Female,,No,No,49,Month-to-month,DSL,No,Yes,59.75,2934.3,Credit card (automatic),Yes,0,2,Low Risk
+9701-CDXHR,Female,,Yes,No,51,Month-to-month,Fiber optic,No,No,69.15,3649.6,Mailed check,No,0,41,Medium Risk
+7964-ZRKKG,Male,,Yes,No,67,One year,Fiber optic,No,No,88.4,5798.3,Bank transfer (automatic),No,0,19,Low Risk
+5055-MGMGF,Female,,Yes,No,65,Month-to-month,Fiber optic,No,Yes,105.05,6914.95,Electronic check,No,0,29,Low Risk
+5293-WXJAK,Female,,Yes,No,11,Month-to-month,Fiber optic,Yes,No,104.05,1133.65,Bank transfer (automatic),Yes,1,66,High Risk
+2081-VEYEH,Male,,No,No,3,Month-to-month,Fiber optic,Yes,No,107.95,318.6,Electronic check,No,1,80,High Risk
+0701-RFGFI,Female,,Yes,Yes,49,Month-to-month,Fiber optic,No,No,95.4,4613.95,Bank transfer (automatic),No,0,4,Low Risk
+0480-BIXDE,Female,,Yes,No,19,Month-to-month,Fiber optic,No,No,96.8,1743.05,Electronic check,No,1,74,High Risk
+0307-BCOPK,Female,,No,No,16,One year,No,No internet service,No internet service,19.05,326.65,Mailed check,No,0,1,Low Risk
+5092-STPKP,Female,,No,No,24,Month-to-month,DSL,Yes,Yes,56.35,1381.2,Credit card (automatic),No,0,19,Low Risk
+2207-RYYRL,Male,,Yes,Yes,52,Two year,No,No internet service,No internet service,24.55,1331.05,Mailed check,No,0,1,Low Risk
+6625-IUTTT,Male,,No,No,67,Two year,DSL,No,Yes,65.55,4361.55,Bank transfer (automatic),No,0,4,Low Risk
+1942-OQFRW,Male,,No,No,1,Month-to-month,DSL,No,No,44,44,Electronic check,No,0,7.7,Low Risk
+0533-BNWKF,Female,,Yes,No,55,Month-to-month,Fiber optic,No,No,85.45,4874.7,Electronic check,Yes,0,32,Medium Risk
+3933-DQPWX,Female,,No,No,50,Two year,DSL,Yes,No,39.7,1932.75,Credit card (automatic),No,0,14,Low Risk
+2898-LSJGD,Female,,Yes,No,21,One year,DSL,No,Yes,55.95,1157.05,Electronic check,Yes,0,18,Low Risk
+5154-VEKBL,Female,,No,No,9,Month-to-month,DSL,Yes,Yes,58.5,539.85,Mailed check,Yes,0,21,Low Risk
+9489-UTFKA,Male,,Yes,No,8,Month-to-month,DSL,No,Yes,60.9,551.95,Bank transfer (automatic),No,0,26,Low Risk
+2530-ENDWQ,Female,,Yes,No,71,Two year,Fiber optic,No,No,93.7,6585.35,Bank transfer (automatic),Yes,0,6,Low Risk
+0017-DINOC,Male,,No,No,54,Two year,DSL,Yes,Yes,45.2,2460.55,Credit card (automatic),No,0,5,Low Risk
+3780-DDGSE,Male,,Yes,Yes,35,Month-to-month,DSL,Yes,No,76.05,2747.2,Electronic check,No,0,9,Low Risk
+2507-QZPQS,Male,,No,No,15,Month-to-month,Fiber optic,Yes,No,95.7,1451.1,Electronic check,No,1,62,High Risk
+5439-WIKXB,Male,,Yes,No,41,Month-to-month,Fiber optic,No,No,94.55,3851.45,Electronic check,No,0,43,Medium Risk
+0268-QKIWO,Female,,No,No,3,Month-to-month,No,No internet service,No internet service,19.75,58.85,Electronic check,Yes,0,12,Low Risk
+9839-ETQOE,Male,,No,Yes,43,Month-to-month,DSL,No,Yes,40.45,1912.85,Electronic check,No,0,19,Low Risk
+4455-BFSPD,Female,,Yes,No,61,One year,Fiber optic,Yes,No,101.15,6383.9,Bank transfer (automatic),No,0,28,Low Risk
+5886-VLQVU,Male,,Yes,No,35,Month-to-month,Fiber optic,Yes,No,89.85,3161.2,Bank transfer (automatic),No,0,35,Medium Risk
+7890-VYYWG,Male,,Yes,No,3,Month-to-month,DSL,No,No,36.45,93.7,Mailed check,Yes,1,53,Medium Risk
+0031-PVLZI,Female,,Yes,No,4,Month-to-month,No,No internet service,No internet service,20.35,76.35,Mailed check,Yes,0,8,Low Risk
+4238-JSSWH,Female,,Yes,No,35,Month-to-month,Fiber optic,No,No,102.05,3452.55,Bank transfer (automatic),No,0,41,Medium Risk
+0771-WLCLA,Female,,Yes,Yes,16,Month-to-month,Fiber optic,Yes,Yes,112.95,1882.55,Electronic check,No,0,32,Medium Risk
+8468-FZTOE,Female,,Yes,Yes,72,Two year,DSL,Yes,Yes,74.35,5237.4,Electronic check,No,0,2,Low Risk
+5850-BDWCY,Female,,No,No,6,Month-to-month,No,No internet service,No internet service,20.2,123.65,Mailed check,No,0,11,Low Risk
+4588-YBNIB,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,19.6,19.6,Mailed check,Yes,1,69.6,High Risk
+4355-HBJHH,Male,,Yes,No,67,Two year,DSL,No,Yes,79.7,5293.4,Electronic check,Yes,0,1,Low Risk
+9107-UKCKY,Male,,Yes,No,61,One year,DSL,No,No,79.8,4914.8,Electronic check,No,0,29,Low Risk
+5081-NWSUP,Female,,No,No,10,One year,DSL,Yes,No,64.9,685.55,Mailed check,No,0,22,Low Risk
+6680-NENYN,Female,,No,No,43,Two year,Fiber optic,No,No,104.6,4759.85,Electronic check,Yes,0,9,Low Risk
+9066-QRSDU,Female,,Yes,No,69,One year,No,No internet service,No internet service,26.3,1763.55,Electronic check,No,0,7,Low Risk
+7176-WIONM,Female,,Yes,No,12,Month-to-month,DSL,No,No,49.85,617.15,Bank transfer (automatic),No,1,57,Medium Risk
+6211-WHMYA,Female,,No,No,64,Month-to-month,DSL,Yes,No,43.85,2751,Electronic check,No,0,15,Low Risk
+2675-IJRGJ,Male,,No,No,53,Two year,No,No internet service,No internet service,19.65,978,Bank transfer (automatic),No,0,1,Low Risk
+8849-PRIQJ,Female,,Yes,Yes,67,One year,Fiber optic,Yes,Yes,109.4,7281.6,Electronic check,No,0,2,Low Risk
+2722-VOJQL,Male,,No,No,64,One year,Fiber optic,Yes,No,105.65,6903.1,Credit card (automatic),Yes,0,35,Medium Risk
+4580-TMHJU,Female,,Yes,No,43,Month-to-month,DSL,No,No,56.15,2499.3,Electronic check,Yes,0,24,Low Risk
+1934-SJVJK,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.15,20.15,Mailed check,Yes,1,52.3,Medium Risk
+4853-OITSN,Male,,Yes,No,5,Month-to-month,Fiber optic,No,Yes,89.15,413.25,Electronic check,No,0,40,Medium Risk
+6341-AEVKX,Female,,Yes,No,62,One year,Fiber optic,Yes,Yes,104.3,6613.65,Electronic check,No,0,17,Low Risk
+7660-HDPJV,Female,,No,No,1,Month-to-month,Fiber optic,No,No,69.2,69.2,Electronic check,Yes,1,100,High Risk
+4360-PNRQB,Male,,No,No,18,Month-to-month,Fiber optic,No,No,75.6,1395.05,Bank transfer (automatic),No,0,31,Medium Risk
+9788-YTFGE,Male,,No,No,7,Month-to-month,No,No internet service,No internet service,19.95,147.5,Mailed check,No,0,10,Low Risk
+2573-GYRUU,Male,,Yes,No,48,Month-to-month,Fiber optic,No,No,91.05,4370.75,Credit card (automatic),No,0,50,Medium Risk
+1792-UXAFY,Female,,No,No,17,Month-to-month,Fiber optic,No,No,89.15,1496.9,Electronic check,Yes,1,69,High Risk
+2265-CYWIV,Female,,Yes,No,4,Month-to-month,Fiber optic,No,Yes,99.6,347.65,Electronic check,Yes,1,72,High Risk
+3948-FVVRP,Male,,Yes,Yes,9,Month-to-month,DSL,Yes,No,54.8,452.8,Mailed check,No,0,20,Low Risk
+0122-OAHPZ,Female,,No,No,7,Month-to-month,Fiber optic,No,No,73.85,511.25,Electronic check,Yes,0,25,Low Risk
+5061-PBXFW,Female,,Yes,Yes,32,Month-to-month,DSL,Yes,Yes,61.4,1864.65,Bank transfer (automatic),No,0,7,Low Risk
+4226-KKDON,Male,,No,No,8,Month-to-month,DSL,Yes,No,66.65,520.95,Electronic check,No,0,16,Low Risk
+5605-IYGFG,Female,,No,No,7,Month-to-month,Fiber optic,No,No,69.85,515.45,Bank transfer (automatic),No,0,46,Medium Risk
+8318-LCNBW,Male,,Yes,No,35,One year,DSL,No,Yes,53.15,1930.9,Credit card (automatic),No,0,8,Low Risk
+3541-ZNUHK,Female,,Yes,Yes,55,Month-to-month,Fiber optic,No,Yes,85.1,4600.95,Electronic check,No,0,15,Low Risk
+9909-IDLEK,Male,,Yes,Yes,20,Month-to-month,Fiber optic,Yes,No,96.8,1826.7,Mailed check,No,0,14,Low Risk
+3589-PPVKW,Male,,No,No,9,Month-to-month,DSL,No,No,44.4,348.15,Mailed check,No,0,43,Medium Risk
+8404-VIOMB,Female,,No,No,66,Two year,DSL,Yes,Yes,62.5,4136.4,Bank transfer (automatic),No,0,1,Low Risk
+9272-LSVYH,Male,,No,No,10,Month-to-month,Fiber optic,No,No,70.15,735.5,Mailed check,No,0,22,Low Risk
+0002-ORFBO,Female,,Yes,No,9,One year,DSL,Yes,No,65.6,593.3,Mailed check,No,0,18,Low Risk
+0323-XWWTN,Male,,No,Yes,3,Two year,No,No internet service,No internet service,26.4,121.25,Mailed check,No,0,3,Low Risk
+2957-JIRMN,Female,,No,No,62,One year,Fiber optic,No,No,84.45,4959.15,Electronic check,No,0,43,Medium Risk
+2452-KDRRH,Male,,No,No,67,Month-to-month,Fiber optic,No,No,101.4,6841.05,Credit card (automatic),No,1,68,High Risk
+8468-EHYJA,Female,,Yes,No,57,Month-to-month,Fiber optic,No,Yes,99.65,5497.05,Electronic check,No,1,54,Medium Risk
+7078-NVFAM,Female,,Yes,Yes,32,Month-to-month,DSL,No,Yes,35.15,1051.05,Electronic check,No,0,12,Low Risk
+7459-IMVYU,Male,,No,No,38,Month-to-month,DSL,Yes,Yes,69.95,2657.55,Electronic check,No,0,20,Low Risk
+9971-ZWPBF,Male,,Yes,Yes,34,Month-to-month,Fiber optic,Yes,No,108.9,3625.2,Electronic check,No,0,14,Low Risk
+7538-GWHML,Female,,No,No,2,Month-to-month,Fiber optic,No,No,69.65,145.15,Electronic check,Yes,0,36,Medium Risk
+6077-BDPXA,Female,,No,No,3,Month-to-month,Fiber optic,No,No,70.15,194.2,Electronic check,No,1,62,High Risk
+1470-PSXNM,Male,,Yes,Yes,49,One year,Fiber optic,No,No,93.65,4520.15,Electronic check,No,0,1,Low Risk
+5140-FOMCQ,Female,,Yes,No,59,One year,Fiber optic,No,Yes,109.15,6557.75,Credit card (automatic),No,0,36,Medium Risk
+7519-JTWQH,Female,,No,No,69,Two year,Fiber optic,Yes,No,110.5,7455.45,Bank transfer (automatic),No,0,33,Medium Risk
+2469-DTSGX,Female,,No,No,72,Two year,Fiber optic,Yes,No,111.65,7943.45,Electronic check,No,0,10,Low Risk
+6726-WEXXK,Male,,Yes,No,27,One year,Fiber optic,No,Yes,85.9,2220.1,Electronic check,No,0,28,Low Risk
+0508-OOLTO,Female,,Yes,Yes,2,Month-to-month,Fiber optic,No,No,71.65,135.75,Electronic check,No,0,47,Medium Risk
+5699-BNCAS,Male,,No,No,71,Two year,No,No internet service,No internet service,24.65,1766.75,Mailed check,No,0,2,Low Risk
+4902-OHLSK,Female,,No,No,29,Month-to-month,Fiber optic,Yes,No,98.65,2862.75,Electronic check,Yes,0,36,Medium Risk
+8069-YQQAJ,Male,,No,No,14,Month-to-month,DSL,No,No,31.1,419.7,Mailed check,No,0,20,Low Risk
+0979-MOZQI,Male,,Yes,No,62,Two year,DSL,Yes,No,39,2337.45,Bank transfer (automatic),No,0,5,Low Risk
+4299-OPXEJ,Female,,No,No,56,Two year,No,No internet service,No internet service,19.55,1080.55,Bank transfer (automatic),No,0,1,Low Risk
+5055-BRMNE,Female,,Yes,Yes,67,Two year,Fiber optic,Yes,Yes,106.7,7009.5,Credit card (automatic),No,0,5,Low Risk
+1697-BCSHV,Female,,Yes,Yes,58,Month-to-month,DSL,No,No,66.8,3970.4,Bank transfer (automatic),No,0,5,Low Risk
+7587-AOVVU,Male,,Yes,Yes,27,Month-to-month,Fiber optic,Yes,Yes,100.75,2793.55,Electronic check,No,0,21,Low Risk
+8189-DUKMV,Female,,Yes,No,4,One year,No,No internet service,No internet service,20.5,79.05,Bank transfer (automatic),No,0,15,Low Risk
+2592-SEIFQ,Male,,No,No,3,Month-to-month,DSL,No,No,24.75,66.95,Electronic check,Yes,1,60,Medium Risk
+7137-RYLPP,Male,,Yes,No,37,Month-to-month,Fiber optic,No,No,85.7,3171.15,Electronic check,Yes,1,55,Medium Risk
+3727-RJMEO,Male,,Yes,No,6,Month-to-month,Fiber optic,No,No,82.85,460.25,Electronic check,Yes,1,72,High Risk
+7055-HNEOJ,Male,,Yes,No,3,Month-to-month,DSL,Yes,No,55.8,154.55,Mailed check,No,0,38,Medium Risk
+5216-WASFJ,Female,,Yes,No,31,Month-to-month,Fiber optic,No,No,84.85,2633.4,Electronic check,No,1,91,High Risk
+4291-HYEBC,Female,,Yes,Yes,28,One year,DSL,No,No,39.1,1096.6,Electronic check,No,0,6,Low Risk
+5914-DVBWJ,Female,,No,No,18,Month-to-month,Fiber optic,Yes,No,85.45,1505.85,Electronic check,Yes,1,53,Medium Risk
+7024-OHCCK,Female,,No,No,2,Month-to-month,Fiber optic,No,No,93.85,170.85,Electronic check,Yes,1,94,High Risk
+1020-JPQOW,Female,,Yes,No,56,Month-to-month,Fiber optic,Yes,No,90.55,5116.6,Electronic check,No,0,10,Low Risk
+2607-FBDFF,Male,,No,No,1,Month-to-month,DSL,Yes,No,49,49,Credit card (automatic),No,0,35,Medium Risk
+8319-QBEHW,Male,,No,Yes,26,One year,DSL,No,No,39.95,1023.75,Bank transfer (automatic),No,0,6,Low Risk
+5673-FSSMF,Female,,No,No,1,Month-to-month,DSL,No,No,60.15,60.15,Electronic check,Yes,1,74,High Risk
+5275-SQEIZ,Male,,No,No,1,Month-to-month,Fiber optic,No,No,80.85,80.85,Mailed check,Yes,1,98,High Risk
+8622-ZLFKO,Female,,Yes,No,6,Month-to-month,Fiber optic,No,No,90.75,512.25,Electronic check,No,1,77,High Risk
+1335-HQMKX,Female,,Yes,No,72,One year,Fiber optic,No,No,101.35,7323.15,Electronic check,No,0,18,Low Risk
+5136-RGMZO,Male,,No,No,31,Month-to-month,DSL,Yes,No,71.05,2168.15,Electronic check,No,0,27,Low Risk
+2789-CZANW,Female,,Yes,Yes,64,Two year,Fiber optic,Yes,Yes,110.3,6997.3,Bank transfer (automatic),No,0,1,Low Risk
+7975-TZMLR,Male,,No,No,47,One year,Fiber optic,No,No,103.1,4889.3,Electronic check,No,0,18,Low Risk
+6999-CHVCF,Male,,No,No,68,Two year,Fiber optic,No,Yes,102.1,7149.35,Bank transfer (automatic),No,0,3,Low Risk
+1215-FIGMP,Male,,No,No,60,Month-to-month,Fiber optic,No,No,89.9,5450.7,Bank transfer (automatic),No,0,38,Medium Risk
+4248-HCETZ,Male,,Yes,No,30,Month-to-month,Fiber optic,No,No,79.65,2365.15,Mailed check,Yes,0,29,Low Risk
+2535-PBCGC,Female,,Yes,No,70,Two year,DSL,Yes,Yes,64.55,4504.9,Bank transfer (automatic),No,0,2,Low Risk
+9837-BMCLM,Male,,No,No,3,Month-to-month,Fiber optic,No,No,78.5,242.05,Electronic check,Yes,1,91,High Risk
+2000-MPKCA,Female,,No,No,58,One year,Fiber optic,No,Yes,107.75,6332.75,Electronic check,No,1,53,Medium Risk
+8837-VVWLQ,Female,,No,No,8,Month-to-month,Fiber optic,No,Yes,84.95,668.4,Electronic check,Yes,1,64,High Risk
+5397-TUPSH,Male,,Yes,No,65,One year,Fiber optic,No,No,70.95,4555.2,Bank transfer (automatic),No,0,15,Low Risk
+5681-LLOEI,Male,,Yes,Yes,43,One year,Fiber optic,Yes,Yes,91.25,4013.8,Credit card (automatic),No,0,2,Low Risk
+3393-FMZPV,Female,,No,No,25,Month-to-month,Fiber optic,No,No,100.25,2387.75,Electronic check,Yes,1,73,High Risk
+7016-BPGEU,Female,,No,No,29,Month-to-month,DSL,No,No,25.1,712.85,Credit card (automatic),Yes,0,15,Low Risk
+8972-HJWNV,Female,,Yes,No,7,Month-to-month,Fiber optic,No,No,84.55,646.85,Electronic check,Yes,1,95,High Risk
+4510-PYUSH,Female,,No,No,38,Month-to-month,DSL,No,Yes,57.15,2250.65,Credit card (automatic),Yes,0,11,Low Risk
+6705-LXORM,Female,,Yes,No,5,Month-to-month,Fiber optic,No,No,70.05,302.6,Electronic check,No,1,71,High Risk
+7919-ZODZZ,Female,,Yes,Yes,10,One year,DSL,No,No,65.9,660.05,Mailed check,No,0,12,Low Risk
+5232-NXPAY,Female,,No,No,47,Two year,DSL,Yes,No,74.45,3510.3,Mailed check,No,0,11,Low Risk
+1564-HJUVY,Male,,No,No,4,Month-to-month,DSL,Yes,No,63.75,226.2,Bank transfer (automatic),No,0,36,Medium Risk
+2332-EFBJY,Male,,No,No,16,Month-to-month,No,No internet service,No internet service,19.7,342.4,Mailed check,Yes,0,1,Low Risk
+5835-BEQEU,Male,,No,No,3,Month-to-month,Fiber optic,No,No,76.95,228.4,Electronic check,Yes,1,89,High Risk
+2834-JRTUA,Male,,No,No,71,Two year,Fiber optic,Yes,Yes,108.05,7532.15,Electronic check,Yes,0,8,Low Risk
+4654-GGUII,Female,,No,No,18,One year,DSL,Yes,Yes,40.2,711.95,Mailed check,No,0,6,Low Risk
+1090-PYKCI,Female,,Yes,Yes,69,One year,Fiber optic,Yes,Yes,105.1,7234.8,Credit card (automatic),No,0,3,Low Risk
+4291-HPAXL,Male,,No,Yes,1,Month-to-month,No,No internet service,No internet service,19.85,19.85,Mailed check,No,1,55.2,Medium Risk
+1769-GRUIK,Female,,No,No,18,Month-to-month,Fiber optic,No,No,71.1,1247.75,Electronic check,No,0,17,Low Risk
+0781-LKXBR,Male,,No,No,9,Month-to-month,Fiber optic,No,No,100.5,918.6,Electronic check,Yes,1,84,High Risk
+5917-HBSDW,Female,,Yes,Yes,37,Month-to-month,No,No internet service,No internet service,19.35,683.75,Electronic check,No,0,6,Low Risk
+3521-HTQTV,Male,,No,No,34,Two year,No,No internet service,No internet service,26.1,980.35,Bank transfer (automatic),No,0,1,Low Risk
+7596-LDUXP,Female,,No,No,12,One year,Fiber optic,No,Yes,85.15,979.05,Credit card (automatic),No,0,24,Low Risk
+0673-IGUQO,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.45,20.45,Mailed check,No,0,10.6,Low Risk
+0623-IIHUG,Female,,No,No,21,Month-to-month,DSL,No,Yes,41.9,840.1,Electronic check,Yes,0,32,Medium Risk
+2716-GFZOR,Male,,Yes,No,43,Month-to-month,Fiber optic,No,Yes,86.1,3551.65,Credit card (automatic),No,0,21,Low Risk
+1618-CFHME,Female,,No,No,2,Month-to-month,Fiber optic,No,No,75.9,143.35,Electronic check,Yes,1,59,Medium Risk
+6173-GOLSU,Male,,Yes,No,67,Month-to-month,Fiber optic,No,No,94.65,6079,Credit card (automatic),No,1,71,High Risk
+5671-RQRLP,Female,,Yes,No,70,Two year,Fiber optic,No,No,75.65,5411.4,Credit card (automatic),No,0,6,Low Risk
+6650-BWFRT,Female,,Yes,No,72,Two year,Fiber optic,Yes,Yes,117.15,8529.5,Credit card (automatic),No,0,1,Low Risk
+9112-WSNPU,Female,,No,No,35,Month-to-month,Fiber optic,No,No,70.55,2419,Electronic check,No,1,57,Medium Risk
+5153-LXKDT,Male,,Yes,Yes,68,Two year,Fiber optic,No,Yes,110.2,7467.5,Electronic check,No,0,10,Low Risk
+2439-QKJUL,Male,,No,No,5,Month-to-month,No,No internet service,No internet service,20.25,109.8,Mailed check,No,0,7,Low Risk
+9801-GDWGV,Female,,No,No,39,Month-to-month,Fiber optic,No,No,103.45,3994.45,Electronic check,Yes,0,27,Low Risk
+4808-YNLEU,Female,,Yes,No,35,One year,DSL,No,Yes,62.15,2215.45,Bank transfer (automatic),No,0,9,Low Risk
+5906-CVLHP,Female,,Yes,No,45,One year,DSL,Yes,No,54.15,2319.8,Credit card (automatic),Yes,0,9,Low Risk
+8461-EFQYM,Female,,No,No,38,One year,No,No internet service,No internet service,24.25,914.4,Electronic check,No,0,10,Low Risk
+5740-YHGTW,Male,,Yes,Yes,70,Month-to-month,Fiber optic,No,Yes,97.55,6669.05,Credit card (automatic),No,0,15,Low Risk
+5233-GEEAX,Male,,No,No,8,Month-to-month,DSL,No,No,29.4,221.9,Electronic check,Yes,1,54,Medium Risk
+5276-KQWHG,Female,,No,No,2,Month-to-month,Fiber optic,No,No,69.6,131.65,Electronic check,Yes,0,24,Low Risk
+4342-HENTK,Female,,No,No,2,Month-to-month,Fiber optic,No,No,70.65,142.35,Electronic check,Yes,1,52,Medium Risk
+8859-YSTWS,Male,,No,No,48,One year,No,No internet service,No internet service,19.95,1004.5,Bank transfer (automatic),No,0,1,Low Risk
+6143-JQKEA,Male,,No,No,10,Month-to-month,DSL,No,No,45.8,436.2,Credit card (automatic),No,1,75,High Risk
+5382-TEMLV,Male,,No,No,45,Month-to-month,DSL,No,Yes,50.9,2298.55,Bank transfer (automatic),No,0,8,Low Risk
+7551-DACSP,Male,,Yes,Yes,6,Month-to-month,DSL,No,No,55.3,324.25,Mailed check,Yes,0,21,Low Risk
+0871-URUWO,Male,,Yes,No,13,Month-to-month,Fiber optic,No,No,102.25,1359,Credit card (automatic),Yes,1,82,High Risk
+5206-XZZQI,Male,,No,No,53,Month-to-month,Fiber optic,Yes,No,80.6,4348.1,Mailed check,No,0,36,Medium Risk
+7140-ADSMJ,Male,,No,No,8,Month-to-month,No,No internet service,No internet service,20.45,162.3,Credit card (automatic),No,0,6,Low Risk
+6424-ELEYH,Female,,Yes,No,3,Month-to-month,Fiber optic,No,No,74.75,229.5,Credit card (automatic),Yes,1,88,High Risk
+1353-GHZOS,Male,,Yes,No,22,One year,DSL,No,Yes,59.75,1374.35,Bank transfer (automatic),No,0,27,Low Risk
+9050-IKDZA,Female,,No,No,2,Month-to-month,Fiber optic,No,No,81.5,162.55,Mailed check,No,1,84,High Risk
+1452-VOQCH,Male,,No,No,1,Month-to-month,Fiber optic,No,No,75.1,75.1,Electronic check,No,1,100,High Risk
+8225-BTJAU,Male,,No,No,10,Month-to-month,Fiber optic,No,No,79.25,793.55,Electronic check,Yes,1,67,High Risk
+1984-FCOWB,Female,,Yes,No,70,One year,Fiber optic,Yes,No,109.5,7674.55,Electronic check,Yes,0,31,Medium Risk
+4184-TJFAN,Female,,Yes,No,3,Month-to-month,Fiber optic,Yes,Yes,88.3,273.75,Mailed check,Yes,0,43,Medium Risk
+7560-QJAVJ,Female,,No,No,70,Two year,DSL,Yes,Yes,79.6,5589.45,Bank transfer (automatic),No,0,1,Low Risk
+6308-CQRBU,Female,,Yes,No,71,Two year,Fiber optic,Yes,No,109.25,7707.7,Electronic check,No,0,23,Low Risk
+8337-UPOAQ,Male,,Yes,No,10,Month-to-month,Fiber optic,No,No,89.8,914.3,Electronic check,Yes,1,72,High Risk
+6496-SLWHQ,Male,,No,No,3,Month-to-month,Fiber optic,No,No,105,294.45,Electronic check,Yes,1,78,High Risk
+6185-TASNN,Male,,No,No,1,Month-to-month,DSL,No,No,46.3,46.3,Electronic check,No,1,94,High Risk
+1208-DNHLN,Male,,Yes,No,23,One year,DSL,No,No,48.35,1067.15,Credit card (automatic),Yes,0,11,Low Risk
+4660-IRIBM,Male,,Yes,Yes,18,Month-to-month,Fiber optic,No,Yes,87.9,1500.5,Mailed check,No,0,23,Low Risk
+6198-RTPMF,Female,,Yes,No,17,Month-to-month,Fiber optic,No,No,92.6,1579.7,Electronic check,No,0,50,Medium Risk
+5716-EZXZN,Female,,Yes,No,65,Two year,Fiber optic,Yes,Yes,99.05,6416.7,Credit card (automatic),No,0,8,Low Risk
+0895-DQHEW,Male,,Yes,No,54,Month-to-month,Fiber optic,No,No,104.3,5278.15,Electronic check,Yes,1,55,Medium Risk
+7760-OYPDY,Female,,No,Yes,2,Month-to-month,Fiber optic,No,No,80.65,144.15,Electronic check,Yes,0,44,Medium Risk
+4751-ERMAN,Male,,Yes,No,72,Two year,DSL,No,No,75.4,5480.25,Bank transfer (automatic),No,0,28,Low Risk
+0378-NHQXU,Female,,Yes,No,17,Month-to-month,Fiber optic,No,No,88.25,1460.65,Electronic check,Yes,1,68,High Risk
+5299-SJCZT,Male,,No,No,3,Month-to-month,Fiber optic,No,No,101.55,298.35,Bank transfer (automatic),Yes,1,88,High Risk
+7901-IIDQV,Male,,No,No,24,One year,DSL,Yes,No,54.6,1242.25,Bank transfer (automatic),No,0,6,Low Risk
+6467-CHFZW,Male,,Yes,Yes,47,Month-to-month,Fiber optic,No,No,99.35,4749.15,Electronic check,Yes,0,4,Low Risk
+6661-HBGWL,Female,,No,No,42,Month-to-month,Fiber optic,No,No,104.75,4323.45,Bank transfer (automatic),Yes,1,74,High Risk
+2740-JFBOK,Male,,No,No,10,Month-to-month,No,No internet service,No internet service,24,226.55,Electronic check,No,0,4,Low Risk
+6818-WOBHJ,Female,,Yes,No,68,Month-to-month,Fiber optic,No,No,89.6,6127.6,Bank transfer (automatic),Yes,0,11,Low Risk
+6023-GSSXW,Female,,Yes,No,69,Two year,DSL,No,No,61.45,4131.2,Credit card (automatic),No,0,8,Low Risk
+3316-UWXUY,Male,,No,No,50,Month-to-month,Fiber optic,Yes,Yes,93.5,4747.5,Credit card (automatic),No,0,18,Low Risk
+9974-JFBHQ,Male,,No,Yes,64,Month-to-month,Fiber optic,Yes,No,99.15,6171.2,Credit card (automatic),No,0,14,Low Risk
+4741-WWJQZ,Female,,Yes,No,2,Month-to-month,Fiber optic,Yes,Yes,80.15,194.55,Electronic check,No,1,60,Medium Risk
+3315-IKYZQ,Male,,Yes,Yes,28,One year,DSL,Yes,Yes,50.8,1386.8,Mailed check,No,0,3,Low Risk
+3161-ONRWK,Male,,Yes,No,60,One year,DSL,Yes,Yes,65.85,3928.3,Bank transfer (automatic),No,0,2,Low Risk
+0201-OAMXR,Female,,No,No,70,One year,Fiber optic,Yes,Yes,115.55,8127.6,Credit card (automatic),Yes,0,14,Low Risk
+1194-HVAIF,Female,,Yes,No,27,Month-to-month,Fiber optic,No,No,95,2462.55,Credit card (automatic),No,1,52,Medium Risk
+4818-DRBQT,Male,,Yes,No,29,Month-to-month,Fiber optic,No,No,80.15,2265.25,Bank transfer (automatic),Yes,1,55,Medium Risk
+9931-KGHOA,Female,,Yes,No,46,Month-to-month,DSL,No,Yes,55,2473.95,Bank transfer (automatic),No,0,6,Low Risk
+2362-IBOOY,Male,,No,No,36,Month-to-month,Fiber optic,No,No,84.75,3050.15,Electronic check,Yes,1,82,High Risk
+5136-KCKGI,Female,,Yes,No,33,One year,Fiber optic,No,Yes,103.7,3467,Mailed check,Yes,0,27,Low Risk
+2405-LBMUW,Female,,Yes,Yes,61,One year,DSL,Yes,Yes,50.7,3088.75,Bank transfer (automatic),No,0,3,Low Risk
+1450-SKCVI,Female,,No,No,56,Month-to-month,Fiber optic,No,No,73.85,4092.85,Electronic check,Yes,0,24,Low Risk
+8065-BVEPF,Male,,No,No,65,Month-to-month,Fiber optic,No,No,99.1,6496.15,Bank transfer (automatic),No,0,49,Medium Risk
+5502-RLUYV,Female,,Yes,No,69,Month-to-month,Fiber optic,No,No,103.95,7446.9,Electronic check,Yes,1,86,High Risk
+1744-JHKYS,Female,,Yes,No,34,Month-to-month,No,No internet service,No internet service,24.7,780.2,Electronic check,No,0,2,Low Risk
+2393-DIVAI,Female,,No,No,3,Month-to-month,No,No internet service,No internet service,20,61.7,Mailed check,No,0,26,Low Risk
+0620-DLSLK,Female,,No,No,13,Month-to-month,Fiber optic,No,No,81.9,1028.9,Mailed check,No,1,63,High Risk
+4468-YDOVK,Male,,No,Yes,5,Month-to-month,DSL,Yes,No,48.65,235.2,Bank transfer (automatic),No,0,43,Medium Risk
+8706-HRADD,Male,,No,No,21,Month-to-month,DSL,Yes,Yes,43.55,1011.5,Mailed check,No,0,25,Low Risk
+3009-JWMPU,Male,,No,No,62,One year,Fiber optic,No,No,96.75,6125.4,Electronic check,Yes,0,32,Medium Risk
+5345-BMKWB,Male,,Yes,No,8,Month-to-month,No,No internet service,No internet service,20.25,158.35,Mailed check,No,0,47,Medium Risk
+6954-OOYZZ,Male,,Yes,No,18,Month-to-month,DSL,No,No,44.35,768.05,Bank transfer (automatic),No,0,36,Medium Risk
+3621-CHYVB,Female,,Yes,No,57,Month-to-month,DSL,Yes,Yes,49.9,2782.4,Bank transfer (automatic),No,0,31,Medium Risk
+9881-VCZEP,Female,,Yes,No,25,Month-to-month,DSL,No,No,54.1,1373,Electronic check,No,0,3,Low Risk
+8042-RNLKO,Male,,No,No,66,One year,No,No internet service,No internet service,25.45,1699.15,Bank transfer (automatic),No,0,8,Low Risk
+9490-DFPMD,Female,,No,No,42,Month-to-month,Fiber optic,No,No,84.65,3541.35,Electronic check,Yes,0,15,Low Risk
+5760-WRAHC,Female,,No,No,22,Month-to-month,DSL,Yes,Yes,69.75,1545.4,Mailed check,No,0,16,Low Risk
+7682-AZNDK,Male,,Yes,Yes,34,Month-to-month,Fiber optic,No,No,89.85,3091.75,Electronic check,No,0,6,Low Risk
+3082-YVEKW,Female,,Yes,Yes,23,Two year,DSL,Yes,Yes,77.15,1759.4,Bank transfer (automatic),No,0,6,Low Risk
+9933-QRGTX,Female,,Yes,No,60,Two year,Fiber optic,Yes,Yes,97.2,5611.75,Electronic check,No,0,13,Low Risk
+3307-TLCUD,Male,,Yes,No,17,Month-to-month,DSL,No,Yes,34.4,592.75,Mailed check,No,0,25,Low Risk
+6968-URWQU,Male,,Yes,No,43,One year,DSL,No,No,56.35,2391.15,Mailed check,No,0,28,Low Risk
+5597-GLBUC,Female,,No,No,1,Month-to-month,Fiber optic,No,No,85.45,85.45,Electronic check,Yes,1,99,High Risk
+5440-FLBQG,Male,,Yes,No,69,Two year,Fiber optic,Yes,No,108.4,7318.2,Bank transfer (automatic),Yes,0,40,Medium Risk
+9874-QLCLH,Female,,Yes,No,17,Month-to-month,Fiber optic,No,Yes,104.2,1743.5,Electronic check,Yes,1,70,High Risk
+0377-JBKKT,Male,,Yes,Yes,22,Month-to-month,DSL,Yes,Yes,57.95,1271.8,Mailed check,No,0,7,Low Risk
+8590-YFFQO,Male,,Yes,No,70,Two year,DSL,Yes,Yes,64.95,4523.25,Credit card (automatic),No,0,17,Low Risk
+4778-IZARL,Male,,Yes,No,63,Two year,Fiber optic,Yes,Yes,110.1,6705.7,Credit card (automatic),No,0,14,Low Risk
+7982-VCELR,Female,,No,No,36,Month-to-month,Fiber optic,No,No,94.8,3565.65,Credit card (automatic),No,0,29,Low Risk
+7740-KKCXF,Male,,Yes,No,51,Month-to-month,DSL,No,No,30.05,1529.45,Credit card (automatic),No,0,19,Low Risk
+4672-FOTSD,Male,,No,No,12,Month-to-month,DSL,Yes,Yes,67.25,832.3,Electronic check,No,0,18,Low Risk
+5117-IFGPS,Male,,Yes,No,29,Month-to-month,Fiber optic,No,No,84.3,2357.75,Electronic check,No,1,83,High Risk
+0565-JUPYD,Male,,No,No,63,One year,Fiber optic,Yes,Yes,104.5,6590.8,Credit card (automatic),No,0,10,Low Risk
+7765-LWVVH,Female,,Yes,Yes,72,Two year,Fiber optic,No,Yes,95.1,6843.15,Electronic check,No,0,6,Low Risk
+9746-YKGXB,Male,,Yes,Yes,52,One year,DSL,No,Yes,44.25,2276.1,Bank transfer (automatic),No,0,3,Low Risk
+0311-UNPFF,Female,,No,No,26,Month-to-month,Fiber optic,No,No,88.8,2274.35,Bank transfer (automatic),Yes,1,63,High Risk
+6332-FBZRI,Male,,Yes,Yes,67,One year,DSL,Yes,Yes,69.35,4653.25,Credit card (automatic),No,0,1,Low Risk
+0111-KLBQG,Male,,Yes,Yes,32,Month-to-month,Fiber optic,No,No,93.95,2861.45,Mailed check,No,0,8,Low Risk
+8485-GJCDN,Female,,No,No,5,Month-to-month,Fiber optic,No,No,69.05,318.5,Mailed check,Yes,1,54,Medium Risk
+4238-HFHSN,Male,,Yes,No,61,Month-to-month,Fiber optic,No,No,82.15,4904.85,Electronic check,No,0,24,Low Risk
+2882-DDZPG,Female,,No,No,12,Month-to-month,No,No internet service,No internet service,19.45,227.45,Bank transfer (automatic),No,0,31,Medium Risk
+2796-UUZZO,Male,,Yes,Yes,63,Month-to-month,Fiber optic,No,No,80.3,4896.35,Credit card (automatic),No,0,5,Low Risk
+8050-XGRVL,Female,,Yes,Yes,62,One year,DSL,No,Yes,54.75,3425.35,Credit card (automatic),No,0,2,Low Risk
+6103-QCKFX,Female,,Yes,Yes,44,Month-to-month,DSL,Yes,Yes,56.25,2419.55,Bank transfer (automatic),No,0,5,Low Risk
+0670-KDOMA,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,20.25,20.25,Mailed check,No,1,51.7,Medium Risk
+4623-ZKHLY,Male,,Yes,No,22,Month-to-month,No,No internet service,No internet service,20.45,471.55,Bank transfer (automatic),No,0,6,Low Risk
+9799-CAYJJ,Female,,Yes,No,2,Month-to-month,Fiber optic,No,No,69.3,153.8,Electronic check,No,0,31,Medium Risk
+1116-DXXDF,Male,,No,No,39,Two year,Fiber optic,No,Yes,100.45,3801.7,Electronic check,No,0,9,Low Risk
+6641-XRPSU,Female,,No,No,34,Month-to-month,Fiber optic,No,No,70,2416.1,Credit card (automatic),Yes,0,22,Low Risk
+9957-YODKZ,Male,,Yes,No,6,Month-to-month,Fiber optic,No,No,80.8,457.1,Electronic check,No,1,90,High Risk
+5073-WXOYN,Female,,No,No,60,Month-to-month,DSL,No,No,50.8,3027.4,Electronic check,Yes,0,16,Low Risk
+5780-INQIK,Female,,No,No,8,Month-to-month,DSL,Yes,No,49.4,408.25,Electronic check,No,0,31,Medium Risk
+5294-CDGWY,Male,,Yes,No,51,One year,DSL,No,Yes,59.3,3014.65,Electronic check,Yes,0,6,Low Risk
+1150-FTQGN,Female,,Yes,Yes,60,One year,Fiber optic,No,Yes,94.15,5811.8,Bank transfer (automatic),No,0,2,Low Risk
+1410-RSCMR,Male,,Yes,Yes,7,Month-to-month,DSL,Yes,Yes,71.35,515.75,Credit card (automatic),No,0,23,Low Risk
+2786-GCDPI,Female,,No,No,50,Month-to-month,Fiber optic,Yes,No,104.95,5222.35,Electronic check,No,0,26,Low Risk
+7279-NMVJC,Female,,No,No,17,One year,No,No internet service,No internet service,19.9,323.15,Bank transfer (automatic),No,0,11,Low Risk
+1260-TTRXI,Male,,No,No,4,Month-to-month,DSL,No,No,54.3,195.3,Electronic check,Yes,0,41,Medium Risk
+6924-TDGMT,Male,,Yes,No,11,One year,No,No internet service,No internet service,20.55,184.95,Mailed check,No,0,10,Low Risk
+4402-FTBXC,Male,,No,No,54,Month-to-month,Fiber optic,No,Yes,89.8,4667,Mailed check,No,0,38,Medium Risk
+9921-QFQUL,Female,,Yes,No,23,Month-to-month,Fiber optic,No,No,90.15,2044.95,Mailed check,No,0,31,Medium Risk
+0330-BGYZE,Male,,Yes,No,60,One year,Fiber optic,No,No,102.5,6157.6,Bank transfer (automatic),No,0,36,Medium Risk
+0680-DFNNY,Male,,Yes,No,15,Month-to-month,Fiber optic,No,No,101.1,1504.05,Electronic check,Yes,1,80,High Risk
+0495-RVCBF,Female,,No,No,1,Month-to-month,Fiber optic,No,No,79.7,79.7,Electronic check,Yes,1,100,High Risk
+7627-JKIAZ,Female,,Yes,No,37,Month-to-month,Fiber optic,No,No,78.95,2839.65,Credit card (automatic),Yes,0,38,Medium Risk
+6234-RAAPL,Female,,Yes,No,72,Two year,Fiber optic,Yes,Yes,99.9,7251.7,Bank transfer (automatic),No,0,8,Low Risk
+0236-HFWSV,Male,,No,No,15,Month-to-month,Fiber optic,No,No,93.35,1444.65,Electronic check,Yes,0,19,Low Risk
+1320-REHCS,Male,,No,No,52,Month-to-month,Fiber optic,Yes,No,110.75,5832,Electronic check,No,0,50,Medium Risk
+3982-XWFZQ,Female,,Yes,No,42,Month-to-month,DSL,No,No,50.25,2203.65,Electronic check,Yes,0,7,Low Risk
+7247-XOZPB,Male,,Yes,No,53,One year,DSL,Yes,Yes,77.4,4155.95,Bank transfer (automatic),No,0,3,Low Risk
+0058-EVZWM,Female,,Yes,No,55,Month-to-month,Fiber optic,No,Yes,89.8,4959.6,Bank transfer (automatic),No,0,38,Medium Risk
+3946-MHCZW,Male,,No,No,1,Month-to-month,DSL,No,No,50.9,50.9,Mailed check,Yes,1,55,Medium Risk
+0106-UGRDO,Female,,Yes,No,69,Two year,Fiber optic,Yes,Yes,116,8182.85,Electronic check,No,0,11,Low Risk
+6652-YFFJO,Female,,No,No,11,Month-to-month,DSL,No,No,64.9,716.1,Electronic check,No,0,29,Low Risk
+6719-OXYBR,Male,,No,No,15,Month-to-month,Fiber optic,No,No,85.3,1219.85,Electronic check,No,1,58,Medium Risk
+5035-BVCXS,Male,,No,No,11,Month-to-month,Fiber optic,No,No,75.9,866.4,Mailed check,No,1,52,Medium Risk
+2809-ZMYOQ,Female,,No,No,32,Month-to-month,Fiber optic,No,No,101.35,3334.9,Electronic check,No,1,64,High Risk
+5696-JVVQY,Female,,Yes,Yes,48,Two year,DSL,No,Yes,70.1,3238.4,Credit card (automatic),No,0,1,Low Risk
+7576-OYWBN,Male,,No,No,3,Month-to-month,Fiber optic,No,No,76.05,231.8,Electronic check,Yes,1,85,High Risk
+7508-KBIMB,Male,,Yes,Yes,24,One year,DSL,No,Yes,56.25,1454.25,Credit card (automatic),No,0,2,Low Risk
+3082-WQRVY,Male,,Yes,No,14,One year,No,No internet service,No internet service,19.65,228.65,Mailed check,No,0,11,Low Risk
+0877-SDMBN,Female,,No,No,54,One year,Fiber optic,No,Yes,103.95,5639.05,Bank transfer (automatic),Yes,0,45,Medium Risk
+0533-UCAAU,Male,,Yes,No,57,One year,DSL,No,No,71.1,4140.1,Credit card (automatic),No,0,3,Low Risk
+5366-OBVMR,Female,,Yes,No,18,Month-to-month,DSL,Yes,No,50.3,908.75,Mailed check,No,0,36,Medium Risk
+2272-WUSPA,Female,,Yes,No,72,Two year,Fiber optic,No,Yes,110.75,7751.7,Electronic check,No,0,4,Low Risk
+3511-APPBJ,Male,,No,No,23,One year,Fiber optic,No,Yes,99.95,2292.75,Credit card (automatic),No,0,26,Low Risk
+0947-MUGVO,Male,,Yes,No,20,Month-to-month,Fiber optic,No,No,73.65,1463.5,Electronic check,Yes,1,72,High Risk
+7459-RRWQZ,Female,,No,No,15,Month-to-month,DSL,No,Yes,64.65,994.55,Bank transfer (automatic),Yes,0,19,Low Risk
+3969-GYXEL,Female,,No,No,11,Month-to-month,Fiber optic,No,Yes,76.4,838.7,Electronic check,No,0,44,Medium Risk
+6278-FEPBZ,Female,,No,No,9,Month-to-month,No,No internet service,No internet service,20.25,186.15,Mailed check,No,0,35,Medium Risk
+6854-EXGSF,Female,,No,No,8,Month-to-month,DSL,No,Yes,65.5,573.15,Bank transfer (automatic),No,0,18,Low Risk
+0420-BWTPW,Male,,No,No,8,Month-to-month,DSL,No,No,25.5,215.2,Mailed check,Yes,0,18,Low Risk
+7693-QPEFS,Male,,No,No,52,Month-to-month,Fiber optic,No,No,72.95,3829.75,Bank transfer (automatic),No,0,26,Low Risk
+9332-GYWLO,Female,,Yes,Yes,6,Month-to-month,DSL,No,No,54.85,355.1,Electronic check,No,0,24,Low Risk
+4973-RLZVI,Female,,No,No,30,One year,DSL,Yes,Yes,74.65,2308.6,Credit card (automatic),No,0,27,Low Risk
+0221-NAUXK,Male,,No,Yes,10,One year,No,No internet service,No internet service,19.95,219.5,Bank transfer (automatic),No,0,2,Low Risk
+0491-KAPQG,Male,,No,No,21,Month-to-month,Fiber optic,No,No,73.7,1558.7,Electronic check,No,1,53,Medium Risk
+8709-KRDVL,Female,,No,No,33,Month-to-month,Fiber optic,No,No,100,3320.6,Electronic check,No,1,82,High Risk
+6559-PDZLR,Male,,No,No,26,Month-to-month,Fiber optic,Yes,No,98.65,2537,Electronic check,No,1,63,High Risk
+1407-DIGZV,Female,,Yes,Yes,3,Two year,No,No internet service,No internet service,19.1,52,Mailed check,No,0,5,Low Risk
+4622-YNKIJ,Male,,No,No,33,Two year,Fiber optic,Yes,Yes,88.95,3027.65,Electronic check,No,0,24,Low Risk
+1666-JZPZT,Male,,No,No,27,Month-to-month,DSL,No,No,49,1291.35,Mailed check,No,0,2,Low Risk
+7206-GZCDC,Female,,No,No,1,Month-to-month,Fiber optic,No,No,69.25,69.25,Electronic check,Yes,1,100,High Risk
+5701-YVSVF,Female,,Yes,No,11,Month-to-month,Fiber optic,Yes,No,82.9,880.05,Electronic check,No,1,77,High Risk
+2408-TZMJL,Male,,Yes,No,59,One year,Fiber optic,No,Yes,110.15,6448.05,Electronic check,Yes,1,62,High Risk
+7343-EOBEU,Male,,Yes,No,3,Month-to-month,No,No internet service,No internet service,23.6,89.05,Mailed check,No,0,20,Low Risk
+1752-OZXFY,Male,,Yes,No,60,One year,DSL,No,Yes,59.8,3561.15,Mailed check,No,0,7,Low Risk
+9695-IDRZR,Female,,No,Yes,34,Two year,Fiber optic,Yes,Yes,116.15,3946.9,Credit card (automatic),No,0,10,Low Risk
+9610-WCESF,Male,,No,No,67,Two year,DSL,Yes,Yes,43.9,3097.2,Electronic check,No,0,8,Low Risk
+3259-QMXUN,Male,,Yes,No,58,Two year,DSL,No,Yes,86.1,4890.5,Electronic check,No,0,7,Low Risk
+9944-AEXBM,Male,,No,No,32,Month-to-month,Fiber optic,No,No,85.65,2664.3,Bank transfer (automatic),No,1,60,Medium Risk
+2672-HUYVI,Female,,No,No,6,Month-to-month,Fiber optic,No,No,91.1,455.3,Electronic check,Yes,1,85,High Risk
+9670-BPNXF,Female,,No,No,45,One year,DSL,Yes,Yes,62.55,2796.45,Credit card (automatic),No,0,17,Low Risk
+2761-XECQW,Male,,Yes,No,8,Month-to-month,DSL,No,No,43.35,371.4,Mailed check,No,0,24,Low Risk
+7967-HYCDE,Male,,No,No,8,Month-to-month,Fiber optic,No,No,70.7,553.4,Bank transfer (automatic),No,0,46,Medium Risk
+4950-BDEUX,Male,,No,No,35,Month-to-month,DSL,No,No,49.2,1701.65,Electronic check,No,0,27,Low Risk
+6993-OHLXR,Female,,No,No,2,Month-to-month,Fiber optic,No,No,68.95,119.75,Electronic check,Yes,0,38,Medium Risk
+2642-DTVCO,Male,,No,No,9,Month-to-month,Fiber optic,No,No,85.05,746.5,Electronic check,Yes,1,86,High Risk
+9355-NPPFS,Female,,No,No,26,Month-to-month,Fiber optic,No,No,78.8,2006.1,Electronic check,No,0,46,Medium Risk
+2018-QKYGT,Male,,Yes,Yes,1,Month-to-month,Fiber optic,No,No,81.05,81.05,Electronic check,No,1,66,High Risk
+3571-RFHAR,Male,,No,No,65,Month-to-month,Fiber optic,Yes,No,109.15,6941.2,Electronic check,Yes,0,16,Low Risk
+9367-WXLCH,Male,,No,Yes,8,Month-to-month,Fiber optic,No,No,84.5,662.65,Bank transfer (automatic),Yes,1,67,High Risk
+1104-FEJAM,Male,,Yes,Yes,28,Month-to-month,DSL,No,No,64.4,1802.15,Electronic check,No,0,7,Low Risk
+2791-SFVEW,Female,,No,No,9,Month-to-month,No,No internet service,No internet service,20.15,238.15,Bank transfer (automatic),No,0,38,Medium Risk
+6876-ADESB,Male,,No,Yes,1,Month-to-month,DSL,No,No,48.95,48.95,Electronic check,Yes,1,54,Medium Risk
+2056-EVGZL,Male,,Yes,Yes,68,One year,Fiber optic,Yes,No,105.75,7322.5,Credit card (automatic),No,0,2,Low Risk
+7010-ZMVBF,Female,,Yes,Yes,18,Month-to-month,No,No internet service,No internet service,20.45,357,Mailed check,No,0,1,Low Risk
+6377-KSLXC,Male,,No,No,5,Month-to-month,No,No internet service,No internet service,19.95,107.05,Mailed check,No,0,4,Low Risk
+3413-CSSTH,Male,,No,No,41,Month-to-month,DSL,No,No,55.7,2237.55,Bank transfer (automatic),No,0,16,Low Risk
+2929-QNSRW,Female,,Yes,No,56,One year,Fiber optic,No,No,98.25,5508.35,Electronic check,Yes,0,23,Low Risk
+1307-TVUFB,Male,,No,No,42,Month-to-month,Fiber optic,No,No,79.35,3344.1,Bank transfer (automatic),No,0,49,Medium Risk
+5277-ZLOOR,Female,,No,No,2,Month-to-month,Fiber optic,No,No,85.55,187.45,Electronic check,Yes,1,65,High Risk
+1157-BQCUW,Male,,No,No,1,Month-to-month,Fiber optic,No,No,74.95,74.95,Electronic check,Yes,1,99,High Risk
+8619-IJNDK,Female,,Yes,No,71,Two year,DSL,Yes,Yes,64.05,4492.9,Credit card (automatic),No,0,5,Low Risk
+8552-OBVRU,Female,,Yes,Yes,48,Month-to-month,Fiber optic,Yes,Yes,104.5,5068.05,Electronic check,No,0,10,Low Risk
+2058-DCJBE,Male,,No,No,5,Month-to-month,Fiber optic,No,No,69.75,324.6,Electronic check,Yes,0,47,Medium Risk
+7926-IJOOU,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,19.3,19.3,Credit card (automatic),No,0,5,Low Risk
+3049-NDXFL,Female,,No,No,1,Month-to-month,Fiber optic,No,No,85.8,85.8,Mailed check,Yes,1,95,High Risk
+9522-ZSINC,Male,,No,No,13,One year,No,No internet service,No internet service,19.95,253.8,Electronic check,No,0,1,Low Risk
+8990-ZXLSU,Female,,No,No,9,Month-to-month,Fiber optic,No,No,69.05,651.5,Electronic check,No,0,38,Medium Risk
+1803-BGNBD,Female,,No,No,12,Month-to-month,DSL,Yes,No,54.3,654.5,Electronic check,No,0,17,Low Risk
+4647-MUZON,Female,,Yes,No,18,Month-to-month,Fiber optic,No,No,95.95,1745.5,Credit card (automatic),No,1,76,High Risk
+1710-RCXUS,Male,,Yes,No,51,One year,Fiber optic,No,No,90.35,4614.55,Credit card (automatic),No,0,25,Low Risk
+5261-QSHQM,Female,,No,No,4,Month-to-month,DSL,No,No,24.45,86.6,Electronic check,Yes,1,62,High Risk
+8835-VSDSE,Female,,Yes,No,2,Month-to-month,Fiber optic,No,No,70.7,141.45,Electronic check,Yes,0,36,Medium Risk
+6982-SSHFK,Male,,No,No,1,Month-to-month,DSL,No,No,44.4,44.4,Mailed check,Yes,1,77,High Risk
+9391-DXGGG,Female,,No,No,44,One year,Fiber optic,No,No,89.15,3990.75,Credit card (automatic),No,0,15,Low Risk
+9873-MNDKV,Female,,No,No,11,Month-to-month,DSL,No,No,44.65,472.25,Mailed check,No,0,38,Medium Risk
+4662-EKDPQ,Male,,No,No,2,Month-to-month,DSL,No,No,62.05,118.3,Bank transfer (automatic),Yes,0,37,Medium Risk
+7841-TZDMQ,Male,,No,No,2,Month-to-month,DSL,No,No,46,84.5,Credit card (automatic),Yes,0,32,Medium Risk
+3066-RRJIO,Female,,No,No,1,Month-to-month,Fiber optic,No,No,69.95,69.95,Mailed check,Yes,1,97,High Risk
+0594-UFTUL,Male,,Yes,Yes,13,Month-to-month,No,No internet service,No internet service,19.85,252,Mailed check,No,0,13,Low Risk
+6437-UKHMV,Female,,No,No,7,Month-to-month,Fiber optic,No,No,79.7,586.05,Electronic check,Yes,1,60,Medium Risk
+8728-SKJLR,Male,,No,No,41,Month-to-month,Fiber optic,Yes,No,74.25,3089.1,Electronic check,No,1,61,High Risk
+3889-VWBID,Male,,Yes,Yes,68,Two year,DSL,Yes,Yes,82.85,5776.45,Bank transfer (automatic),No,0,1,Low Risk
+6016-NXBNJ,Male,,No,No,35,One year,No,No internet service,No internet service,19.15,638,Mailed check,No,0,1,Low Risk
+4397-FRLTA,Female,,No,No,4,Month-to-month,No,No internet service,No internet service,20.15,84.5,Mailed check,No,0,2,Low Risk
+4163-HFTUK,Male,,No,No,51,One year,No,No internet service,No internet service,19.1,1007.8,Electronic check,No,0,9,Low Risk
+3011-WQKSZ,Male,,No,Yes,19,Month-to-month,No,No internet service,No internet service,20,377.55,Electronic check,No,0,23,Low Risk
+6133-OZILE,Female,,No,No,18,Month-to-month,DSL,Yes,No,35.2,607.3,Electronic check,No,0,45,Medium Risk
+9313-CDOGY,Male,,Yes,Yes,38,Month-to-month,No,No internet service,No internet service,19.6,717.3,Electronic check,No,0,1,Low Risk
+4353-HYOJD,Female,,Yes,Yes,27,Month-to-month,DSL,No,No,49.85,1336.15,Mailed check,No,0,2,Low Risk
+9475-NNDGC,Male,,Yes,No,71,One year,Fiber optic,Yes,No,113.15,7953.25,Bank transfer (automatic),No,0,18,Low Risk
+1345-GKDZZ,Male,,No,Yes,6,Month-to-month,No,No internet service,No internet service,19.55,128.6,Mailed check,No,0,5,Low Risk
+8630-QSGXK,Male,,Yes,No,51,Two year,DSL,Yes,No,75.2,3901.25,Bank transfer (automatic),No,0,10,Low Risk
+2234-XADUH,Female,,Yes,Yes,72,One year,Fiber optic,No,No,103.2,7362.9,Credit card (automatic),No,0,2,Low Risk
+1031-IIDEO,Female,,No,No,1,Month-to-month,Fiber optic,No,No,70.85,70.85,Electronic check,Yes,1,99,High Risk
+9350-VLHMB,Male,,Yes,Yes,67,Month-to-month,Fiber optic,No,No,89.55,6373.1,Bank transfer (automatic),No,0,3,Low Risk
+4749-VFKVB,Female,,No,No,1,Month-to-month,DSL,No,No,50.1,50.1,Mailed check,Yes,0,41.2,Medium Risk
+1137-DGOWI,Female,,Yes,No,30,One year,DSL,Yes,No,70.25,2198.9,Bank transfer (automatic),No,0,17,Low Risk
+7017-VFHAY,Female,,Yes,Yes,61,Two year,Fiber optic,Yes,Yes,115.1,7008.15,Credit card (automatic),No,0,1,Low Risk
+6067-NGCEU,Female,,No,No,65,Month-to-month,Fiber optic,No,Yes,111.05,7107,Credit card (automatic),No,0,6,Low Risk
+8566-YPRGL,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,19.5,19.5,Mailed check,No,0,23.3,Low Risk
+8849-AYPTR,Male,,Yes,No,33,Month-to-month,Fiber optic,No,No,91.25,2964.05,Electronic check,No,0,42,Medium Risk
+8565-CLBZW,Male,,No,No,24,Month-to-month,Fiber optic,No,No,89.85,2165.05,Mailed check,Yes,0,30,Low Risk
+9787-XVQIU,Male,,No,No,1,Month-to-month,Fiber optic,No,No,75.3,75.3,Electronic check,Yes,1,100,High Risk
+9526-BIHHD,Male,,No,No,1,Month-to-month,DSL,No,Yes,29.7,29.7,Mailed check,Yes,0,15,Low Risk
+1015-JPFYW,Male,,No,Yes,7,One year,No,No internet service,No internet service,19.45,136.75,Mailed check,No,0,1,Low Risk
+8481-YYXWG,Female,,No,No,5,Month-to-month,Fiber optic,Yes,No,89.35,461.7,Electronic check,Yes,1,76,High Risk
+3796-ENZGF,Male,,Yes,No,63,Two year,DSL,Yes,No,67.25,4234.15,Mailed check,No,0,2,Low Risk
+0709-TVGUR,Female,,No,No,9,Month-to-month,Fiber optic,No,No,74.55,622.9,Electronic check,Yes,0,17,Low Risk
+2640-LYMOV,Male,,No,No,2,Month-to-month,No,No internet service,No internet service,19.65,38.8,Mailed check,No,0,20,Low Risk
+5043-TRZWM,Female,,No,No,1,Month-to-month,Fiber optic,No,No,75.55,75.55,Electronic check,No,1,80,High Risk
+2223-KAGMX,Female,,No,No,15,Month-to-month,No,No internet service,No internet service,19.4,289.3,Bank transfer (automatic),Yes,1,58,Medium Risk
+0975-UYDTX,Female,,Yes,No,26,One year,DSL,Yes,Yes,90.1,2312.55,Credit card (automatic),No,0,14,Low Risk
+9763-PDTKK,Female,,No,No,4,Month-to-month,Fiber optic,Yes,Yes,94.4,387.2,Bank transfer (automatic),Yes,0,48,Medium Risk
+0930-EHUZA,Female,,No,No,36,One year,DSL,Yes,Yes,76.35,2606.35,Mailed check,No,0,32,Medium Risk
+4811-JBUVU,Male,,No,No,30,Month-to-month,Fiber optic,Yes,No,89.9,2723.15,Credit card (automatic),No,0,46,Medium Risk
+9447-YPTBX,Female,,Yes,No,50,One year,No,No internet service,No internet service,19.85,943.1,Bank transfer (automatic),No,0,1,Low Risk
+3853-LYGAM,Male,,No,No,17,Month-to-month,Fiber optic,Yes,No,95.65,1640,Bank transfer (automatic),No,0,26,Low Risk
+4615-PIVVU,Female,,No,No,42,Two year,DSL,Yes,No,66.5,2762.75,Credit card (automatic),No,0,13,Low Risk
+7916-VCCPB,Female,,Yes,Yes,16,Month-to-month,Fiber optic,No,No,73.25,1195.75,Bank transfer (automatic),No,0,13,Low Risk
+9776-OJUZI,Female,,No,No,65,Month-to-month,Fiber optic,No,No,95.45,6223.3,Bank transfer (automatic),No,0,43,Medium Risk
+9330-DHBFL,Female,,Yes,No,23,One year,DSL,Yes,Yes,66.25,1533.8,Mailed check,No,0,18,Low Risk
+3866-MDTUB,Female,,No,No,2,Month-to-month,DSL,No,Yes,70.75,146.9,Electronic check,Yes,0,24,Low Risk
+4522-XRWWI,Male,,Yes,No,42,One year,DSL,Yes,Yes,80.45,3375.9,Credit card (automatic),No,0,18,Low Risk
+8457-XIGKN,Male,,No,No,20,Month-to-month,No,No internet service,No internet service,19.6,356.15,Credit card (automatic),No,0,12,Low Risk
+7233-PAHHL,Male,,Yes,No,66,Two year,DSL,Yes,Yes,84,5714.25,Mailed check,No,0,1,Low Risk
+7688-AWMDX,Male,,Yes,No,71,Two year,DSL,Yes,Yes,54.5,3778.2,Bank transfer (automatic),No,0,3,Low Risk
+3482-ABPKK,Female,,No,No,28,One year,DSL,Yes,Yes,54.3,1546.3,Mailed check,No,0,1,Low Risk
+6465-GSRCL,Female,,No,Yes,67,One year,Fiber optic,Yes,No,106.6,7244.7,Bank transfer (automatic),No,0,9,Low Risk
+6240-EURKS,Female,,No,No,18,Month-to-month,DSL,No,No,35,553,Electronic check,Yes,1,53,Medium Risk
+5268-DSMNQ,Female,,Yes,No,62,One year,Fiber optic,No,No,97.95,5936.55,Credit card (automatic),No,0,13,Low Risk
+6891-JPYFF,Female,,Yes,Yes,48,Month-to-month,Fiber optic,No,Yes,105.25,4997.5,Credit card (automatic),No,0,12,Low Risk
+3345-PBBFH,Male,,Yes,No,8,Month-to-month,DSL,No,No,49.55,393.45,Bank transfer (automatic),No,0,23,Low Risk
+7873-CVMAW,Male,,No,No,72,Two year,DSL,Yes,Yes,88.55,6362.35,Credit card (automatic),No,0,2,Low Risk
+2717-HVIZY,Female,,No,Yes,8,Month-to-month,No,No internet service,No internet service,20.05,163.6,Mailed check,No,0,11,Low Risk
+0228-MAUWC,Male,,No,No,19,Month-to-month,DSL,Yes,No,59.55,1144.6,Electronic check,No,0,14,Low Risk
+4948-WBBKL,Female,,No,No,36,Month-to-month,Fiber optic,No,No,74.9,2659.45,Bank transfer (automatic),No,1,55,Medium Risk
+5574-NXZIU,Male,,No,No,63,Two year,Fiber optic,Yes,Yes,109.2,7049.75,Credit card (automatic),No,0,27,Low Risk
+1121-QSIVB,Female,,No,Yes,44,One year,DSL,No,No,77.55,3471.1,Mailed check,No,0,11,Low Risk
+6218-KNUBD,Male,,No,No,6,Month-to-month,DSL,No,No,59.45,357.6,Electronic check,No,0,26,Low Risk
+2615-YVMYX,Male,,Yes,No,71,Month-to-month,Fiber optic,No,Yes,107.5,7713.55,Electronic check,No,0,19,Low Risk
+0409-WTMPL,Female,,Yes,No,58,One year,Fiber optic,No,Yes,110.65,6526.65,Credit card (automatic),No,0,47,Medium Risk
+5949-XIKAE,Female,,Yes,No,8,Month-to-month,Fiber optic,No,No,83.55,680.05,Electronic check,Yes,1,78,High Risk
+1349-WXNGG,Male,,No,No,1,Month-to-month,No,No internet service,No internet service,20.05,20.05,Bank transfer (automatic),Yes,0,18.6,Low Risk
+0870-VEMYL,Female,,No,No,5,Month-to-month,DSL,Yes,Yes,53.85,259.8,Credit card (automatic),Yes,0,45,Medium Risk
+0970-QXPXW,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,19.65,19.65,Mailed check,No,1,53.8,Medium Risk
+0650-BWOZN,Female,,No,No,18,Month-to-month,Fiber optic,No,No,73.55,1359.45,Electronic check,No,0,30,Low Risk
+6878-GGDWG,Female,,Yes,No,32,Month-to-month,No,No internet service,No internet service,19.4,641.15,Bank transfer (automatic),No,0,4,Low Risk
+2260-USTRB,Female,,No,No,2,Month-to-month,Fiber optic,No,No,70.2,115.95,Bank transfer (automatic),Yes,1,79,High Risk
+8020-BWHYL,Female,,No,No,15,Month-to-month,Fiber optic,No,No,75.3,1147.45,Credit card (automatic),Yes,1,56,Medium Risk
+5453-AXEPF,Male,,Yes,No,17,Month-to-month,Fiber optic,No,No,80.5,1336.9,Bank transfer (automatic),No,1,58,Medium Risk
+5364-XYIRR,Male,,Yes,No,51,Month-to-month,Fiber optic,No,No,94.65,4812.75,Electronic check,Yes,1,72,High Risk
+7779-LGOVN,Male,,Yes,No,10,Month-to-month,Fiber optic,No,No,86.65,856.65,Electronic check,Yes,1,76,High Risk
+9846-GKXAS,Female,,No,No,9,Month-to-month,Fiber optic,No,No,90.8,809.75,Bank transfer (automatic),Yes,1,72,High Risk
+4950-HKQTE,Female,,No,No,22,Two year,No,No internet service,No internet service,26.25,605.9,Mailed check,No,0,2,Low Risk
+4860-IJUDE,Male,,No,No,13,Month-to-month,Fiber optic,No,Yes,73.75,956.65,Credit card (automatic),No,0,34,Medium Risk
+7434-SHXLS,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,20.9,20.9,Mailed check,Yes,1,53.8,Medium Risk
+7665-NKLAV,Female,,Yes,Yes,36,Two year,DSL,Yes,Yes,40.65,1547.35,Credit card (automatic),No,0,1,Low Risk
+0297-RBCSG,Male,,No,No,19,One year,DSL,Yes,No,65.35,1231.85,Bank transfer (automatic),No,0,36,Medium Risk
+8904-OPDCK,Male,,Yes,No,54,Month-to-month,DSL,No,No,24.95,1364.75,Bank transfer (automatic),No,0,13,Low Risk
+6402-EJMWF,Male,,No,No,4,Month-to-month,DSL,No,No,55.3,238.5,Mailed check,No,0,47,Medium Risk
+3489-HHPFY,Female,,Yes,No,2,Month-to-month,Fiber optic,No,No,84.05,134.05,Electronic check,No,1,63,High Risk
+4256-ZWTZI,Female,,No,Yes,5,Month-to-month,DSL,Yes,No,51,286.8,Mailed check,No,0,25,Low Risk
+2851-STERV,Male,,No,No,35,One year,DSL,Yes,No,73,2471.25,Electronic check,No,0,34,Medium Risk
+5536-RTPWK,Male,,Yes,No,49,Month-to-month,Fiber optic,No,No,99.05,4853.75,Bank transfer (automatic),Yes,1,55,Medium Risk
+0486-LGCCH,Male,,Yes,Yes,11,Two year,No,No internet service,No internet service,19.65,225.75,Mailed check,No,0,2,Low Risk
+2122-SZZZD,Male,,No,No,44,One year,No,No internet service,No internet service,19.5,835.5,Credit card (automatic),No,0,1,Low Risk
+2380-DAMQP,Female,,Yes,No,72,Two year,Fiber optic,Yes,Yes,115.15,8349.7,Electronic check,No,0,1,Low Risk
+2275-RBYQS,Female,,No,No,1,Month-to-month,DSL,No,No,45.4,45.4,Mailed check,No,1,74,High Risk
+1929-ZCBHE,Male,,Yes,Yes,47,One year,DSL,Yes,Yes,40.3,1794.8,Electronic check,No,0,4,Low Risk
+0129-KPTWJ,Male,,Yes,No,72,Month-to-month,Fiber optic,No,No,94.65,6747.35,Electronic check,No,1,56,Medium Risk
+4500-HKANN,Male,,Yes,No,23,Two year,DSL,Yes,No,59.7,1414.2,Mailed check,No,0,6,Low Risk
+3623-FQBOX,Male,,No,No,21,Month-to-month,No,No internet service,No internet service,19.95,416.4,Mailed check,No,0,1,Low Risk
+4088-YLDSU,Male,,Yes,No,55,One year,Fiber optic,Yes,No,104.15,5743.05,Electronic check,Yes,0,39,Medium Risk
+8404-FYDIB,Male,,No,No,26,Month-to-month,Fiber optic,No,Yes,86.65,2208.75,Credit card (automatic),No,0,31,Medium Risk
+0302-JOIVN,Female,,Yes,No,8,Month-to-month,Fiber optic,No,No,101.15,842.9,Electronic check,Yes,1,87,High Risk
+7619-ODSGN,Male,,Yes,Yes,24,Month-to-month,DSL,No,Yes,54.75,1338.15,Electronic check,Yes,0,1,Low Risk
+0322-YINQP,Male,,No,No,1,Month-to-month,DSL,No,Yes,48.55,48.55,Mailed check,Yes,0,41.3,Medium Risk
+3374-PZLXD,Male,,No,No,34,Month-to-month,No,No internet service,No internet service,19.7,675.6,Mailed check,No,0,1,Low Risk
+6127-ISGTU,Female,,Yes,No,16,Month-to-month,Fiber optic,No,No,84.95,1378.25,Electronic check,Yes,1,70,High Risk
+6164-HXUGH,Female,,Yes,Yes,6,Month-to-month,No,No internet service,No internet service,19.85,119.3,Mailed check,No,0,6,Low Risk
+4712-AUQZO,Male,,No,No,18,Month-to-month,DSL,No,Yes,33.6,550.35,Mailed check,No,0,22,Low Risk
+2446-BEGGB,Female,,No,No,6,Month-to-month,Fiber optic,No,No,98.25,560.6,Electronic check,Yes,1,75,High Risk
+3911-RSNHI,Female,,Yes,No,71,Two year,DSL,Yes,No,61.4,4310.35,Credit card (automatic),No,0,1,Low Risk
+1785-BPHTP,Male,,Yes,Yes,28,Month-to-month,Fiber optic,No,No,85.45,2289.9,Electronic check,No,0,12,Low Risk
+5229-PRWKT,Male,,No,No,8,Month-to-month,Fiber optic,No,No,86.55,649.65,Electronic check,Yes,1,81,High Risk
+2012-NWRPA,Female,,Yes,No,11,Month-to-month,Fiber optic,No,No,99.55,1131.2,Electronic check,Yes,1,100,High Risk
+0479-HMSWA,Female,,No,Yes,26,Two year,Fiber optic,Yes,No,105.45,2715.3,Electronic check,No,0,9,Low Risk
+5331-RGMTT,Male,,Yes,No,54,Month-to-month,Fiber optic,No,No,99.05,5295.7,Credit card (automatic),No,1,70,High Risk
+8741-LQOBK,Female,,Yes,Yes,46,Month-to-month,DSL,No,Yes,35.05,1620.25,Bank transfer (automatic),No,0,15,Low Risk
+4558-FANTW,Female,,Yes,No,17,Month-to-month,Fiber optic,Yes,Yes,91.85,1574.45,Electronic check,Yes,0,42,Medium Risk
+5837-LXSDN,Female,,Yes,Yes,21,One year,DSL,No,No,58.85,1215.45,Credit card (automatic),No,0,8,Low Risk
+2302-OUZXB,Male,,Yes,No,72,Two year,DSL,No,No,82.15,5784.3,Bank transfer (automatic),No,0,16,Low Risk
+6683-VLCTZ,Male,,No,No,20,Month-to-month,Fiber optic,No,No,98.55,1842.8,Electronic check,Yes,1,83,High Risk
+6184-DYUOB,Female,,Yes,No,3,Month-to-month,No,No internet service,No internet service,19.6,55.25,Mailed check,No,0,48,Medium Risk
+6032-KRXXO,Male,,No,No,30,Month-to-month,Fiber optic,No,No,90.25,2755.35,Electronic check,Yes,1,51,Medium Risk
+8910-LEDAG,Male,,Yes,No,34,Month-to-month,Fiber optic,No,No,71.55,2427.35,Credit card (automatic),No,0,47,Medium Risk
+1084-UQCHV,Male,,No,No,1,Month-to-month,Fiber optic,No,No,69.75,69.75,Bank transfer (automatic),Yes,1,93,High Risk
+9142-KZXOP,Male,,No,No,44,Month-to-month,Fiber optic,No,No,68.85,2958.95,Credit card (automatic),No,0,36,Medium Risk
+3351-NGXYI,Female,,No,No,16,Month-to-month,DSL,No,Yes,54.1,889,Electronic check,No,1,70,High Risk
+5666-CYCYZ,Female,,No,No,24,Month-to-month,Fiber optic,Yes,No,89.55,2259.35,Electronic check,No,1,65,High Risk
+1077-HUUJM,Female,,No,Yes,7,Month-to-month,Fiber optic,No,No,71.05,472.65,Electronic check,No,1,69,High Risk
+6311-UEUME,Female,,No,No,29,Month-to-month,Fiber optic,No,No,78.9,2384.15,Electronic check,Yes,0,33,Medium Risk
+2985-JUUBZ,Male,,Yes,Yes,40,Month-to-month,DSL,No,No,74.55,3015.75,Electronic check,No,0,20,Low Risk
+3538-WZPHD,Male,,No,No,3,Month-to-month,DSL,No,No,29.6,79.45,Electronic check,Yes,0,40,Medium Risk
+2239-CFOUJ,Male,,Yes,Yes,1,One year,No,No internet service,No internet service,20.4,20.4,Mailed check,No,0,13,Low Risk
+0604-THJFP,Female,,Yes,No,59,Two year,DSL,Yes,No,75.95,4542.35,Credit card (automatic),No,0,1,Low Risk
+1891-UAWWU,Female,,Yes,No,20,Month-to-month,Fiber optic,No,No,90.8,1951,Electronic check,Yes,0,44,Medium Risk
+2684-EIWEO,Female,,No,No,30,Month-to-month,Fiber optic,No,Yes,91.7,2758.15,Credit card (automatic),Yes,0,13,Low Risk
+5025-GOOKI,Female,,No,No,20,Month-to-month,No,No internet service,No internet service,18.9,347.65,Credit card (automatic),No,0,22,Low Risk
+1322-AGOQM,Male,,No,No,46,Month-to-month,DSL,No,No,30.3,1380.1,Bank transfer (automatic),Yes,0,11,Low Risk
+6168-WFVVF,Female,,No,No,3,Month-to-month,Fiber optic,No,No,70.3,235.5,Electronic check,Yes,0,45,Medium Risk
+5206-HPJKM,Male,,No,No,17,Month-to-month,DSL,No,Yes,55.5,934.15,Credit card (automatic),No,0,22,Low Risk
+2320-JRSDE,Female,,Yes,Yes,1,Month-to-month,No,No internet service,No internet service,19.9,19.9,Electronic check,Yes,0,34.3,Medium Risk
+8191-XWSZG,Female,,No,No,52,One year,No,No internet service,No internet service,20.65,1022.95,Mailed check,No,0,4,Low Risk
+6927-WTFIV,Male,,No,No,20,Month-to-month,Fiber optic,No,No,71.3,1389.2,Credit card (automatic),Yes,0,18,Low Risk
+7729-JTEEC,Male,,Yes,Yes,2,Month-to-month,DSL,No,No,44.5,90.05,Electronic check,No,0,44,Medium Risk
+3199-XGZCY,Female,,No,No,8,Month-to-month,Fiber optic,No,No,75.25,576.7,Electronic check,No,0,18,Low Risk
+7663-ZTEGJ,Male,,No,No,29,One year,Fiber optic,Yes,No,100.55,2830.45,Credit card (automatic),No,0,16,Low Risk
+7570-WELNY,Female,,Yes,No,68,Two year,Fiber optic,No,Yes,84.7,5711.05,Bank transfer (automatic),No,0,1,Low Risk
+8086-OVPWV,Male,,No,No,2,Month-to-month,Fiber optic,No,No,80.2,181.1,Electronic check,Yes,1,85,High Risk
+8190-ZTQFB,Male,,No,No,41,One year,DSL,No,No,51.35,2075.1,Electronic check,No,0,12,Low Risk
+3426-NIYYL,Male,,No,No,15,Month-to-month,DSL,No,No,51.55,765.5,Electronic check,Yes,0,33,Medium Risk
+9689-PTNPG,Male,,No,No,2,Month-to-month,Fiber optic,No,No,80.25,144.55,Electronic check,Yes,0,38,Medium Risk
+3143-JQEGI,Female,,Yes,No,13,Month-to-month,Fiber optic,No,No,88.35,1222.8,Electronic check,Yes,1,72,High Risk
+0761-AETCS,Female,,No,No,1,Month-to-month,No,No internet service,No internet service,19.3,19.3,Electronic check,Yes,0,19,Low Risk
+6030-REHUX,Female,,Yes,No,28,Month-to-month,Fiber optic,Yes,No,110.85,3204.4,Electronic check,No,1,79,High Risk
+5366-IJEQJ,Male,,No,No,20,Month-to-month,Fiber optic,No,No,88.7,1761.45,Electronic check,Yes,1,53,Medium Risk
+4998-IKFSE,Female,,No,No,30,Month-to-month,Fiber optic,No,No,100.45,3096.9,Electronic check,No,0,36,Medium Risk
+0872-CASZJ,Male,,Yes,No,59,One year,DSL,Yes,Yes,69.1,4096.9,Mailed check,No,0,5,Low Risk
+7599-FKVXZ,Male,,Yes,No,42,Month-to-month,Fiber optic,Yes,No,106.15,4512.7,Bank transfer (automatic),Yes,0,50,Medium Risk
+5651-WYIPH,Female,,No,No,18,Month-to-month,DSL,No,No,49.85,865.75,Credit card (automatic),No,0,37,Medium Risk
+5515-RUGKN,Male,,No,No,8,Month-to-month,DSL,No,No,54.75,438.05,Credit card (automatic),No,0,35,Medium Risk
+5060-TQUQN,Male,,Yes,Yes,30,Month-to-month,Fiber optic,Yes,No,83.55,2570.2,Bank transfer (automatic),No,0,6,Low Risk
+8815-LMFLX,Male,,Yes,Yes,25,Month-to-month,No,No internet service,No internet service,25.4,546.85,Bank transfer (automatic),No,0,6,Low Risk
+2828-SLQPF,Male,,No,No,19,Month-to-month,DSL,No,No,45,865.85,Bank transfer (automatic),No,0,31,Medium Risk
+0052-YNYOT,Female,,No,No,67,One year,No,No internet service,No internet service,20.55,1343.4,Electronic check,No,0,19,Low Risk
+7130-YXBRO,Male,,Yes,No,48,Month-to-month,Fiber optic,No,Yes,111.45,5315.1,Bank transfer (automatic),No,0,23,Low Risk
+0963-ZBDRN,Male,,No,No,32,Month-to-month,Fiber optic,Yes,No,96.2,3183.4,Electronic check,Yes,1,52,Medium Risk
+8626-XHBIE,Male,,No,Yes,56,Two year,No,No internet service,No internet service,24.8,1424.2,Mailed check,No,0,3,Low Risk
+7562-GSUHK,Female,,No,No,16,Month-to-month,Fiber optic,No,No,93.2,1573.7,Credit card (automatic),Yes,1,57,Medium Risk
+9420-LOJKX,Female,,No,Yes,15,Month-to-month,Fiber optic,No,Yes,99.1,1426.4,Credit card (automatic),Yes,0,26,Low Risk
+5438-QMDDL,Female,,Yes,No,19,Month-to-month,DSL,No,No,59.8,1130.85,Mailed check,No,0,15,Low Risk
+9866-QEVEE,Male,,No,No,19,Month-to-month,Fiber optic,No,No,86,1532.45,Bank transfer (automatic),Yes,1,58,Medium Risk
+6543-XRMYR,Female,,No,No,30,Month-to-month,Fiber optic,No,No,99.7,2967.35,Electronic check,Yes,1,79,High Risk
+6108-OQZDQ,Female,,Yes,No,4,Month-to-month,Fiber optic,No,No,97.95,384.5,Electronic check,Yes,1,94,High Risk
+9365-SRSZE,Male,,Yes,No,27,Month-to-month,Fiber optic,No,No,70.55,1943.9,Electronic check,No,1,76,High Risk
+8316-BBQAY,Female,,No,No,65,Two year,DSL,Yes,Yes,59.95,3921.1,Credit card (automatic),No,0,3,Low Risk
+9381-NDKME,Female,,Yes,No,24,Month-to-month,DSL,No,No,40.65,933.3,Credit card (automatic),Yes,0,29,Low Risk
+1389-CXMLU,Male,,No,No,3,Month-to-month,Fiber optic,No,No,91.05,289.1,Electronic check,Yes,1,68,High Risk
+7817-BOQPW,Female,,No,No,2,Month-to-month,Fiber optic,No,No,75.55,166.3,Electronic check,Yes,1,89,High Risk
+7394-FKDNK,Female,,Yes,No,9,Month-to-month,Fiber optic,No,No,89.45,853.1,Electronic check,Yes,1,75,High Risk
+0520-FDVVT,Male,,No,No,35,One year,Fiber optic,No,No,102.35,3626.1,Bank transfer (automatic),Yes,0,6,Low Risk
+2400-XIWIO,Female,,Yes,No,71,Two year,DSL,Yes,Yes,90.1,6310.9,Electronic check,No,0,1,Low Risk
+1384-RCUXW,Male,,No,No,16,Month-to-month,Fiber optic,No,No,80.55,1248.9,Mailed check,No,1,58,Medium Risk
+7771-CFQRQ,Female,,Yes,Yes,47,Two year,DSL,Yes,No,63.8,3007.25,Bank transfer (automatic),No,0,3,Low Risk
