@@ -210,7 +210,7 @@ telecom-churn-prediction/
 ![Churn Overview](Churn-prediction/Screenshots/Churn%20Overview.png)
 
 ### Page 2 — High Risk Customers
-![High Risk Customers](Churn-prediction/Screenshots/HIgh%20Risk%20Customer.png)
+![High Risk Customers](Churn-prediction/Screenshots/High%20Risk%20Customer.png)
 
 ### Page 3 — Retention Strategy
 ![Retention Strategy](Churn-prediction/Screenshots/Retention%20Strategy.png)
