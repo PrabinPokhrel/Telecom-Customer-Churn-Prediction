@@ -244,10 +244,10 @@ openpyxl
 ```
 python churn_analysis.py
 ```
-
 ## 👤 Author
 
 **Prabin Pokhrel**
+
 Master's in Business Intelligence — Dalarna University
 - GitHub: [@PrabinPokhrel](https://github.com/PrabinPokhrel)
 ---
