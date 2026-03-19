@@ -225,9 +225,11 @@ git clone https://github.com/PrabinPokhrel/Telecom-Customer-Churn-Prediction.git
 cd Telecom-Customer-Churn-Prediction
 ```
 
+
 ### 2. Install required libraries
 ```
 pip install -r requirements.txt
+
 ```
 
 ### 3. Download the dataset
