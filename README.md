@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction
+# 📡 Telecom Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat&logo=powerbi)
@@ -10,7 +10,7 @@
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 - [Project Overview](#-project-overview)
 - [Dataset](#-dataset)
 - [Project Structure](#-project-structure)
@@ -24,7 +24,7 @@
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 Customer churn costs telecom companies millions every year. Acquiring a new customer costs 5–7× more than retaining an existing one. This project:
 
@@ -36,7 +36,7 @@ Customer churn costs telecom companies millions every year. Acquiring a new cust
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 | Property | Details |
 |---|---|
@@ -58,9 +58,9 @@ Customer churn costs telecom companies millions every year. Acquiring a new cust
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 ```
-Churn-prediction/
+telecom-churn-prediction/
 │
 ├── data/
 │   └── Telco_customer_churn.xlsx
@@ -79,9 +79,9 @@ Churn-prediction/
 │   └── 09_feature_importance.png
 │
 ├── Screenshots/
-│   ├── churn overview.png
-│   ├── high risk.png
-│   └── retention.strategy.png
+│   ├── Churn Overview.png
+│   ├── High Risk Customer.png
+│   └── Retention Strategy.png
 │
 ├── PowerBI/
 │   └── Dashboard.pbix
@@ -92,7 +92,7 @@ Churn-prediction/
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -104,7 +104,7 @@ Churn-prediction/
 
 ---
 
-## Analysis Steps
+## 🔄 Analysis Steps
 
 ### Step 1 — Data Loading & Cleaning
 - Loaded 7,043 rows from Excel file
@@ -136,7 +136,7 @@ Churn-prediction/
 
 ---
 
-##  Key Findings
+## 🔍 Key Findings
 
 | Finding | Detail |
 |---|---|
@@ -151,7 +151,7 @@ Churn-prediction/
 
 ---
 
-## ML Model Results
+## 🤖 ML Model Results
 
 | Model | Accuracy | ROC-AUC |
 |---|---|---|
@@ -167,20 +167,20 @@ Churn-prediction/
 | **Actually Churned** | 183 ❌ | 212 ✅ |
 
 ### Top 10 Churn Predictors
-1. Total Charges (0.205)
-2. Monthly Charges (0.203)
-3. Tenure Months (0.163)
-4. Contract (0.080)
-5. Online Security (0.056)
-6. Payment Method (0.053)
-7. Tech Support (0.038)
-8.  Dependents (0.037)
-9. Partner (0.027)
-10. Online Backup (0.027)
+1. 💰 Total Charges (0.205)
+2. 💳 Monthly Charges (0.203)
+3. 📅 Tenure Months (0.163)
+4. 📋 Contract (0.080)
+5. 🔒 Online Security (0.056)
+6. 💸 Payment Method (0.053)
+7. 🛠️ Tech Support (0.038)
+8. 👨‍👩‍👧 Dependents (0.037)
+9. 💑 Partner (0.027)
+10. 💾 Online Backup (0.027)
 
 ---
 
-## Business Recommendations
+## 💡 Business Recommendations
 
 ### Contract Strategy
 - ✅ Offer discounts to move month-to-month customers to annual contracts
@@ -225,17 +225,28 @@ git clone https://github.com/PrabinPokhrel/telecom-churn-prediction.git
 cd telecom-churn-prediction
 ```
 
-### 2. Download dataset
+### 2. Install libraries
+```
+Install the required libraries:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+```
+
+### 3. Download dataset
 - Go to https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - Download Telco_customer_churn.xlsx
 - Place inside data/ folder
 
-### 3. Run analysis
+### 4. Run analysis
 ```
 python churn_analysis.py
 ```
 
-### 4. View dashboard
+### 5. View dashboard
 - Open PowerBI/Dashboard.pbix in Power BI Desktop
 
 ---
@@ -245,7 +256,6 @@ python churn_analysis.py
 **Prabin Pokhrel**
 Master's in Business Intelligence — Dalarna University
 - GitHub: [@PrabinPokhrel](https://github.com/PrabinPokhrel)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
 ---
 
