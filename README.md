@@ -226,7 +226,6 @@ cd telecom-churn-prediction
 ```
 
 ### 2. Install libraries
-- Install the required libraries:
 ```
 pandas
 numpy
