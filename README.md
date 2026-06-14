@@ -106,21 +106,21 @@ telecom-churn-prediction/
 
 ## 🔄 Analysis Steps
 
-### Step 1 — Data Loading & Cleaning
+### Step 1  Data Loading & Cleaning
 - Loaded 7,043 rows from Excel file
 - Converted `Total Charges` from text to numeric
 - Removed 11 rows with missing values
 - Mapped `Senior Citizen` from 0/1 to Yes/No
 - Final clean dataset: **7,032 customers**
 
-### Step 2 — Exploratory Analysis (5 Charts)
+### Step 2  Exploratory Analysis (5 Charts)
 - Overall churn distribution
 - Churn rate by contract type
 - Monthly charges vs churn (box plot)
 - Customer tenure vs churn (side-by-side histogram)
 - Churn rate by internet service type
 
-### Step 3 — Machine Learning Models
+### Step 3  Machine Learning Models
 - Encoded categorical features using LabelEncoder
 - Split data: 80% train / 20% test (random_state=42)
 - Trained Logistic Regression and Random Forest
@@ -128,7 +128,7 @@ telecom-churn-prediction/
 - Generated churn probability scores per customer
 - Assigned Risk Level: Low / Medium / High
 
-### Step 4 — Power BI Dashboard
+### Step 4  Power BI Dashboard
 - 3-page interactive dashboard
 - Page 1: Churn Overview
 - Page 2: High Risk Customers
@@ -206,13 +206,13 @@ telecom-churn-prediction/
 
 ## 📊 Dashboard Preview
 
-### Page 1 — Churn Overview
+### Page 1  Churn Overview
 ![Churn Overview](Churn-prediction/Screenshots/Churn%20Overview.png)
 
-### Page 2 — High Risk Customers
+### Page 2  High Risk Customers
 ![High Risk Customers](Churn-prediction/Screenshots/High%20Risk%20Customer.png)
 
-### Page 3 — Retention Strategy
+### Page 3  Retention Strategy
 ![Retention Strategy](Churn-prediction/Screenshots/Retention%20Strategy.png)
 
 ---
@@ -243,13 +243,13 @@ python Churn-prediction/churn_analysis.py
 
 ### 5. View the Power BI dashboard
 - Open `Churn-prediction/PowerBI/Dashboard.pbix` in Power BI Desktop
-- Power BI Desktop is free — download from microsoft.com
+- Power BI Desktop is free  download from microsoft.com
 
   
 ## 👤 Author
 
 **Prabin Pokhrel**
-Master's in Business Intelligence — Dalarna University
+Master's in Business Intelligence  Dalarna University
 - GitHub: [@PrabinPokhrel](https://github.com/PrabinPokhrel)
 
 ---
