@@ -48,13 +48,13 @@ Customer churn costs telecom companies millions every year. Acquiring a new cust
 | **Churn Rate** | 26.6% |
 
 **Key Features:**
-- `Contract` — Month-to-month, One year, Two year
-- `Tenure Months` — How long the customer has been with the company
-- `Monthly Charges` — Monthly bill amount
-- `Internet Service` — Fiber optic, DSL, No
-- `Tech Support` — Yes / No
-- `Online Security` — Yes / No
-- `Payment Method` — Electronic check, Mailed check, etc.
+- `Contract`  Month-to-month, One year, Two year
+- `Tenure Months`  How long the customer has been with the company
+- `Monthly Charges`  Monthly bill amount
+- `Internet Service`  Fiber optic, DSL, No
+- `Tech Support`  Yes / No
+- `Online Security`  Yes / No
+- `Payment Method`  Electronic check, Mailed check, etc.
 
 ---
 
