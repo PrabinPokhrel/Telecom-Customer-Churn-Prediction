@@ -140,9 +140,9 @@ telecom-churn-prediction/
 
 | Finding | Detail |
 |---|---|
-| Overall churn rate | **26.6%** — 1,869 out of 7,032 customers left |
+| Overall churn rate | **26.6%** - 1,869 out of 7,032 customers left |
 | Highest risk contract | Month-to-month **42.7%** vs Two year **2.8%** |
-| Internet service risk | Fiber optic **41.9%** — highest churn type |
+| Internet service risk | Fiber optic **41.9%** - highest churn type |
 | Salary gap | Churned customers pay median **$80/mo** vs **$64/mo** retained |
 | Early churn danger | **600 customers** churned in first 3 months |
 | Long-term loyalty | Customers with 70+ months tenure almost never leave |
@@ -158,7 +158,7 @@ telecom-churn-prediction/
 | **Logistic Regression** | **80.5%** | **0.856** |
 | Random Forest | 79.2% | 0.831 |
 
-> Logistic Regression outperformed Random Forest — common for telecom churn datasets where feature-churn relationships are largely linear.
+> Logistic Regression outperformed Random Forest - common for telecom churn datasets where feature-churn relationships are largely linear.
 
 ### Confusion Matrix (Random Forest)
 | | Predicted Retained | Predicted Churned |
