@@ -151,7 +151,7 @@ telecom-churn-prediction/
 
 ---
 
-## 🤖 ML Model Results
+## ML Model Results
 
 | Model | Accuracy | ROC-AUC |
 |---|---|---|
@@ -167,16 +167,16 @@ telecom-churn-prediction/
 | **Actually Churned** | 183 ❌ | 212 ✅ |
 
 ### Top 10 Churn Predictors
-1. 💰 Total Charges (0.205)
-2. 💳 Monthly Charges (0.203)
-3. 📅 Tenure Months (0.163)
-4. 📋 Contract (0.080)
-5. 🔒 Online Security (0.056)
-6. 💸 Payment Method (0.053)
-7. 🛠️ Tech Support (0.038)
-8. 👨‍👩‍👧 Dependents (0.037)
-9. 💑 Partner (0.027)
-10. 💾 Online Backup (0.027)
+1.  Total Charges (0.205)
+2.  Monthly Charges (0.203)
+3.  Tenure Months (0.163)
+4.  Contract (0.080)
+5.  Online Security (0.056)
+6.  Payment Method (0.053)
+7.  Tech Support (0.038)
+8.  Dependents (0.037)
+9.  Partner (0.027)
+10.  Online Backup (0.027)
 
 ---
 
